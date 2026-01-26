@@ -1,0 +1,4 @@
+out/*
+!out/**/*metrics.json.gz
+!out/performances.tsv
+!out/metrics_collectors
