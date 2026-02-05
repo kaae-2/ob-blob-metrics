@@ -43,7 +43,22 @@
       123154,
       364473
     ],
+    "n_variables": 35,
     "population_count": 6,
+    "sub_sampling": 0
+  },
+  "dataset_name-Levine_seed-42": {
+    "sample_count": 2,
+    "sample_names": [
+      "Levine_32_H1_annotated.csv",
+      "Levine_32_H2_annotated.csv"
+    ],
+    "cells_per_sample": [
+      191351,
+      74276
+    ],
+    "n_variables": 32,
+    "population_count": 15,
     "sub_sampling": 0
   },
   "dataset_name-FR-FCM-Z2KP_healthy_final_seed-42": {
@@ -64,6 +79,7 @@
       298047,
       248917
     ],
+    "n_variables": 35,
     "population_count": 6,
     "sub_sampling": 0
   },
@@ -133,6 +149,7 @@
       755013,
       347593
     ],
+    "n_variables": 34,
     "population_count": 28,
     "sub_sampling": 0
   },
@@ -162,21 +179,31 @@
       83506,
       75513
     ],
+    "n_variables": 39,
     "population_count": 25,
     "sub_sampling": 0
   },
-  "dataset_name-Levine_seed-420_sub-sampling-10000": {
-    "sample_count": 2,
+  "dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000": {
+    "sample_count": 6,
     "sample_names": [
-      "Levine_32_H1_annotated.csv",
-      "Levine_32_H2_annotated.csv"
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
     ],
     "cells_per_sample": [
-      191351,
-      74276
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
     ],
-    "population_count": 15,
-    "sub_sampling": 10000
+    "n_variables": 35,
+    "population_count": 6,
+    "sub_sampling": 100000
   },
   "dataset_name-FR-FCM-Z238_infection_final_seed-42": {
     "sample_count": 43,
@@ -270,21 +297,9 @@
       107577,
       69315
     ],
+    "n_variables": 48,
     "population_count": 25,
     "sub_sampling": 0
-  },
-  "dataset_name-Levine_seed-420_sub-sampling-100000": {
-    "sample_count": 2,
-    "sample_names": [
-      "Levine_32_H1_annotated.csv",
-      "Levine_32_H2_annotated.csv"
-    ],
-    "cells_per_sample": [
-      191351,
-      74276
-    ],
-    "population_count": 15,
-    "sub_sampling": 100000
   },
   "dataset_name-Transformed_seed-42": {
     "sample_count": 16,
@@ -324,20 +339,166 @@
       11653,
       13670
     ],
+    "n_variables": 24,
     "population_count": 8,
     "sub_sampling": 0
   },
-  "dataset_name-Levine_seed-420_sub-sampling-50000": {
-    "sample_count": 2,
+  "dataset_name-flowcyt_seed-42": {
+    "sample_count": 30,
     "sample_names": [
-      "Levine_32_H1_annotated.csv",
-      "Levine_32_H2_annotated.csv"
+      "Case_1.csv",
+      "Case_10.csv",
+      "Case_11.csv",
+      "Case_12.csv",
+      "Case_13.csv",
+      "Case_14.csv",
+      "Case_15.csv",
+      "Case_16.csv",
+      "Case_17.csv",
+      "Case_18.csv",
+      "Case_19.csv",
+      "Case_2.csv",
+      "Case_20.csv",
+      "Case_21.csv",
+      "Case_22.csv",
+      "Case_23.csv",
+      "Case_24.csv",
+      "Case_25.csv",
+      "Case_26.csv",
+      "Case_27.csv",
+      "Case_28.csv",
+      "Case_29.csv",
+      "Case_3.csv",
+      "Case_30.csv",
+      "Case_4.csv",
+      "Case_5.csv",
+      "Case_6.csv",
+      "Case_7.csv",
+      "Case_8.csv",
+      "Case_9.csv"
     ],
     "cells_per_sample": [
-      191351,
-      74276
+      544467,
+      530434,
+      1000121,
+      503554,
+      417481,
+      333024,
+      921621,
+      253638,
+      1000201,
+      979314,
+      437266,
+      272312,
+      507340,
+      1000124,
+      1000044,
+      545184,
+      1000057,
+      1000012,
+      314650,
+      209983,
+      819240,
+      1000035,
+      586479,
+      1000014,
+      624492,
+      1000153,
+      980951,
+      975948,
+      989002,
+      507725
     ],
-    "population_count": 15,
+    "n_variables": 12,
+    "population_count": 6,
+    "sub_sampling": 0
+  },
+  "dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000": {
+    "sample_count": 6,
+    "sample_names": [
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
+    ],
+    "n_variables": 35,
+    "population_count": 6,
+    "sub_sampling": 1000
+  },
+  "dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000": {
+    "sample_count": 6,
+    "sample_names": [
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
+    ],
+    "n_variables": 35,
+    "population_count": 6,
+    "sub_sampling": 10000
+  },
+  "dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000": {
+    "sample_count": 6,
+    "sample_names": [
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
+    ],
+    "n_variables": 35,
+    "population_count": 6,
     "sub_sampling": 50000
+  },
+  "dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000": {
+    "sample_count": 6,
+    "sample_names": [
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
+    ],
+    "n_variables": 35,
+    "population_count": 6,
+    "sub_sampling": 5000
   }
 }

@@ -96,6 +96,8 @@ kable(dominant_fpr_table)
 
 ## Plots
 
+Note: Runtime scatter plots skipped because performances.tsv was not found.
+
 ```{r}
 knitr::include_graphics('plots/f1_macro_boxplot.png')
 ```
