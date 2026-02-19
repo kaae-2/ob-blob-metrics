@@ -86,25 +86,6 @@
     "sub_sampling": 0,
     "dataset_name": "FR-FCM-Z2KP_healthy_final"
   },
-  "dataset_name-panel_CD20_seed-42": {
-    "sample_count": 4,
-    "sample_names": [
-      "Specimen_001_donor_1_CD1cpos_CD20_005.fcs_annotated.csv",
-      "Specimen_001_donor_1_rest_CD20_004.fcs_annotated.csv",
-      "Specimen_001_donor_2_CD1cpos_CD20_010.fcs_annotated.csv",
-      "Specimen_001_donor_2_rest_CD20_009.fcs_annotated.csv"
-    ],
-    "cells_per_sample": [
-      116574,
-      492534,
-      75967,
-      490896
-    ],
-    "n_variables": 8,
-    "population_count": 7,
-    "sub_sampling": 0,
-    "dataset_name": "panel_CD20"
-  },
   "dataset_name-FR-FCM-Z3YR_seed-42": {
     "sample_count": 30,
     "sample_names": [
@@ -509,25 +490,6 @@
     "population_count": 6,
     "sub_sampling": 50000,
     "dataset_name": "FR-FCM-Z2KP_healthy_final"
-  },
-  "dataset_name-panel_CD56_seed-42": {
-    "sample_count": 4,
-    "sample_names": [
-      "Specimen_001_donor_1_CD1cpos_CD56_002.fcs_annotated.csv",
-      "Specimen_001_donor_1_rest_CD56_001.fcs_annotated.csv",
-      "Specimen_001_donor_2_CD1cpos_CD56_007.fcs_annotated.csv",
-      "Specimen_001_donor_2_rest_CD56_006.fcs_annotated.csv"
-    ],
-    "cells_per_sample": [
-      63609,
-      679897,
-      58714,
-      783238
-    ],
-    "n_variables": 8,
-    "population_count": 9,
-    "sub_sampling": 0,
-    "dataset_name": "panel_CD56"
   },
   "dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000": {
     "sample_count": 6,
