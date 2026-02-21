@@ -45,52 +45,75 @@ dataset_name-FR-FCM-Z238_infection_final_seed-42	cygate	6	CD4+ T Cell (Central M
 dataset_name-FR-FCM-Z238_infection_final_seed-42	cygate	7	CD4+ T Cell (EMRA)	CD4+ T Cell (EMRA)	0.22844737868994874	0.06763659678152308	0.08021794039574257	0.10721287808347982	5
 dataset_name-FR-FCM-Z238_infection_final_seed-42	cygate	8	CD4+ T Cell (Effector Memory)	CD4+ T Cell (Effector Memory)	0.597030152615507	0.1023526890159767	0.030468840996359905	0.24149664799422785	5
 dataset_name-FR-FCM-Z238_infection_final_seed-42	cygate	9	CD4+ T Cell (Naive)	CD4+ T Cell (Naive)	0.701564631551992	0.028468647273171766	0.10095879713287571	0.14735494875690108	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	1	B Cell (CD27-)	B Cell (CD27-)	0.9582851760021859	0.018873556635730794	0.022480221613308815	0.028646547412492597	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	10	CD4+ T Cell (Treg)	CD4+ T Cell (Treg)	0.6845889917090404	0.023820621476133508	0.11879173103508484	0.14084484550490595	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	11	CD4- CD8- T Cell	CD4- CD8- T Cell	0.8295508568319675	0.10523575373750413	0.19007457503941635	0.07637464875990863	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	12	CD8+ T Cell (Central Memory)	CD8+ T Cell (Central Memory)	0.6171138334056174	0.08039463101077651	0.073894195008087707	0.17642483534805495	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	13	CD8+ T Cell (EMRA)	CD8+ T Cell (EMRA)	0.6983405929478133	0.12549177195851863	0.07700342572403408	0.2268332909450172	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	14	CD8+ T Cell (Effector Memory)	CD8+ T Cell (Effector Memory)	0.47517724123129085	0.096921850129433	0.16335185660643534	0.23396825477596425	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	15	CD8+ T Cell (Naive)	CD8+ T Cell (Naive)	0.7945752349727463	0.17284804224530326	0.04689095951315998	0.24148933872104975	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	16	Dendritic Cell (Type 1, CD141+)	Dendritic Cell (Type 1, CD141+)	0.27495311203907113	0.1510843113900015	0.15633894115816982	0.1638365836804161	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	17	Dendritic Cell (Type 2, CD1c+)	Dendritic Cell (Type 2, CD1c+)	0.17044881492687847	NA	NA	0.18615541290515492	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	18	Monocyte (CD14+ CD16+)	Monocyte (CD14+ CD16+)	0.7480049402167083	0.03451377383286734	0.10316675947993943	0.0948515850979648	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	19	Monocyte (CD14+ CD16-)	Monocyte (CD14+ CD16-)	0.9660036917135383	0.00418960744329159	0.01598989216561281	0.02274491113800944	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	2	B Cell (Memory)	B Cell (Memory)	0.8882963458178941	0.05565478251759726	0.06975390740550315	0.05876597356658677	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	20	Monocyte (CD14- CD16+)	Monocyte (CD14- CD16+)	0.5845192430565355	0.20584072448563145	0.19386602073674997	0.29238746008254907	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	21	NK Cell (CD56+ CD16+)	NK Cell (CD56+ CD16+)	0.9343124252258465	0.016199934692657608	0.03811435007755299	0.01216620355985568	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	22	NK Cell (CD56+ CD16-)	NK Cell (CD56+ CD16-)	0.7524007531638699	0.09940223596456901	0.04349767864412401	0.14428252579922837	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	23	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell	0.9752225131340638	0.016493417754563235	0.03146570764422911	0.004314395227831319	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	3	B Cell (Plasmablast)	B Cell (Plasmablast)	0.7090337934441008	0.12410879212699659	0.02868271364421758	0.19311108225945445	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	4	Basophil	Basophil	0.9230312802933816	0.038476935267664034	0.003566445154297668	0.5038299939927461	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	5	CD4+ CD8+ T Cell	CD4+ CD8+ T Cell	0.6892046667321877	0.010971976247053887	0.014264430110957184	0.45603421185726684	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	6	CD4+ T Cell (Central Memory)	CD4+ T Cell (Central Memory)	0.6462244800879658	0.0693535504782805	0.157025137251838	0.20801015732253936	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	7	CD4+ T Cell (EMRA)	CD4+ T Cell (EMRA)	0.36403941117259736	0.08498539252744683	0.17156398864022224	0.14125164633775808	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	8	CD4+ T Cell (Effector Memory)	CD4+ T Cell (Effector Memory)	0.6311661208330988	0.055455925916532124	0.15036708845809835	0.22362346583110781	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	9	CD4+ T Cell (Naive)	CD4+ T Cell (Naive)	0.703457596027434	0.051047869979150194	0.13446814026083104	0.18225595340851936	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	1	B Cell (CD27-)	B Cell (CD27-)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	10	CD4+ T Cell (Treg)	CD4+ T Cell (Treg)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	11	CD4- CD8- T Cell	CD4- CD8- T Cell	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	12	CD8+ T Cell (Central Memory)	CD8+ T Cell (Central Memory)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	13	CD8+ T Cell (EMRA)	CD8+ T Cell (EMRA)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	14	CD8+ T Cell (Effector Memory)	CD8+ T Cell (Effector Memory)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	15	CD8+ T Cell (Naive)	CD8+ T Cell (Naive)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	16	Dendritic Cell (Type 1, CD141+)	Dendritic Cell (Type 1, CD141+)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	17	Dendritic Cell (Type 2, CD1c+)	Dendritic Cell (Type 2, CD1c+)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	18	Monocyte (CD14+ CD16+)	Monocyte (CD14+ CD16+)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	19	Monocyte (CD14+ CD16-)	Monocyte (CD14+ CD16-)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	2	B Cell (Memory)	B Cell (Memory)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	20	Monocyte (CD14- CD16+)	Monocyte (CD14- CD16+)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	21	NK Cell (CD56+ CD16+)	NK Cell (CD56+ CD16+)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	22	NK Cell (CD56+ CD16-)	NK Cell (CD56+ CD16-)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	23	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	3	B Cell (Plasmablast)	B Cell (Plasmablast)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	4	Basophil	Basophil	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	5	CD4+ CD8+ T Cell	CD4+ CD8+ T Cell	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	6	CD4+ T Cell (Central Memory)	CD4+ T Cell (Central Memory)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	7	CD4+ T Cell (EMRA)	CD4+ T Cell (EMRA)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	8	CD4+ T Cell (Effector Memory)	CD4+ T Cell (Effector Memory)	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass	9	CD4+ T Cell (Naive)	CD4+ T Cell (Naive)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	1	B Cell (CD27-)	B Cell (CD27-)	0.964332380436048	0.012353981129795336	0.011685565416564564	0.028361896469759004	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	10	CD4+ T Cell (Treg)	CD4+ T Cell (Treg)	0.6873876460292787	0.04011695849267626	0.14228871068136117	0.12966511939232975	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	11	CD4- CD8- T Cell	CD4- CD8- T Cell	0.8188843747018165	0.1198100113792212	0.20769803577017149	0.0555156470305096	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	12	CD8+ T Cell (Central Memory)	CD8+ T Cell (Central Memory)	0.5323309042188284	0.10828930348301305	0.18371628061721693	0.24515683394643017	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	13	CD8+ T Cell (EMRA)	CD8+ T Cell (EMRA)	0.706532672778953	0.15123661691654305	0.06960683645125422	0.23307162677858817	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	14	CD8+ T Cell (Effector Memory)	CD8+ T Cell (Effector Memory)	0.4580832137977864	0.09010353337385449	0.09911868821768233	0.19186880310430732	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	15	CD8+ T Cell (Naive)	CD8+ T Cell (Naive)	0.7388486052081424	0.19946743223925043	0.04631668373367613	0.26818365538720057	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	16	Dendritic Cell (Type 1, CD141+)	Dendritic Cell (Type 1, CD141+)	0.33004362053544123	0.09868599938528198	0.09393747421322823	0.1691247799778421	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	17	Dendritic Cell (Type 2, CD1c+)	Dendritic Cell (Type 2, CD1c+)	0.1436751691827173	NA	NA	0.15200856201722707	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	18	Monocyte (CD14+ CD16+)	Monocyte (CD14+ CD16+)	0.7558811156605528	0.04018936641742903	0.10887662082310678	0.08232081078790558	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	19	Monocyte (CD14+ CD16-)	Monocyte (CD14+ CD16-)	0.9657390930186689	0.007841462070263532	0.014007751644389712	0.02801088263370264	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	2	B Cell (Memory)	B Cell (Memory)	0.9094064754456352	0.034640913152190526	0.06833008392710432	0.0217768810235166	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	20	Monocyte (CD14- CD16+)	Monocyte (CD14- CD16+)	0.6561794647750958	0.09215305067582917	0.16062648963381718	0.1885690261557412	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	21	NK Cell (CD56+ CD16+)	NK Cell (CD56+ CD16+)	0.937372008160903	0.0141974883126447	0.03859540072517712	0.01752881157408765	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	22	NK Cell (CD56+ CD16-)	NK Cell (CD56+ CD16-)	0.7710177613052577	0.08499924734123564	0.04661285092059767	0.1407742256078852	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	23	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell	0.9717596723762574	0.014651881499376185	0.03028441658333124	0.003409193660424682	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	3	B Cell (Plasmablast)	B Cell (Plasmablast)	0.6671673263565164	0.16141061846983923	0.012948535514879726	0.21966306039196706	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	4	Basophil	Basophil	0.9156632288615034	0.024616894924573647	0.06702173418627712	0.5107249413822967	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	5	CD4+ CD8+ T Cell	CD4+ CD8+ T Cell	0.6704477491795742	0.05826666439873626	0.018054617415224315	0.45023543661096965	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	6	CD4+ T Cell (Central Memory)	CD4+ T Cell (Central Memory)	0.6498328966478456	0.0706568201196238	0.14119852292860874	0.1895176810530288	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	7	CD4+ T Cell (EMRA)	CD4+ T Cell (EMRA)	0.35753424389298816	0.09586208085156961	0.18718972180811272	0.12348038645365991	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	8	CD4+ T Cell (Effector Memory)	CD4+ T Cell (Effector Memory)	0.6574328303974634	0.04187774329875513	0.12387236888880246	0.18299439397006256	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	dgcytof	9	CD4+ T Cell (Naive)	CD4+ T Cell (Naive)	0.7004863515534885	0.047519909021935716	0.1456609638982132	0.17426010134359543	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	1	B Cell (CD27-)	B Cell (CD27-)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	10	CD4+ T Cell (Treg)	CD4+ T Cell (Treg)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	11	CD4- CD8- T Cell	CD4- CD8- T Cell	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	12	CD8+ T Cell (Central Memory)	CD8+ T Cell (Central Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	13	CD8+ T Cell (EMRA)	CD8+ T Cell (EMRA)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	14	CD8+ T Cell (Effector Memory)	CD8+ T Cell (Effector Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	15	CD8+ T Cell (Naive)	CD8+ T Cell (Naive)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	16	Dendritic Cell (Type 1, CD141+)	Dendritic Cell (Type 1, CD141+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	17	Dendritic Cell (Type 2, CD1c+)	Dendritic Cell (Type 2, CD1c+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	18	Monocyte (CD14+ CD16+)	Monocyte (CD14+ CD16+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	19	Monocyte (CD14+ CD16-)	Monocyte (CD14+ CD16-)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	2	B Cell (Memory)	B Cell (Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	20	Monocyte (CD14- CD16+)	Monocyte (CD14- CD16+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	21	NK Cell (CD56+ CD16+)	NK Cell (CD56+ CD16+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	22	NK Cell (CD56+ CD16-)	NK Cell (CD56+ CD16-)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	23	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	3	B Cell (Plasmablast)	B Cell (Plasmablast)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	4	Basophil	Basophil	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	5	CD4+ CD8+ T Cell	CD4+ CD8+ T Cell	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	6	CD4+ T Cell (Central Memory)	CD4+ T Cell (Central Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	7	CD4+ T Cell (EMRA)	CD4+ T Cell (EMRA)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	8	CD4+ T Cell (Effector Memory)	CD4+ T Cell (Effector Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[E]	9	CD4+ T Cell (Naive)	CD4+ T Cell (Naive)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	1	B Cell (CD27-)	B Cell (CD27-)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	10	CD4+ T Cell (Treg)	CD4+ T Cell (Treg)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	11	CD4- CD8- T Cell	CD4- CD8- T Cell	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	12	CD8+ T Cell (Central Memory)	CD8+ T Cell (Central Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	13	CD8+ T Cell (EMRA)	CD8+ T Cell (EMRA)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	14	CD8+ T Cell (Effector Memory)	CD8+ T Cell (Effector Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	15	CD8+ T Cell (Naive)	CD8+ T Cell (Naive)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	16	Dendritic Cell (Type 1, CD141+)	Dendritic Cell (Type 1, CD141+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	17	Dendritic Cell (Type 2, CD1c+)	Dendritic Cell (Type 2, CD1c+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	18	Monocyte (CD14+ CD16+)	Monocyte (CD14+ CD16+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	19	Monocyte (CD14+ CD16-)	Monocyte (CD14+ CD16-)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	2	B Cell (Memory)	B Cell (Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	20	Monocyte (CD14- CD16+)	Monocyte (CD14- CD16+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	21	NK Cell (CD56+ CD16+)	NK Cell (CD56+ CD16+)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	22	NK Cell (CD56+ CD16-)	NK Cell (CD56+ CD16-)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	23	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	3	B Cell (Plasmablast)	B Cell (Plasmablast)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	4	Basophil	Basophil	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	5	CD4+ CD8+ T Cell	CD4+ CD8+ T Cell	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	6	CD4+ T Cell (Central Memory)	CD4+ T Cell (Central Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	7	CD4+ T Cell (EMRA)	CD4+ T Cell (EMRA)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	8	CD4+ T Cell (Effector Memory)	CD4+ T Cell (Effector Memory)	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z238_infection_final_seed-42	gatemeclass[V]	9	CD4+ T Cell (Naive)	CD4+ T Cell (Naive)	NA	NA	NA	0	5
 dataset_name-FR-FCM-Z238_infection_final_seed-42	knn	1	B Cell (CD27-)	B Cell (CD27-)	0.8753172153308569	0.01931363172532112	0.01577475939931027	0.04406163479085398	5
 dataset_name-FR-FCM-Z238_infection_final_seed-42	knn	10	CD4+ T Cell (Treg)	CD4+ T Cell (Treg)	0.20651991091567187	0.04726057554788146	0.049864459472178047	0.037068905594334324	5
 dataset_name-FR-FCM-Z238_infection_final_seed-42	knn	11	CD4- CD8- T Cell	CD4- CD8- T Cell	0.3550719271941987	0.04144745823795717	0.04356206060679535	0.04991149492654192	5
@@ -170,16 +193,21 @@ dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	cygate	2	CD19	CD19	0.991283674009
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	cygate	3	CD3+	CD3+	0.5308972919959913	0.20293771781046482	0.21789040397077833	0.20011167369954982	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	cygate	4	CD4	CD4	0.9733545509314425	0.009948838490353695	0.012879315685613058	0.009458031773236094	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	cygate	5	CD8	CD8	0.858483996546712	0.13348599335070513	0.03749378362686627	0.2122582455182215	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9918619292226614	0.008044333419144192	0.0013475067513973144	0.016537933071547745	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	2	CD19	CD19	0.9880543702320819	0.010114362297126011	0.002895454956180538	0.01844247280885324	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	3	CD3+	CD3+	0.4280727772086312	0.31979732586437604	0.14533407273876306	0.3730026083895851	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	4	CD4	CD4	0.9830772481494007	0.005801746576051839	0.010323624918704288	0.0031451315151998453	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	5	CD8	CD8	0.8844550067923552	0.05661601015440842	0.09370361789398024	0.0849797178809476	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass	1	CD14 monocytes	CD14 monocytes	0.6933872874558937	0.31630865329634467	0.39846352654203215	0.05641168743866119	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass	2	CD19	CD19	0.9415624654886954	0.02099597727365602	0.05167533507552473	0.027860838292536546	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass	3	CD3+	CD3+	0.16818728439207348	0.03928293100837456	0.07399382421405064	0.1572882876697905	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass	4	CD4	CD4	0.5708217665002244	0.24482399461981985	0.08242201932806348	0.3680769781112785	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass	5	CD8	CD8	0.10809905245127413	0.09575825819071236	0.05986955171151359	0.09186367108278909	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9912727444951879	0.008813757127418767	4.277603081669996e-4	0.01719008231324985	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	2	CD19	CD19	0.9866389111705903	0.010779705084694934	0.003032113922498155	0.01962504328962307	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	3	CD3+	CD3+	0.5740761347594622	0.25951430484208193	0.1037537202233727	0.31340266639278147	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	4	CD4	CD4	0.9849825768054322	0.008073537170133904	0.015600433130913397	0.006363778721762555	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	dgcytof	5	CD8	CD8	0.9245889158727659	0.04346947124228366	0.07699930642623345	0.006762878535240631	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[E]	1	CD14 monocytes	CD14 monocytes	0.6933872874558937	0.31630865329634467	0.39846352654203215	0.05641168743866119	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[E]	2	CD19	CD19	0.9415624654886954	0.02099597727365602	0.05167533507552473	0.027860838292536546	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[E]	3	CD3+	CD3+	0.16818728439207348	0.03928293100837456	0.07399382421405064	0.1572882876697905	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[E]	4	CD4	CD4	0.5708217665002244	0.24482399461981985	0.08242201932806348	0.3680769781112785	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[E]	5	CD8	CD8	0.10809905245127413	0.09575825819071236	0.05986955171151359	0.09186367108278909	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[V]	1	CD14 monocytes	CD14 monocytes	0.4549010455299599	0.3706145656312202	0.05203451386569068	0.35329266634273304	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[V]	2	CD19	CD19	0.6942650952764804	0.12077998029926376	0.22749926453268224	0.12240587076289465	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[V]	3	CD3+	CD3+	0.08525443735760883	0.08791204996330984	0.12103451691992162	0.06469014341158359	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[V]	4	CD4	CD4	0.5452236326482526	0.3406828902015014	0.11335614705201917	0.4516855506241669	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	gatemeclass[V]	5	CD8	CD8	0.09309585408014512	0.15948050849130666	0.09381260318828283	0.31782193861794444	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	knn	1	CD14 monocytes	CD14 monocytes	0.8164349436238691	0.027743470254496253	0.11224105878680346	0.07711414802386522	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	knn	2	CD19	CD19	0.508777799314459	0.0702572887636426	0.14858450581445923	0.058580832477277786	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-42	knn	3	CD3+	CD3+	0.17728124900646564	0.02662630659168756	0.033258710710024675	0.04051105574683163	5
@@ -205,16 +233,21 @@ dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	cygate	2	CD19	
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	cygate	3	CD3+	CD3+	0.5092400644542574	0.19807439796828294	0.1687661532315752	0.2652118984984313	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	cygate	4	CD4	CD4	0.970344185068045	0.008920026330954118	0.019309970481160777	0.010369120401104957	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	cygate	5	CD8	CD8	0.8545036559782302	0.13862986206751954	0.03561038553342053	0.21534870133105927	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.8614759512808553	0.0530570710486041	0.13343061139678633	0.08000381636308226	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	2	CD19	CD19	0.8037146114578041	0.11758697872077029	0.060866828208652635	0.16267696109162974	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	3	CD3+	CD3+	0.17821403230404953	0.10706176968780909	0.04849339036762747	0.1010876620642539	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	4	CD4	CD4	0.7905237007949826	0.1726815430367553	0.07802761143534932	0.2794488701076143	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	5	CD8	CD8	0.6026713435046089	0.11570368276300434	0.25537469184234235	0.22792084715931693	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass	1	CD14 monocytes	CD14 monocytes	0.7129645603453224	0.3568905555676094	0.3008165221655152	0.42101130994362596	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass	2	CD19	CD19	0.9579799598682212	0.011500177121456814	0.027155403404200806	0.019376694363643057	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass	3	CD3+	CD3+	0.09058870290327938	0.05552655140902356	0.05145876048442078	0.39053367967460384	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass	4	CD4	CD4	0.18681436215734032	0.3055146750803424	0.2500778354356274	0.20169687208139622	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass	5	CD8	CD8	0.3483960933930962	0.03319435809813231	0.03205052780472258	0.463164426608725	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.8439796742691246	0.06353313917950691	0.04880516653439326	0.12660460684335215	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	2	CD19	CD19	0.5412739690200056	0.30877868044053375	0.24558989579418755	0.38711384204654276	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	3	CD3+	CD3+	0.08963154218756621	0.08431032684963331	0.13705293403727703	0.0554939355514039	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	4	CD4	CD4	0.6968303455242161	0.39050623928067946	0.12060973540232012	0.4172980356613011	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	dgcytof	5	CD8	CD8	0.6362380828529679	0.20733788508024623	0.27729168751407496	0.1338247553853019	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[E]	1	CD14 monocytes	CD14 monocytes	0.7129645603453224	0.3568905555676094	0.3008165221655152	0.42101130994362596	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[E]	2	CD19	CD19	0.9579799598682212	0.011500177121456814	0.027155403404200806	0.019376694363643057	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[E]	3	CD3+	CD3+	0.09058870290327938	0.05552655140902356	0.05145876048442078	0.39053367967460384	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[E]	4	CD4	CD4	0.18681436215734032	0.3055146750803424	0.2500778354356274	0.20169687208139622	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[E]	5	CD8	CD8	0.3483960933930962	0.03319435809813231	0.03205052780472258	0.463164426608725	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[V]	1	CD14 monocytes	CD14 monocytes	0.465615885691192	0.2951233378716887	0.08306271827795966	0.342289280401758	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[V]	2	CD19	CD19	0.7004915608186418	0.12091302315728715	0.18486862250571126	0.18265537414416638	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[V]	3	CD3+	CD3+	0.09052832033718161	0.036074714886794895	0.01855809873979837	0.17068242129424854	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[V]	4	CD4	CD4	0.3807598113818674	0.30428060989050165	0.22182696114781691	0.4103546598551443	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	gatemeclass[V]	5	CD8	CD8	0.13835574719533889	0.14465575677908546	0.07940274854006941	0.30862963238218705	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	knn	1	CD14 monocytes	CD14 monocytes	0.807724550775229	0.042092551849581626	0.12522539780378264	0.07493352803354496	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	knn	2	CD19	CD19	0.4386791488831542	0.07054604303160521	0.17268151960734582	0.10836604103096334	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-1000	knn	3	CD3+	CD3+	0.16830576388017413	0.03074150519570408	0.027904437362948262	0.06492510074751362	5
@@ -240,16 +273,21 @@ dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	cygate	2	CD19
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	cygate	3	CD3+	CD3+	0.49731233615111275	0.12922198308886979	0.1796179848728808	0.14606931616273072	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	cygate	4	CD4	CD4	0.9682726887621265	0.01162590089949647	0.018270056144959215	0.013809302055563296	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	cygate	5	CD8	CD8	0.8176304579076628	0.132191276680237	0.038292490817165	0.21927883564185713	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9509507396187366	0.03186860296159089	0.0490975909859091	0.06697044638553411	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	2	CD19	CD19	0.9696552301147917	0.010975650269715014	0.013369064386502599	0.025652842482355085	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	3	CD3+	CD3+	0.2748410775647777	0.13484809894229374	0.13247059715453072	0.15987818148430064	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	4	CD4	CD4	0.9588698847244292	0.00955733646607454	0.017723323578730625	0.02643518790188306	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	5	CD8	CD8	0.8133053726631849	0.06342122446986144	0.10021002653693804	0.14890206082437468	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass	1	CD14 monocytes	CD14 monocytes	0.7820235319600807	0.3331758111679596	0.04185192303917204	0.3673712900931726	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass	2	CD19	CD19	0.9543747715874542	0.008839731344801122	0.029973293847679498	0.018904894043046527	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass	3	CD3+	CD3+	0.04067408152516843	0.047744821912303705	0.028872888886032885	0.08405959444386976	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass	4	CD4	CD4	0.5553711077044863	0.23691901538904703	0.05554165690360604	0.34474375038188854	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass	5	CD8	CD8	0.3165672504120378	0.11745087538740458	0.03381119020477844	0.41520510282525247	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9421819915530224	0.0347639365474264	0.023376767033707124	0.07735179683309887	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	2	CD19	CD19	0.9491269355867404	0.027437810986220685	0.040324031624896055	0.06432850848770302	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	3	CD3+	CD3+	0.21125716414261098	0.10422482924355672	0.17683945317218314	0.0966199831458525	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	4	CD4	CD4	0.9576897184430468	0.012463575628903961	0.030809593168960116	0.009901402780558758	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	dgcytof	5	CD8	CD8	0.8425719606577816	0.042196940950552785	0.04887769406083079	0.12134051274499798	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[E]	1	CD14 monocytes	CD14 monocytes	0.7820235319600807	0.3331758111679596	0.04185192303917204	0.3673712900931726	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[E]	2	CD19	CD19	0.9543747715874542	0.008839731344801122	0.029973293847679498	0.018904894043046527	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[E]	3	CD3+	CD3+	0.04067408152516843	0.047744821912303705	0.028872888886032885	0.08405959444386976	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[E]	4	CD4	CD4	0.5553711077044863	0.23691901538904703	0.05554165690360604	0.34474375038188854	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[E]	5	CD8	CD8	0.3165672504120378	0.11745087538740458	0.03381119020477844	0.41520510282525247	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[V]	1	CD14 monocytes	CD14 monocytes	0.5490359213047578	0.22533110673830184	0.03878352498782976	0.2330349556757758	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[V]	2	CD19	CD19	0.7760315597275369	0.13495593701549904	0.21986993424458937	0.12150724204459254	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[V]	3	CD3+	CD3+	0.09313871334723818	0.11106929794826315	0.13124389176409468	0.10612333713096143	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[V]	4	CD4	CD4	0.5851256654632976	0.3930014991191115	0.18660000614037567	0.5189781002362148	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	gatemeclass[V]	5	CD8	CD8	0.09316309610458887	0.16056033553973578	0.047916020367023665	0.3414487087499223	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	knn	1	CD14 monocytes	CD14 monocytes	0.7851223014863267	0.03305799074369401	0.11639615201912694	0.08709097662524716	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	knn	2	CD19	CD19	0.506621795934445	0.08401640892454146	0.1543676086785043	0.07686804196990232	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-10000	knn	3	CD3+	CD3+	0.16667522309249957	0.030024535306861888	0.0330700169538348	0.03728843195806081	5
@@ -275,16 +313,21 @@ dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	cygate	2	CD1
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	cygate	3	CD3+	CD3+	0.4567647503515808	0.13179003989827504	0.18875797437532943	0.09939541986768856	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	cygate	4	CD4	CD4	0.967351664146168	0.010480795476928399	0.012249642971487278	0.012410463561233197	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	cygate	5	CD8	CD8	0.7828165061363381	0.15170141983458496	0.04035956379269268	0.2360244066743078	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9755421795705513	0.013382487702619699	0.014241212883008933	0.02028003388236056	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	2	CD19	CD19	0.975124681587928	0.011409238566311111	0.013989801060259746	0.014224267780929598	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	3	CD3+	CD3+	0.2691268945362066	0.2441618669065439	0.05329876443871518	0.2110199614133702	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	4	CD4	CD4	0.9769017272448777	0.004875302389653234	0.012859638099940177	0.00521872219816858	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	5	CD8	CD8	0.881183693970048	0.02741471977235582	0.06114057576886758	0.038240381656030616	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass	1	CD14 monocytes	CD14 monocytes	0.5190011231971153	0.37097314523423136	0.3526821257218998	0.4434953856321766	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass	2	CD19	CD19	0.9475389067004517	0.010132835509253571	0.032022014477948196	0.027772709353710002	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass	3	CD3+	CD3+	0.07891781964911823	0.06899115171553882	0.04354323969109721	0.13848969003730496	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass	4	CD4	CD4	0.3522037351249993	0.38862636148805635	0.45826944426458444	0.3505577394599926	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass	5	CD8	CD8	0.21313859767414262	0.18851409885000106	0.04000418150630544	0.366080528254277	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.985545488918517	0.01218774055172329	0.0016861890718352496	0.024637050150603808	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	2	CD19	CD19	0.9848947798106357	0.005201700881654874	0.012245432516361869	0.00933198589816658	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	3	CD3+	CD3+	0.39282145939411955	0.10732675147299818	0.12700191686476575	0.09243100722225106	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	4	CD4	CD4	0.9791759088442596	0.0022757888441695194	0.012057658997205303	0.01579437708471035	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	dgcytof	5	CD8	CD8	0.8916254500023338	0.020596598948842932	0.04253253663605664	0.01417700063141521	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[E]	1	CD14 monocytes	CD14 monocytes	0.5190011231971153	0.37097314523423136	0.3526821257218998	0.4434953856321766	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[E]	2	CD19	CD19	0.9475389067004517	0.010132835509253571	0.032022014477948196	0.027772709353710002	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[E]	3	CD3+	CD3+	0.07891781964911823	0.06899115171553882	0.04354323969109721	0.13848969003730496	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[E]	4	CD4	CD4	0.3522037351249993	0.38862636148805635	0.45826944426458444	0.3505577394599926	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[E]	5	CD8	CD8	0.21313859767414262	0.18851409885000106	0.04000418150630544	0.366080528254277	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[V]	1	CD14 monocytes	CD14 monocytes	0.5495244022281339	0.2746988620743733	0.052510884945234676	0.29310207830916235	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[V]	2	CD19	CD19	0.6994786298002613	0.12683188700973524	0.2528906287411386	0.12505416891917412	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[V]	3	CD3+	CD3+	0.09702482860337544	0.10312311924380382	0.12722040370001927	0.06880125380792282	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[V]	4	CD4	CD4	0.5512840182258043	0.3450382688383101	0.13699504501779186	0.5011396257424705	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	gatemeclass[V]	5	CD8	CD8	0.09453613740428979	0.15825889941588	0.01775195172098523	0.3175802740804227	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	knn	1	CD14 monocytes	CD14 monocytes	0.7931340960055854	0.03991360037406236	0.11443164249511797	0.10419275899378824	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	knn	2	CD19	CD19	0.5003638641947309	0.055252534943436175	0.10536584976460403	0.06175868152100141	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-100000	knn	3	CD3+	CD3+	0.18110090936877965	0.021476959006080078	0.03215986322995211	0.050569493667383524	5
@@ -310,16 +353,21 @@ dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	cygate	2	CD19	
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	cygate	3	CD3+	CD3+	0.35734022185841924	0.12318782914234702	0.1892014210857123	0.18978390350460844	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	cygate	4	CD4	CD4	0.96583135517357	0.007812296081749794	0.015597784130469057	0.010969165573996005	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	cygate	5	CD8	CD8	0.7898325705464126	0.09985601368874462	0.045541070318010184	0.1647812072984872	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9398677814655085	0.03299500985847372	0.044785389306319076	0.06202777019770819	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	2	CD19	CD19	0.9644964674086439	0.011132966920583595	0.016639847468666865	0.030208710552536162	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	3	CD3+	CD3+	0.2040781303651602	0.17562170407835045	0.1590905685046363	0.2245189360056245	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	4	CD4	CD4	0.9493718576097132	0.009294778876072917	0.025983609781369522	0.01820069588180924	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	5	CD8	CD8	0.8164696412503992	0.047512855631986595	0.051469680692332556	0.12352595470907632	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass	1	CD14 monocytes	CD14 monocytes	0.7085534944773503	0.2948563200293911	0.31325774793019806	0.31855871636508326	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass	2	CD19	CD19	0.9426455381734131	0.013999081945537853	0.047033267196779895	0.026944110873828538	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass	3	CD3+	CD3+	0.08789989559675006	0.08648011534451608	0.09542955574131726	0.05459942995152029	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass	4	CD4	CD4	0.5456089256165273	0.1854101265876592	0.08053385816962443	0.3223627807149104	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass	5	CD8	CD8	0.2855126026736359	0.09225147954960271	0.046625222492384606	0.32851981280689985	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9372709542846099	0.036552886069010485	0.04144438725475513	0.08327897540080237	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	2	CD19	CD19	0.9688750506992692	0.007851440369060497	0.013411055562471939	0.011309461051888315	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	3	CD3+	CD3+	0.24620710582077823	0.1472850338347603	0.08895291943115546	0.22524282643832078	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	4	CD4	CD4	0.9491701877750831	0.02228838998452291	0.005086076153166285	0.040945518982789225	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	dgcytof	5	CD8	CD8	0.786065215297364	0.06600885362583936	0.08721693977872283	0.16646804761056982	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[E]	1	CD14 monocytes	CD14 monocytes	0.7085534944773503	0.2948563200293911	0.31325774793019806	0.31855871636508326	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[E]	2	CD19	CD19	0.9426455381734131	0.013999081945537853	0.047033267196779895	0.026944110873828538	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[E]	3	CD3+	CD3+	0.08789989559675006	0.08648011534451608	0.09542955574131726	0.05459942995152029	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[E]	4	CD4	CD4	0.5456089256165273	0.1854101265876592	0.08053385816962443	0.3223627807149104	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[E]	5	CD8	CD8	0.2855126026736359	0.09225147954960271	0.046625222492384606	0.32851981280689985	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[V]	1	CD14 monocytes	CD14 monocytes	0.5572885343292907	0.26180448894291036	0.050496131571964156	0.2942310988462093	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[V]	2	CD19	CD19	0.7318450696001606	0.10899804566995143	0.11183930988832713	0.14440642762537995	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[V]	3	CD3+	CD3+	0.10795228655991433	0.09100778002237463	0.13113953942246215	0.4060610962185436	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[V]	4	CD4	CD4	0.3312076133271988	0.3629125750878092	0.21454323586150012	0.4718032736830192	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	gatemeclass[V]	5	CD8	CD8	0.15004168129407727	0.16927568706380453	0.32801680924704446	0.33971463763919546	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	knn	1	CD14 monocytes	CD14 monocytes	0.8109834500019129	0.037513195384701756	0.12176911664025307	0.08183495179088965	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	knn	2	CD19	CD19	0.5080816970396342	0.05858355750472098	0.11792572121576664	0.06564497167526634	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-5000	knn	3	CD3+	CD3+	0.18017065259930692	0.02371650189944035	0.026741957456362292	0.05245258903589422	5
@@ -345,16 +393,21 @@ dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	cygate	2	CD19
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	cygate	3	CD3+	CD3+	0.45006835081033536	0.15676175475759277	0.20879575485914215	0.13314415748762934	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	cygate	4	CD4	CD4	0.9672416457927999	0.010504522601292558	0.0122736027668354	0.012605462344576391	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	cygate	5	CD8	CD8	0.7937329417578844	0.16207260607689347	0.04395309678363879	0.2547880155272904	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9778547493166692	0.012328108920088579	0.009273883890793798	0.02939195803064583	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	2	CD19	CD19	0.9847178496635902	0.003107660399784534	0.004090696510216992	0.009961867508543276	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	3	CD3+	CD3+	0.30662864792362166	0.14615765749712173	0.19651443699294197	0.20672214420676177	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	4	CD4	CD4	0.9728005271895478	0.005145122661361226	0.01883399957375354	0.009929033787418379	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	5	CD8	CD8	0.8129209790019577	0.09611311889011477	0.031498777839548686	0.19068658403753697	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass	1	CD14 monocytes	CD14 monocytes	0.6522767556695133	0.37690413292135033	0.34460749784477124	0.3744849576653001	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass	2	CD19	CD19	0.9574271050753632	0.011820249143739197	0.020118071247435535	0.023624056626908835	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass	3	CD3+	CD3+	0.13480486435584887	0.047767753387661344	0.09862192992891002	0.09874081591229536	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass	4	CD4	CD4	0.6364746424374027	0.3018918262319216	0.04633250773482414	0.42597888049957316	5
-dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass	5	CD8	CD8	0.18585787599758682	0.16214323866192523	0.05021290851778996	0.3579774250721074	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9706570370189889	0.0243210682814695	0.010428185909437606	0.04415513969388946	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	2	CD19	CD19	0.9777105065746029	0.010072116603477297	0.01132693906539974	0.02487296738486821	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	3	CD3+	CD3+	0.28902240775232674	0.16480125783308983	0.11602953138680556	0.3074334465070749	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	4	CD4	CD4	0.9674677917741089	0.008112752202542097	0.013583658842822954	0.017254100817833313	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	dgcytof	5	CD8	CD8	0.7920798930665369	0.16699016678962045	0.06636421824283043	0.27327925426449107	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[E]	1	CD14 monocytes	CD14 monocytes	0.6522767556695133	0.37690413292135033	0.34460749784477124	0.3744849576653001	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[E]	2	CD19	CD19	0.9574271050753632	0.011820249143739197	0.020118071247435535	0.023624056626908835	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[E]	3	CD3+	CD3+	0.13480486435584887	0.047767753387661344	0.09862192992891002	0.09874081591229536	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[E]	4	CD4	CD4	0.6364746424374027	0.3018918262319216	0.04633250773482414	0.42597888049957316	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[E]	5	CD8	CD8	0.18585787599758682	0.16214323866192523	0.05021290851778996	0.3579774250721074	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[V]	1	CD14 monocytes	CD14 monocytes	0.5257815221959511	0.289177453602688	0.04993037486286363	0.3058942487770736	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[V]	2	CD19	CD19	0.6926590969029673	0.11466151246522942	0.2223811166689164	0.11523575707688918	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[V]	3	CD3+	CD3+	0.0879578845729376	0.08893154123665509	0.1462906855531049	0.07619157901295841	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[V]	4	CD4	CD4	0.5713787299152907	0.38153890919336225	0.27689546892068867	0.4986213852633656	5
+dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	gatemeclass[V]	5	CD8	CD8	0.09285004641040712	0.16080193826955544	0.18139585202572467	0.31691078563706265	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	knn	1	CD14 monocytes	CD14 monocytes	0.8178663891237951	0.03764933606549928	0.12282304504942108	0.07057235843517343	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	knn	2	CD19	CD19	0.5014121726382919	0.05827268686405821	0.16353441012358488	0.08231203545749216	5
 dataset_name-FR-FCM-Z2KP_healthy_final_seed-420_sub-sampling-50000	knn	3	CD3+	CD3+	0.16973397731522924	0.02475732758971236	0.026245503634737585	0.022396476469788835	5
@@ -380,16 +433,21 @@ dataset_name-FR-FCM-Z2KP_virus_final_seed-42	cygate	2	CD19	CD19	0.98803697939585
 dataset_name-FR-FCM-Z2KP_virus_final_seed-42	cygate	3	CD3+	CD3+	0.31474470964533935	0.31635907806987285	0.24938367152621305	0.3319595548814408	5
 dataset_name-FR-FCM-Z2KP_virus_final_seed-42	cygate	4	CD4	CD4	0.9646791362322583	0.020192461747712588	0.007133141412463407	0.03950813034116479	5
 dataset_name-FR-FCM-Z2KP_virus_final_seed-42	cygate	5	CD8	CD8	0.8712931895758088	0.04603103044963319	0.08959816714614349	0.015697558007833866	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9517207578664605	0.09431634786056173	0.15594539482644332	0.003798334673083025	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	2	CD19	CD19	0.9776440960391745	0.018359087552719127	0.009279156757385464	0.03960662980059731	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	3	CD3+	CD3+	0.45321291148606435	0.2987954072670807	0.2525333561811614	0.32028846101508496	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	4	CD4	CD4	0.9831003034751069	0.005161747502864601	0.010763974330235106	0.002222313993863966	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	5	CD8	CD8	0.5423185240615325	0.49476880799250855	0.3846939025429161	0.5144577635636773	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass	1	CD14 monocytes	CD14 monocytes	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass	2	CD19	CD19	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass	3	CD3+	CD3+	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass	4	CD4	CD4	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass	5	CD8	CD8	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	1	CD14 monocytes	CD14 monocytes	0.9916430876823034	0.004188474948004086	0.00871568965733624	0.0070246982594465565	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	2	CD19	CD19	0.8206849107086767	0.34900677474627256	0.02565742752846568	0.3897994529742182	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	3	CD3+	CD3+	0.44520970060272125	0.3151122909619454	0.23261754924446523	0.35832234278209013	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	4	CD4	CD4	0.9622805177252536	0.0482107434670873	0.08404254194307705	0.004225472446376136	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	dgcytof	5	CD8	CD8	0.7113489382494151	0.40081722096190653	0.2383406883871844	0.42211228038732806	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[E]	1	CD14 monocytes	CD14 monocytes	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[E]	2	CD19	CD19	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[E]	3	CD3+	CD3+	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[E]	4	CD4	CD4	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[E]	5	CD8	CD8	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[V]	1	CD14 monocytes	CD14 monocytes	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[V]	2	CD19	CD19	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[V]	3	CD3+	CD3+	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[V]	4	CD4	CD4	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z2KP_virus_final_seed-42	gatemeclass[V]	5	CD8	CD8	NA	NA	NA	0	5
 dataset_name-FR-FCM-Z2KP_virus_final_seed-42	knn	1	CD14 monocytes	CD14 monocytes	0.835567802100193	0.04199519006714248	0.06616041660200088	0.08675811256230602	5
 dataset_name-FR-FCM-Z2KP_virus_final_seed-42	knn	2	CD19	CD19	0.3275042134782853	0.07147977151909246	0.09858177545254512	0.1282033050876004	5
 dataset_name-FR-FCM-Z2KP_virus_final_seed-42	knn	3	CD3+	CD3+	0.15126578464467724	0.024392869098339518	0.021304299374289837	0.030606792022585462	5
@@ -461,62 +519,90 @@ dataset_name-FR-FCM-Z3YR_seed-42	cygate	6	/PBMC/B cells/B cells SWME/B cells PB	
 dataset_name-FR-FCM-Z3YR_seed-42	cygate	7	/PBMC/B cells/B cells SWME/B cells PC	/PBMC/B cells/B cells SWME/B cells PC	0.7678385004323471	0.10208307354878568	0.13172693590665246	0.11301210343791572	5
 dataset_name-FR-FCM-Z3YR_seed-42	cygate	8	/PBMC/CD3 CD19 DP	/PBMC/CD3 CD19 DP	0.8579191334767233	0.03699994970191864	0.09936537455737775	0.0775170181956943	5
 dataset_name-FR-FCM-Z3YR_seed-42	cygate	9	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	0.44305770400994454	0.08312744554643993	0.11256624847601583	0.05618770808722663	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	1	/Granulocytes	/Granulocytes	0.9993932783728061	1.9128260300054615e-4	2.479913826735939e-4	2.3034723068460908e-4	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	10	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	0.9893313788137663	0.004081715107686949	0.0071415359510718064	0.001321148733803114	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	11	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	0.9840162951555246	0.010233141855542891	0.004814221534985075	0.02080980930131696	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	12	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	0.7253546848226534	0.12163060888345735	0.20311835615242577	0.1791186762716112	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	13	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	0.9245763365234613	0.02790116602465664	0.06834134732246644	0.04941004967097201	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	14	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	0.9150101253828341	0.03716858609029545	0.07270829803454597	0.41062322719683425	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	15	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	0.9197987623478232	0.03412684916616073	0.02436930536264697	0.06922004492291853	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	16	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	0.9721525535441022	0.010976157590550956	0.02830787760902457	0.01020351101396257	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	17	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	0.9974059467900912	9.89977018654399e-4	0.0023977217650862142	4.975729022999749e-4	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	18	/PBMC/T cells/NKT cells	/PBMC/T cells/NKT cells	0.021673727732449632	0.010385327845037321	0.030606109072129063	0.015341339201544528	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	19	/PBMC/T cells/T cells CD4/T cells CM	/PBMC/T cells/T cells CD4/T cells CM	0.9790250211637133	0.00982956048651834	0.016170174456014985	0.022474208967150685	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	2	/PBMC/B cells/B cells DN	/PBMC/B cells/B cells DN	0.9042904364108939	0.03368187604620829	0.04254997572279999	0.036739277788426214	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	20	/PBMC/T cells/T cells CD4/T cells EM	/PBMC/T cells/T cells CD4/T cells EM	0.9716325978931475	0.009226867097633764	0.022040455926394326	0.006768053657329636	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	21	/PBMC/T cells/T cells CD4/T cells Naive	/PBMC/T cells/T cells CD4/T cells Naive	0.9851279121401533	0.006593202587689262	0.015428957382397869	0.012408115091420419	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	22	/PBMC/T cells/T cells CD4/T cells TEMRA	/PBMC/T cells/T cells CD4/T cells TEMRA	0.6472169443910184	0.20633147384989428	0.03608532364610119	0.2614805361646325	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	23	/PBMC/T cells/T cells CD4hiCD8hi	/PBMC/T cells/T cells CD4hiCD8hi	0.9048491489546261	0.03659661234493183	0.054205154776432785	0.036729614017729596	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	24	/PBMC/T cells/T cells CD4lowCD8low	/PBMC/T cells/T cells CD4lowCD8low	0.9785266082993779	0.007900918304338986	0.0037440347338887833	0.015464456461979354	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	25	/PBMC/T cells/T cells CD8/T cells CM	/PBMC/T cells/T cells CD8/T cells CM	0.9704330955471514	0.00639574867688605	0.023826871935262443	0.01272733513050641	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	26	/PBMC/T cells/T cells CD8/T cells EM	/PBMC/T cells/T cells CD8/T cells EM	0.9427473856473613	0.014915461480970565	0.03372712066364774	0.019939109287031385	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	27	/PBMC/T cells/T cells CD8/T cells Naive	/PBMC/T cells/T cells CD8/T cells Naive	0.9758596722334602	0.005884847496004615	0.011852052071678798	0.018707855070586095	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	28	/PBMC/T cells/T cells CD8/T cells TEMRA	/PBMC/T cells/T cells CD8/T cells TEMRA	0.8486911577694913	0.061327505983583566	0.08568535138401165	0.13750554024301945	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	3	/PBMC/B cells/B cells NSM	/PBMC/B cells/B cells NSM	0.9430400518110948	0.027868228481814878	0.04280117094888888	0.052721953614198035	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	4	/PBMC/B cells/B cells Naive/B cells TR	/PBMC/B cells/B cells Naive/B cells TR	0.9774128384785213	0.01601211472617342	0.007997828036177226	0.03580234895977969	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	5	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	0.9395960889221389	0.02070731386749359	0.02874931458355952	0.041234047797092374	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	6	/PBMC/B cells/B cells SWME/B cells PB	/PBMC/B cells/B cells SWME/B cells PB	0.6704466663101488	0.06799182587803845	0.12229305960619136	0.1021365965650986	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	7	/PBMC/B cells/B cells SWME/B cells PC	/PBMC/B cells/B cells SWME/B cells PC	0.9012958144190781	0.034967134529978655	0.053459582486443	0.020399464796163256	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	8	/PBMC/CD3 CD19 DP	/PBMC/CD3 CD19 DP	0.9713256383598444	0.010724795543707352	0.012890700763226811	0.02270611472257044	5
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	9	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	0.8181737293274414	0.08352460950440999	0.050103467530500274	0.14129478164412	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	1	/Granulocytes	/Granulocytes	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	10	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	11	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	12	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	13	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	14	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	15	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	16	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	17	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	18	/PBMC/T cells/NKT cells	/PBMC/T cells/NKT cells	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	19	/PBMC/T cells/T cells CD4/T cells CM	/PBMC/T cells/T cells CD4/T cells CM	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	2	/PBMC/B cells/B cells DN	/PBMC/B cells/B cells DN	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	20	/PBMC/T cells/T cells CD4/T cells EM	/PBMC/T cells/T cells CD4/T cells EM	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	21	/PBMC/T cells/T cells CD4/T cells Naive	/PBMC/T cells/T cells CD4/T cells Naive	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	22	/PBMC/T cells/T cells CD4/T cells TEMRA	/PBMC/T cells/T cells CD4/T cells TEMRA	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	23	/PBMC/T cells/T cells CD4hiCD8hi	/PBMC/T cells/T cells CD4hiCD8hi	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	24	/PBMC/T cells/T cells CD4lowCD8low	/PBMC/T cells/T cells CD4lowCD8low	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	25	/PBMC/T cells/T cells CD8/T cells CM	/PBMC/T cells/T cells CD8/T cells CM	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	26	/PBMC/T cells/T cells CD8/T cells EM	/PBMC/T cells/T cells CD8/T cells EM	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	27	/PBMC/T cells/T cells CD8/T cells Naive	/PBMC/T cells/T cells CD8/T cells Naive	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	28	/PBMC/T cells/T cells CD8/T cells TEMRA	/PBMC/T cells/T cells CD8/T cells TEMRA	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	3	/PBMC/B cells/B cells NSM	/PBMC/B cells/B cells NSM	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	4	/PBMC/B cells/B cells Naive/B cells TR	/PBMC/B cells/B cells Naive/B cells TR	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	5	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	6	/PBMC/B cells/B cells SWME/B cells PB	/PBMC/B cells/B cells SWME/B cells PB	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	7	/PBMC/B cells/B cells SWME/B cells PC	/PBMC/B cells/B cells SWME/B cells PC	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	8	/PBMC/CD3 CD19 DP	/PBMC/CD3 CD19 DP	NA	NA	NA	0	5
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass	9	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	1	/Granulocytes	/Granulocytes	0.9993314583169729	1.4149444793785826e-4	3.341482138700887e-4	3.5062925103552107e-4	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	10	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	0.9888754913876758	0.003926764433881167	0.005064719948863017	0.003355583105059772	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	11	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	0.9877399617631727	0.003932170216787613	0.0038063200210192807	0.0059164561830744025	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	12	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	0.7757630108768976	0.07819425061659999	0.13007443285275	0.048288977774935876	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	13	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	0.9411903670769287	0.022256102549138942	0.03636941098547582	0.023354571155424133	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	14	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	0.8324785389099043	0.22783715087645076	0.010291419033878984	0.4258785003773901	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	15	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	0.9288709480187519	0.037680391831881106	0.05902180029604798	0.06803915288213645	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	16	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	0.9729921513909678	0.01394815375163333	0.02870920286345891	0.005998127982994784	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	17	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	0.9966522490515295	0.001592475347552585	0.003841810913514114	0.0015482278819460033	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	18	/PBMC/T cells/NKT cells	/PBMC/T cells/NKT cells	0.00839452953015319	0.009620215060401564	0.01933307148556929	0.0052499513576111665	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	19	/PBMC/T cells/T cells CD4/T cells CM	/PBMC/T cells/T cells CD4/T cells CM	0.9796225031114529	0.007954015160883628	0.015537369799520664	0.004006242367418168	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	2	/PBMC/B cells/B cells DN	/PBMC/B cells/B cells DN	0.8922261416469155	0.03230853894059871	0.06468850801360733	0.03138818745001543	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	20	/PBMC/T cells/T cells CD4/T cells EM	/PBMC/T cells/T cells CD4/T cells EM	0.965672162835375	0.013690098040876507	0.032612982193975175	0.010235466922681147	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	21	/PBMC/T cells/T cells CD4/T cells Naive	/PBMC/T cells/T cells CD4/T cells Naive	0.9861793222957536	0.005176000724115989	0.004602592510307856	0.013205616077637705	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	22	/PBMC/T cells/T cells CD4/T cells TEMRA	/PBMC/T cells/T cells CD4/T cells TEMRA	0.693814903892116	0.1835996511377515	0.09699108419703899	0.23276799509889284	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	23	/PBMC/T cells/T cells CD4hiCD8hi	/PBMC/T cells/T cells CD4hiCD8hi	0.8970278815747229	0.032175266285575065	0.027551841030806476	0.08057625012888961	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	24	/PBMC/T cells/T cells CD4lowCD8low	/PBMC/T cells/T cells CD4lowCD8low	0.9792272242198087	0.006005161008555508	0.013761753495115422	0.007881471590120622	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	25	/PBMC/T cells/T cells CD8/T cells CM	/PBMC/T cells/T cells CD8/T cells CM	0.9619061606401014	0.014063301123215775	0.03034757669764092	0.01569253578013003	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	26	/PBMC/T cells/T cells CD8/T cells EM	/PBMC/T cells/T cells CD8/T cells EM	0.9171284692678116	0.03320471301724878	0.08049252457625473	0.07782518027603907	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	27	/PBMC/T cells/T cells CD8/T cells Naive	/PBMC/T cells/T cells CD8/T cells Naive	0.967098976201193	0.01842314246550264	0.011530469224204363	0.038751014310853905	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	28	/PBMC/T cells/T cells CD8/T cells TEMRA	/PBMC/T cells/T cells CD8/T cells TEMRA	0.8010644819965373	0.10650412809549724	0.08454981775705166	0.18838056588570526	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	3	/PBMC/B cells/B cells NSM	/PBMC/B cells/B cells NSM	0.9509675453532531	0.019893986926689856	0.03389413136748931	0.033615202879527406	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	4	/PBMC/B cells/B cells Naive/B cells TR	/PBMC/B cells/B cells Naive/B cells TR	0.9801497579480974	0.011100444897884173	0.005456446118103328	0.023119217900505508	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	5	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	0.9153881235147672	0.04090228830732225	0.018251862045973653	0.08687011556999846	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	6	/PBMC/B cells/B cells SWME/B cells PB	/PBMC/B cells/B cells SWME/B cells PB	0.5343623626974151	0.11751940854192604	0.2679953398980111	0.24310783172069775	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	7	/PBMC/B cells/B cells SWME/B cells PC	/PBMC/B cells/B cells SWME/B cells PC	0.8992291472201199	0.0486068995462878	0.01761477590085909	0.08357202219477156	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	8	/PBMC/CD3 CD19 DP	/PBMC/CD3 CD19 DP	0.9703266319595049	0.006915515587235003	0.010413783492929334	0.01693608128060081	5
+dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	9	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	0.8155403988130735	0.06893992355488388	0.0477352797266444	0.13145977574835604	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	1	/Granulocytes	/Granulocytes	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	10	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	11	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	12	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	13	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	14	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	15	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	16	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	17	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	18	/PBMC/T cells/NKT cells	/PBMC/T cells/NKT cells	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	19	/PBMC/T cells/T cells CD4/T cells CM	/PBMC/T cells/T cells CD4/T cells CM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	2	/PBMC/B cells/B cells DN	/PBMC/B cells/B cells DN	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	20	/PBMC/T cells/T cells CD4/T cells EM	/PBMC/T cells/T cells CD4/T cells EM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	21	/PBMC/T cells/T cells CD4/T cells Naive	/PBMC/T cells/T cells CD4/T cells Naive	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	22	/PBMC/T cells/T cells CD4/T cells TEMRA	/PBMC/T cells/T cells CD4/T cells TEMRA	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	23	/PBMC/T cells/T cells CD4hiCD8hi	/PBMC/T cells/T cells CD4hiCD8hi	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	24	/PBMC/T cells/T cells CD4lowCD8low	/PBMC/T cells/T cells CD4lowCD8low	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	25	/PBMC/T cells/T cells CD8/T cells CM	/PBMC/T cells/T cells CD8/T cells CM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	26	/PBMC/T cells/T cells CD8/T cells EM	/PBMC/T cells/T cells CD8/T cells EM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	27	/PBMC/T cells/T cells CD8/T cells Naive	/PBMC/T cells/T cells CD8/T cells Naive	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	28	/PBMC/T cells/T cells CD8/T cells TEMRA	/PBMC/T cells/T cells CD8/T cells TEMRA	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	3	/PBMC/B cells/B cells NSM	/PBMC/B cells/B cells NSM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	4	/PBMC/B cells/B cells Naive/B cells TR	/PBMC/B cells/B cells Naive/B cells TR	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	5	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	6	/PBMC/B cells/B cells SWME/B cells PB	/PBMC/B cells/B cells SWME/B cells PB	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	7	/PBMC/B cells/B cells SWME/B cells PC	/PBMC/B cells/B cells SWME/B cells PC	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	8	/PBMC/CD3 CD19 DP	/PBMC/CD3 CD19 DP	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	9	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	1	/Granulocytes	/Granulocytes	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	10	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	11	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	12	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14mid	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	13	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes non-class	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	14	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC1	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	15	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/cDC/cDC2	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	16	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR hi/pDC	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	17	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	/PBMC/CD3-CD19-/CD7low cells/CD11c low HLADR low/Basophils	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	18	/PBMC/T cells/NKT cells	/PBMC/T cells/NKT cells	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	19	/PBMC/T cells/T cells CD4/T cells CM	/PBMC/T cells/T cells CD4/T cells CM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	2	/PBMC/B cells/B cells DN	/PBMC/B cells/B cells DN	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	20	/PBMC/T cells/T cells CD4/T cells EM	/PBMC/T cells/T cells CD4/T cells EM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	21	/PBMC/T cells/T cells CD4/T cells Naive	/PBMC/T cells/T cells CD4/T cells Naive	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	22	/PBMC/T cells/T cells CD4/T cells TEMRA	/PBMC/T cells/T cells CD4/T cells TEMRA	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	23	/PBMC/T cells/T cells CD4hiCD8hi	/PBMC/T cells/T cells CD4hiCD8hi	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	24	/PBMC/T cells/T cells CD4lowCD8low	/PBMC/T cells/T cells CD4lowCD8low	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	25	/PBMC/T cells/T cells CD8/T cells CM	/PBMC/T cells/T cells CD8/T cells CM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	26	/PBMC/T cells/T cells CD8/T cells EM	/PBMC/T cells/T cells CD8/T cells EM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	27	/PBMC/T cells/T cells CD8/T cells Naive	/PBMC/T cells/T cells CD8/T cells Naive	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	28	/PBMC/T cells/T cells CD8/T cells TEMRA	/PBMC/T cells/T cells CD8/T cells TEMRA	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	3	/PBMC/B cells/B cells NSM	/PBMC/B cells/B cells NSM	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	4	/PBMC/B cells/B cells Naive/B cells TR	/PBMC/B cells/B cells Naive/B cells TR	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	5	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	/PBMC/B cells/B cells SWME/B cells CD27hi CD20hi	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	6	/PBMC/B cells/B cells SWME/B cells PB	/PBMC/B cells/B cells SWME/B cells PB	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	7	/PBMC/B cells/B cells SWME/B cells PC	/PBMC/B cells/B cells SWME/B cells PC	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	8	/PBMC/CD3 CD19 DP	/PBMC/CD3 CD19 DP	NA	NA	NA	0	5
+dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	9	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 hi	NA	NA	NA	0	5
 dataset_name-FR-FCM-Z3YR_seed-42	knn	1	/Granulocytes	/Granulocytes	0.9906050998732222	0.002149986797321266	2.1380640002137413e-4	0.004395210202348091	5
 dataset_name-FR-FCM-Z3YR_seed-42	knn	10	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	/PBMC/CD3-CD19-/CD7hi cells/NK cells CD56 mid	0.9498838338898163	0.014843865352648578	0.016981600359067445	0.02920359571231236	5
 dataset_name-FR-FCM-Z3YR_seed-42	knn	11	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	/PBMC/CD3-CD19-/CD7low cells/CD11c hi HLADR hi/Monocytes CD14hi	0.9312245254254314	0.009441647749731755	0.01925169342130777	0.026682627628531984	5
@@ -629,34 +715,48 @@ dataset_name-Levine_seed-42	cygate	6	CD34+CD38lo_HSCs	CD34+CD38lo_HSCs	0.9973782
 dataset_name-Levine_seed-42	cygate	7	CD4_T_cells	CD4_T_cells	0.9982770158936456	7.199722222377596e-4	9.874161720013195e-4	4.519344653100477e-4	2
 dataset_name-Levine_seed-42	cygate	8	CD8_T_cells	CD8_T_cells	0.9978761951956137	7.502764223178256e-4	3.696131983911101e-4	0.00186726718275944	2
 dataset_name-Levine_seed-42	cygate	9	Mature_B_cells	Mature_B_cells	0.9791080291737932	0.027184750953947748	0.0021639186273961306	0.050331615799393145	2
-dataset_name-Levine_seed-42	dgcytof	1	Basophils	Basophils	0.9425498162120334	0.06239064824212816	0.010662031873805575	0.12314642653893199	2
-dataset_name-Levine_seed-42	dgcytof	10	Monocytes	Monocytes	0.99778584847078	8.662764152686616e-4	7.574383145793953e-4	0.0024916197623201628	2
-dataset_name-Levine_seed-42	dgcytof	11	Plasma_B_cells	Plasma_B_cells	0.8050548139993579	0.06739910514681187	0.017941421053960464	0.12000847315156958	2
-dataset_name-Levine_seed-42	dgcytof	12	Pre_B_cells	Pre_B_cells	0.9751170918657963	0.01382392974472154	0.01355503350641424	0.014091401333587128	2
-dataset_name-Levine_seed-42	dgcytof	13	Pro_B_cells	Pro_B_cells	0.7481508507744867	0.01022583026293856	0.16378542998485845	0.09271155333815673	2
-dataset_name-Levine_seed-42	dgcytof	14	pDCs	pDCs	0.9240511189245666	0.07804710245896157	0.14381616986512177	0.004172530319757186	2
-dataset_name-Levine_seed-42	dgcytof	2	CD16+_NK_cells	CD16+_NK_cells	0.9450346237312048	0.042006125158412566	0.004345068762376416	0.08105420693806022	2
-dataset_name-Levine_seed-42	dgcytof	3	CD16-_NK_cells	CD16-_NK_cells	0.971585709895407	0.00440844510316789	0.017156054607501435	0.008978763616175167	2
-dataset_name-Levine_seed-42	dgcytof	4	CD34+CD38+CD123+_HSPCs	CD34+CD38+CD123+_HSPCs	0.8208699597345885	1.283242613165803e-4	0.07083763896054171	0.06904195197317763	2
-dataset_name-Levine_seed-42	dgcytof	5	CD34+CD38+CD123-_HSPCs	CD34+CD38+CD123-_HSPCs	0.9347658862876254	0.002388554678924524	0.028123509869247366	0.027073816714568072	2
-dataset_name-Levine_seed-42	dgcytof	6	CD34+CD38lo_HSCs	CD34+CD38lo_HSCs	0.9128762163385382	0.03392320380437849	0.0028118008242203553	0.06446775338385466	2
-dataset_name-Levine_seed-42	dgcytof	7	CD4_T_cells	CD4_T_cells	0.9956075962304265	0.004751098849999878	0.0024542908217790485	0.007026849717465203	2
-dataset_name-Levine_seed-42	dgcytof	8	CD8_T_cells	CD8_T_cells	0.9947314027788263	0.005200292422338481	0.0064708638221992265	0.003918358314594286	2
-dataset_name-Levine_seed-42	dgcytof	9	Mature_B_cells	Mature_B_cells	0.9935827148848388	0.004018628941307264	0.007483762380381225	5.35686955444338e-4	2
-dataset_name-Levine_seed-42	gatemeclass	1	Basophils	Basophils	0.9517885871884952	0.004382125782216216	0.03078974035344953	0.03859065343283976	2
-dataset_name-Levine_seed-42	gatemeclass	10	Monocytes	Monocytes	0.9351558180697085	0.005364595255571109	5.531343047256843e-4	0.009041610319944295	2
-dataset_name-Levine_seed-42	gatemeclass	11	Plasma_B_cells	Plasma_B_cells	0.4179455578454284	0.06505988436083586	0.06153418975790257	0.0620110672304933	2
-dataset_name-Levine_seed-42	gatemeclass	12	Pre_B_cells	Pre_B_cells	0.8849732043565972	0.04761779173367874	0.057938612464011656	0.14388415082615053	2
-dataset_name-Levine_seed-42	gatemeclass	13	Pro_B_cells	Pro_B_cells	0.47639182522903456	0.20231525945154216	0.17727494253130477	0.09707127733466685	2
-dataset_name-Levine_seed-42	gatemeclass	14	pDCs	pDCs	0.8779009608277901	0.04160066502767863	0.057332982258368685	0.0168605798888942	2
-dataset_name-Levine_seed-42	gatemeclass	2	CD16+_NK_cells	CD16+_NK_cells	0.8538880683754708	0.16974777198080546	0.26772278680570955	0.0031291205476244085	2
-dataset_name-Levine_seed-42	gatemeclass	3	CD16-_NK_cells	CD16-_NK_cells	0.9069849246797987	0.09817998331443513	0.004188713556700783	0.16981669878047725	2
-dataset_name-Levine_seed-42	gatemeclass	4	CD34+CD38+CD123+_HSPCs	CD34+CD38+CD123+_HSPCs	0.7254438717067583	0.015085754638716382	0.27196414661021057	0.19094812916567003	2
-dataset_name-Levine_seed-42	gatemeclass	5	CD34+CD38+CD123-_HSPCs	CD34+CD38+CD123-_HSPCs	0.6293719320290829	0.10715457397555096	0.021876348625357644	0.11180223649235808	2
-dataset_name-Levine_seed-42	gatemeclass	6	CD34+CD38lo_HSCs	CD34+CD38lo_HSCs	0.706498547165453	0.05300098577207352	0.06563291985045391	0.005300115693218126	2
-dataset_name-Levine_seed-42	gatemeclass	7	CD4_T_cells	CD4_T_cells	0.9896524639232769	0.009069563054700708	0.018216933192804773	4.4506272002388587e-4	2
-dataset_name-Levine_seed-42	gatemeclass	8	CD8_T_cells	CD8_T_cells	0.985004150106507	0.012687357113745495	0.001769013302877534	0.02644625206308175	2
-dataset_name-Levine_seed-42	gatemeclass	9	Mature_B_cells	Mature_B_cells	0.9915601560922509	0.0012843754751533456	0.0012418516893441792	0.0037612876942985833	2
+dataset_name-Levine_seed-42	dgcytof	1	Basophils	Basophils	0.931978483103433	0.06920814328608116	0.00780192171426435	0.1319299170085809	2
+dataset_name-Levine_seed-42	dgcytof	10	Monocytes	Monocytes	0.9978186437799637	0.0020924729806559867	0.0023818276614069366	0.0018029968755672757	2
+dataset_name-Levine_seed-42	dgcytof	11	Plasma_B_cells	Plasma_B_cells	0.7461508360549645	0.12767575295960468	0.18134592343777875	0.0036122951784753167	2
+dataset_name-Levine_seed-42	dgcytof	12	Pre_B_cells	Pre_B_cells	0.9636302365969468	0.016137243737021998	0.0027582611994647643	0.02829339450563687	2
+dataset_name-Levine_seed-42	dgcytof	13	Pro_B_cells	Pro_B_cells	0.7717221897525813	0.0591666398830356	0.07178088185987952	0.05031660839271189	2
+dataset_name-Levine_seed-42	dgcytof	14	pDCs	pDCs	0.9117580773573516	0.09270779931936526	0.1774890681188248	0.017935210255439055	2
+dataset_name-Levine_seed-42	dgcytof	2	CD16+_NK_cells	CD16+_NK_cells	0.956446137939283	0.013469951718706415	0.026610364787309815	7.124714713627781e-4	2
+dataset_name-Levine_seed-42	dgcytof	3	CD16-_NK_cells	CD16-_NK_cells	0.9647058857471176	0.004991973916735066	0.013952903117925661	0.004371440509977325	2
+dataset_name-Levine_seed-42	dgcytof	4	CD34+CD38+CD123+_HSPCs	CD34+CD38+CD123+_HSPCs	0.778164924506388	0.09526641883581825	0.09384642994549568	0.2064889375433964	2
+dataset_name-Levine_seed-42	dgcytof	5	CD34+CD38+CD123-_HSPCs	CD34+CD38+CD123-_HSPCs	0.9319302765120132	0.0033273782487741694	0.011268295462793497	0.006691731385487835	2
+dataset_name-Levine_seed-42	dgcytof	6	CD34+CD38lo_HSCs	CD34+CD38lo_HSCs	0.8560504716125522	0.004256685343846893	2.0094953897664756e-4	0.006888451646153679	2
+dataset_name-Levine_seed-42	dgcytof	7	CD4_T_cells	CD4_T_cells	0.9934833096457852	0.00827163753201844	0.001149519433568055	0.01525648691756297	2
+dataset_name-Levine_seed-42	dgcytof	8	CD8_T_cells	CD8_T_cells	0.9899105218697346	0.00810025475744619	0.019227505423419212	0.003224230332688497	2
+dataset_name-Levine_seed-42	dgcytof	9	Mature_B_cells	Mature_B_cells	0.9915792335560587	0.006512287749050078	0.014194439226134834	0.0012894750284625307	2
+dataset_name-Levine_seed-42	gatemeclass[E]	1	Basophils	Basophils	0.9517885871884952	0.004382125782216216	0.03078974035344953	0.03859065343283976	2
+dataset_name-Levine_seed-42	gatemeclass[E]	10	Monocytes	Monocytes	0.9351558180697085	0.005364595255571109	5.531343047256843e-4	0.009041610319944295	2
+dataset_name-Levine_seed-42	gatemeclass[E]	11	Plasma_B_cells	Plasma_B_cells	0.4179455578454284	0.06505988436083586	0.06153418975790257	0.0620110672304933	2
+dataset_name-Levine_seed-42	gatemeclass[E]	12	Pre_B_cells	Pre_B_cells	0.8849732043565972	0.04761779173367874	0.057938612464011656	0.14388415082615053	2
+dataset_name-Levine_seed-42	gatemeclass[E]	13	Pro_B_cells	Pro_B_cells	0.47639182522903456	0.20231525945154216	0.17727494253130477	0.09707127733466685	2
+dataset_name-Levine_seed-42	gatemeclass[E]	14	pDCs	pDCs	0.8779009608277901	0.04160066502767863	0.057332982258368685	0.0168605798888942	2
+dataset_name-Levine_seed-42	gatemeclass[E]	2	CD16+_NK_cells	CD16+_NK_cells	0.8538880683754708	0.16974777198080546	0.26772278680570955	0.0031291205476244085	2
+dataset_name-Levine_seed-42	gatemeclass[E]	3	CD16-_NK_cells	CD16-_NK_cells	0.9069849246797987	0.09817998331443513	0.004188713556700783	0.16981669878047725	2
+dataset_name-Levine_seed-42	gatemeclass[E]	4	CD34+CD38+CD123+_HSPCs	CD34+CD38+CD123+_HSPCs	0.7254438717067583	0.015085754638716382	0.27196414661021057	0.19094812916567003	2
+dataset_name-Levine_seed-42	gatemeclass[E]	5	CD34+CD38+CD123-_HSPCs	CD34+CD38+CD123-_HSPCs	0.6293719320290829	0.10715457397555096	0.021876348625357644	0.11180223649235808	2
+dataset_name-Levine_seed-42	gatemeclass[E]	6	CD34+CD38lo_HSCs	CD34+CD38lo_HSCs	0.706498547165453	0.05300098577207352	0.06563291985045391	0.005300115693218126	2
+dataset_name-Levine_seed-42	gatemeclass[E]	7	CD4_T_cells	CD4_T_cells	0.9896524639232769	0.009069563054700708	0.018216933192804773	4.4506272002388587e-4	2
+dataset_name-Levine_seed-42	gatemeclass[E]	8	CD8_T_cells	CD8_T_cells	0.985004150106507	0.012687357113745495	0.001769013302877534	0.02644625206308175	2
+dataset_name-Levine_seed-42	gatemeclass[E]	9	Mature_B_cells	Mature_B_cells	0.9915601560922509	0.0012843754751533456	0.0012418516893441792	0.0037612876942985833	2
+dataset_name-Levine_seed-42	gatemeclass[V]	1	Basophils	Basophils	0.9233915092455769	0.05575748347676496	0.0011990471296063421	0.09988607127499698	2
+dataset_name-Levine_seed-42	gatemeclass[V]	10	Monocytes	Monocytes	0.9904388864663154	0.0012700989083692768	0.011090851888271702	0.008522105280949321	2
+dataset_name-Levine_seed-42	gatemeclass[V]	11	Plasma_B_cells	Plasma_B_cells	0.586893344957861	0.28008908536973676	0.346971867969599	0.05558920913542609	2
+dataset_name-Levine_seed-42	gatemeclass[V]	12	Pre_B_cells	Pre_B_cells	0.9310681844999362	0.006477715479205441	0.012275386841328634	0.02823449809817606	2
+dataset_name-Levine_seed-42	gatemeclass[V]	13	Pro_B_cells	Pro_B_cells	0.6819704319704318	0.18603000995457586	0.19695330240379227	0.12576904817767398	2
+dataset_name-Levine_seed-42	gatemeclass[V]	14	pDCs	pDCs	0.8774090281273801	0.02679866152349588	0.15580231023454594	0.11546718007427323	2
+dataset_name-Levine_seed-42	gatemeclass[V]	2	CD16+_NK_cells	CD16+_NK_cells	0.8066520734198598	0.23387957744543725	0.3408873160471388	0.00138432699186416	2
+dataset_name-Levine_seed-42	gatemeclass[V]	3	CD16-_NK_cells	CD16-_NK_cells	0.834524248231132	0.15129990063397145	0.0532033641886098	0.2737353918006981	2
+dataset_name-Levine_seed-42	gatemeclass[V]	4	CD34+CD38+CD123+_HSPCs	CD34+CD38+CD123+_HSPCs	0.41325832822778774	0.21927053569052052	0.19464191002108727	0.05464759667249671	2
+dataset_name-Levine_seed-42	gatemeclass[V]	5	CD34+CD38+CD123-_HSPCs	CD34+CD38+CD123-_HSPCs	0.7345960797888451	0.18801005840133328	0.00916213755379457	0.2529810874364601	2
+dataset_name-Levine_seed-42	gatemeclass[V]	6	CD34+CD38lo_HSCs	CD34+CD38lo_HSCs	0.8444716795232259	0.0932205753391824	0.02244709663576096	0.13708103713597222	2
+dataset_name-Levine_seed-42	gatemeclass[V]	7	CD4_T_cells	CD4_T_cells	0.9931344366759604	0.002143974985711932	0.0031547449227137974	0.0011352161099636208	2
+dataset_name-Levine_seed-42	gatemeclass[V]	8	CD8_T_cells	CD8_T_cells	0.99031806667774	0.00257284667591558	2.8142198424568475e-4	0.004887023722407404	2
+dataset_name-Levine_seed-42	gatemeclass[V]	9	Mature_B_cells	Mature_B_cells	0.9616305944251031	0.005005410086232975	0.0019311704312494301	0.00765267079206214	2
 dataset_name-Levine_seed-42	knn	1	Basophils	Basophils	0.6811519522486698	0.0387118241569069	0.12345017287853255	0.04422102260901508	2
 dataset_name-Levine_seed-42	knn	10	Monocytes	Monocytes	0.7781026079350829	0.00971607359249268	0.01825815466258151	0.0025468426349804217	2
 dataset_name-Levine_seed-42	knn	11	Plasma_B_cells	Plasma_B_cells	0.9123821247224847	0.036464346353584906	0.12000521999791543	0.0588001381829597	2
@@ -747,54 +847,78 @@ dataset_name-Samusik_seed-42	cygate	6	CMP	CMP	0.9761673131084647	0.0290307119516
 dataset_name-Samusik_seed-42	cygate	7	Classical Monocytes	Classical Monocytes	0.9789713390837385	0.0078471730580411	0.0017022663447755287	0.015704938119886526	5
 dataset_name-Samusik_seed-42	cygate	8	Eosinophils	Eosinophils	0.9871758539752805	0.005408041176537188	9.453051758100464e-5	0.01049849318835621	5
 dataset_name-Samusik_seed-42	cygate	9	GMP	GMP	0.9795731114015837	0.00851051740326743	0.004320626414701869	0.020834313438385446	5
-dataset_name-Samusik_seed-42	dgcytof	1	B-cell Frac A-C (pro-B cells)	B-cell Frac A-C (pro-B cells)	0.8619553793759114	0.016693553546396053	0.042630264937593164	0.027033641665424116	5
-dataset_name-Samusik_seed-42	dgcytof	10	HSC	HSC	0.09259259259259259	0.026189140043946204	0.4346134936801766	0.03693553920740496	5
-dataset_name-Samusik_seed-42	dgcytof	11	IgD- IgMpos B cells	IgD- IgMpos B cells	0.989602613756722	0.0017498239433763603	0.003999644824218772	0.00290669370674246	5
-dataset_name-Samusik_seed-42	dgcytof	12	IgDpos IgMpos B cells	IgDpos IgMpos B cells	0.9985817186589223	8.109450011453664e-4	5.666953372030332e-4	0.002133206606790044	5
-dataset_name-Samusik_seed-42	dgcytof	13	IgM- IgD- B-cells	IgM- IgD- B-cells	0.9831689116298036	0.003081767950527051	0.00746560928891689	0.0037361467035623643	5
-dataset_name-Samusik_seed-42	dgcytof	14	Intermediate Monocytes	Intermediate Monocytes	0.9974062208922191	5.011013126957822e-4	5.847829022540631e-4	0.0014412046998794838	5
-dataset_name-Samusik_seed-42	dgcytof	15	MEP	MEP	0.9769511036830583	0.019797286452406433	0.0066441327085133145	0.04219414737662491	5
-dataset_name-Samusik_seed-42	dgcytof	16	MPP	MPP	0.878322361682027	0.041639533020050384	0.07484813605826444	0.041586170825918436	5
-dataset_name-Samusik_seed-42	dgcytof	17	Macrophages	Macrophages	0.9160342098428131	0.004209501421211252	0.017004987917984795	0.02324966866873793	5
-dataset_name-Samusik_seed-42	dgcytof	18	NK cells	NK cells	0.9397082852449379	0.018580279169930946	0.03535275843159993	0.04692236013217112	5
-dataset_name-Samusik_seed-42	dgcytof	19	NKT cells	NKT cells	0.9650892029622858	0.008399121947265272	0.020838739931097857	0.013410366140027784	5
-dataset_name-Samusik_seed-42	dgcytof	2	Basophils	Basophils	0.9526305504411755	0.009195801471470177	0.03126053199092034	0.02511550569247959	5
-dataset_name-Samusik_seed-42	dgcytof	20	Non-Classical Monocytes	Non-Classical Monocytes	0.9917827589920412	0.00179294443190189	0.00306802262973382	0.0017877279406806183	5
-dataset_name-Samusik_seed-42	dgcytof	21	Plasma Cells	Plasma Cells	0.9005884093721779	0.07758481677729326	0.016075377871087194	0.13757989927945244	5
-dataset_name-Samusik_seed-42	dgcytof	22	gd T cells	gd T cells	0.8483133204195583	0.0960281614339947	0.03397361649809186	0.15692457954290823	5
-dataset_name-Samusik_seed-42	dgcytof	23	mDCs	mDCs	0.9295640593177873	0.014184839546263402	0.041547469065289826	0.02520140739812398	5
-dataset_name-Samusik_seed-42	dgcytof	24	pDCs	pDCs	0.9970838765657932	5.915360575420649e-4	0.001334232392358311	0.001416651281058234	5
-dataset_name-Samusik_seed-42	dgcytof	3	CD4 T cells	CD4 T cells	0.9610310362408598	0.0068360526309664636	0.015733113550557107	0.008781756168841862	5
-dataset_name-Samusik_seed-42	dgcytof	4	CD8 T cells	CD8 T cells	0.9911318532298724	0.0035875514870143442	0.0029767312825104007	0.00823307297700882	5
-dataset_name-Samusik_seed-42	dgcytof	5	CLP	CLP	0.6363857753986459	0.10633930545613317	0.045335568269933076	0.14144137717556557	5
-dataset_name-Samusik_seed-42	dgcytof	6	CMP	CMP	0.9228744444136145	0.016047906163211084	0.03630700032961895	0.05861711386577579	5
-dataset_name-Samusik_seed-42	dgcytof	7	Classical Monocytes	Classical Monocytes	0.9972950486032313	0.0012412481389691284	0.0030346281105914645	0.001530880945885838	5
-dataset_name-Samusik_seed-42	dgcytof	8	Eosinophils	Eosinophils	0.9928701854909618	0.002153787108308344	0.005001683398014648	0.005102437755461069	5
-dataset_name-Samusik_seed-42	dgcytof	9	GMP	GMP	0.9571917832372819	0.028083103736870067	0.010182060021626374	0.05462508251705371	5
-dataset_name-Samusik_seed-42	gatemeclass	1	B-cell Frac A-C (pro-B cells)	B-cell Frac A-C (pro-B cells)	0.14029471577912023	0.07629491256684319	0.0326208612952616	0.13278014737821506	5
-dataset_name-Samusik_seed-42	gatemeclass	10	HSC	HSC	0.0392156862745098	NA	0.02	0.017200522903844537	5
-dataset_name-Samusik_seed-42	gatemeclass	11	IgD- IgMpos B cells	IgD- IgMpos B cells	0.8006409167895433	0.05256337883824804	0.0018540982665267993	0.08224651841189345	5
-dataset_name-Samusik_seed-42	gatemeclass	12	IgDpos IgMpos B cells	IgDpos IgMpos B cells	0.9858749974603113	4.933611652373439e-4	0.0010457335606615969	4.137598825137574e-4	5
-dataset_name-Samusik_seed-42	gatemeclass	13	IgM- IgD- B-cells	IgM- IgD- B-cells	0.5892016751906427	0.0011416846962672973	0.005369940061921627	0.31044574465755886	5
-dataset_name-Samusik_seed-42	gatemeclass	14	Intermediate Monocytes	Intermediate Monocytes	0.9460683009186968	0.002842962838374458	0.0019217718606174094	0.006575889982699416	5
-dataset_name-Samusik_seed-42	gatemeclass	15	MEP	MEP	0.9487319439526268	0.020762187543188548	0.0027274845651336114	0.039366821162302605	5
-dataset_name-Samusik_seed-42	gatemeclass	16	MPP	MPP	0.8143955818983623	0.011477457988966357	0.007323727421263381	0.028403543527213693	5
-dataset_name-Samusik_seed-42	gatemeclass	17	Macrophages	Macrophages	0.8764767652282937	0.005952227796863197	0.013047213490427303	0.006245721298384576	5
-dataset_name-Samusik_seed-42	gatemeclass	18	NK cells	NK cells	0.7287347510514088	0.03627357864685322	0.020031805598862397	0.05504424309035389	5
-dataset_name-Samusik_seed-42	gatemeclass	19	NKT cells	NKT cells	0.9204562701925927	0.008815488465463657	0.02139720920135128	0.004763018352170575	5
-dataset_name-Samusik_seed-42	gatemeclass	2	Basophils	Basophils	0.8821185015966702	0.02198236677076568	0.050015170829250215	0.012622257272432665	5
-dataset_name-Samusik_seed-42	gatemeclass	20	Non-Classical Monocytes	Non-Classical Monocytes	0.7295378247213749	0.02197969267546895	0.02748948544871171	4.1983628259469654e-4	5
-dataset_name-Samusik_seed-42	gatemeclass	21	Plasma Cells	Plasma Cells	0.8705738536480734	0.025315753910193962	0.0030391372943018003	0.04013736129321219	5
-dataset_name-Samusik_seed-42	gatemeclass	22	gd T cells	gd T cells	0.20383614088373625	0.09331299829152985	0.022613113291965647	0.061463665766324053	5
-dataset_name-Samusik_seed-42	gatemeclass	23	mDCs	mDCs	0.8945898663624344	0.0072271172363135875	0.011697999151391037	0.018503310539162175	5
-dataset_name-Samusik_seed-42	gatemeclass	24	pDCs	pDCs	0.9910688248662272	0.0023524593552146592	0.004812454743732231	2.0131872809087944e-4	5
-dataset_name-Samusik_seed-42	gatemeclass	3	CD4 T cells	CD4 T cells	0.940603714926912	0.0017967599225333871	0.0036421397961364436	0.002759789328498511	5
-dataset_name-Samusik_seed-42	gatemeclass	4	CD8 T cells	CD8 T cells	0.9865780064156274	9.533593051980062e-4	0.002410764328821719	0.0010050339312421414	5
-dataset_name-Samusik_seed-42	gatemeclass	5	CLP	CLP	0.21698337855595728	0.041217596728595575	0.1028769486480345	0.04955964012562911	5
-dataset_name-Samusik_seed-42	gatemeclass	6	CMP	CMP	0.5954056736633461	0.08354180235114761	0.03596443814967801	0.10102189590574044	5
-dataset_name-Samusik_seed-42	gatemeclass	7	Classical Monocytes	Classical Monocytes	0.9815922761598409	0.0016847740640602955	0.0025597232501698877	0.005876381887655638	5
-dataset_name-Samusik_seed-42	gatemeclass	8	Eosinophils	Eosinophils	0.9691859960760923	0.001633332394616601	0.009672215902865875	0.009877309910685542	5
-dataset_name-Samusik_seed-42	gatemeclass	9	GMP	GMP	0.8519412658946158	0.0121042202045146	0.019602552001742962	0.009083846156928648	5
+dataset_name-Samusik_seed-42	dgcytof	1	B-cell Frac A-C (pro-B cells)	B-cell Frac A-C (pro-B cells)	0.8647490426544832	0.018443938084823697	0.03605131189830205	0.029311995843413527	5
+dataset_name-Samusik_seed-42	dgcytof	10	HSC	HSC	0.0847428917120387	0.018607819474461863	0.4333333333333333	0.03051045134134328	5
+dataset_name-Samusik_seed-42	dgcytof	11	IgD- IgMpos B cells	IgD- IgMpos B cells	0.9888394430571497	0.003662528402490839	0.0059732588818695665	0.008764307734065615	5
+dataset_name-Samusik_seed-42	dgcytof	12	IgDpos IgMpos B cells	IgDpos IgMpos B cells	0.9983280886323873	7.931317514863868e-4	0.0018204395886210866	6.604679782757719e-4	5
+dataset_name-Samusik_seed-42	dgcytof	13	IgM- IgD- B-cells	IgM- IgD- B-cells	0.9800289253523085	0.00501855940440787	0.011475013799787997	0.007839533718583395	5
+dataset_name-Samusik_seed-42	dgcytof	14	Intermediate Monocytes	Intermediate Monocytes	0.9962425427681183	0.0023722867089415157	7.559763623896564e-4	0.00542008672492316	5
+dataset_name-Samusik_seed-42	dgcytof	15	MEP	MEP	0.9850976296322144	0.0056742535977289555	0.004040635371029146	0.011533904535598374	5
+dataset_name-Samusik_seed-42	dgcytof	16	MPP	MPP	0.8781972173457371	0.01963634259456874	0.0381198033645987	0.05593587789160125	5
+dataset_name-Samusik_seed-42	dgcytof	17	Macrophages	Macrophages	0.915250338554193	0.005468117578675479	0.018251774645804717	0.015231125452921209	5
+dataset_name-Samusik_seed-42	dgcytof	18	NK cells	NK cells	0.9485177151268208	0.007495920889087088	0.015969089112583157	0.007235200266954046	5
+dataset_name-Samusik_seed-42	dgcytof	19	NKT cells	NKT cells	0.9606803036276618	0.016635171453373763	0.013404217440765732	0.03491158067109231	5
+dataset_name-Samusik_seed-42	dgcytof	2	Basophils	Basophils	0.9555088699526613	0.006615214600008623	0.017737302573243966	0.02548945339853727	5
+dataset_name-Samusik_seed-42	dgcytof	20	Non-Classical Monocytes	Non-Classical Monocytes	0.9875189132277582	0.007159758620485753	0.015605267488002518	0.003068349026049739	5
+dataset_name-Samusik_seed-42	dgcytof	21	Plasma Cells	Plasma Cells	0.929569676041873	0.045819071592437484	0.0235031400379416	0.09322816310218486	5
+dataset_name-Samusik_seed-42	dgcytof	22	gd T cells	gd T cells	0.8233069636844818	0.05256912990104941	0.12118877066602896	0.04870883886386866	5
+dataset_name-Samusik_seed-42	dgcytof	23	mDCs	mDCs	0.9236668447664599	0.030352647857539786	0.03352797214099708	0.0671355057902194	5
+dataset_name-Samusik_seed-42	dgcytof	24	pDCs	pDCs	0.9968146157122422	7.262138724215146e-4	5.448022265340999e-4	0.0016518416348806448	5
+dataset_name-Samusik_seed-42	dgcytof	3	CD4 T cells	CD4 T cells	0.9578983868152995	0.01574158179180079	0.036593887421113726	0.014519608099819543	5
+dataset_name-Samusik_seed-42	dgcytof	4	CD8 T cells	CD8 T cells	0.9898802082238921	0.0031782998113879086	0.008224151404357038	0.005525201990727663	5
+dataset_name-Samusik_seed-42	dgcytof	5	CLP	CLP	0.6246330728668431	0.08241460501828984	0.09019319000176075	0.12297597345548608	5
+dataset_name-Samusik_seed-42	dgcytof	6	CMP	CMP	0.9152400940689489	0.026783774134203086	0.02897620403603831	0.03620879788185764	5
+dataset_name-Samusik_seed-42	dgcytof	7	Classical Monocytes	Classical Monocytes	0.9966040251676389	0.0020422242974508778	0.002345690738281376	0.002355159453883178	5
+dataset_name-Samusik_seed-42	dgcytof	8	Eosinophils	Eosinophils	0.9907342877684224	0.0026185926333110285	0.00813477434899127	0.003292067776427828	5
+dataset_name-Samusik_seed-42	dgcytof	9	GMP	GMP	0.9556567061874158	0.009588943549245697	0.023768756514528425	0.03548363473381072	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	1	B-cell Frac A-C (pro-B cells)	B-cell Frac A-C (pro-B cells)	0.14029471577912023	0.07629491256684319	0.0326208612952616	0.13278014737821506	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	10	HSC	HSC	0.0392156862745098	NA	0.02	0.017200522903844537	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	11	IgD- IgMpos B cells	IgD- IgMpos B cells	0.8006409167895433	0.05256337883824804	0.0018540982665267993	0.08224651841189345	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	12	IgDpos IgMpos B cells	IgDpos IgMpos B cells	0.9858749974603113	4.933611652373439e-4	0.0010457335606615969	4.137598825137574e-4	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	13	IgM- IgD- B-cells	IgM- IgD- B-cells	0.5892016751906427	0.0011416846962672973	0.005369940061921627	0.31044574465755886	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	14	Intermediate Monocytes	Intermediate Monocytes	0.9460683009186968	0.002842962838374458	0.0019217718606174094	0.006575889982699416	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	15	MEP	MEP	0.9487319439526268	0.020762187543188548	0.0027274845651336114	0.039366821162302605	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	16	MPP	MPP	0.8143955818983623	0.011477457988966357	0.007323727421263381	0.028403543527213693	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	17	Macrophages	Macrophages	0.8764767652282937	0.005952227796863197	0.013047213490427303	0.006245721298384576	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	18	NK cells	NK cells	0.7287347510514088	0.03627357864685322	0.020031805598862397	0.05504424309035389	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	19	NKT cells	NKT cells	0.9204562701925927	0.008815488465463657	0.02139720920135128	0.004763018352170575	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	2	Basophils	Basophils	0.8821185015966702	0.02198236677076568	0.050015170829250215	0.012622257272432665	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	20	Non-Classical Monocytes	Non-Classical Monocytes	0.7295378247213749	0.02197969267546895	0.02748948544871171	4.1983628259469654e-4	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	21	Plasma Cells	Plasma Cells	0.8705738536480734	0.025315753910193962	0.0030391372943018003	0.04013736129321219	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	22	gd T cells	gd T cells	0.20383614088373625	0.09331299829152985	0.022613113291965647	0.061463665766324053	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	23	mDCs	mDCs	0.8945898663624344	0.0072271172363135875	0.011697999151391037	0.018503310539162175	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	24	pDCs	pDCs	0.9910688248662272	0.0023524593552146592	0.004812454743732231	2.0131872809087944e-4	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	3	CD4 T cells	CD4 T cells	0.940603714926912	0.0017967599225333871	0.0036421397961364436	0.002759789328498511	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	4	CD8 T cells	CD8 T cells	0.9865780064156274	9.533593051980062e-4	0.002410764328821719	0.0010050339312421414	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	5	CLP	CLP	0.21698337855595728	0.041217596728595575	0.1028769486480345	0.04955964012562911	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	6	CMP	CMP	0.5954056736633461	0.08354180235114761	0.03596443814967801	0.10102189590574044	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	7	Classical Monocytes	Classical Monocytes	0.9815922761598409	0.0016847740640602955	0.0025597232501698877	0.005876381887655638	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	8	Eosinophils	Eosinophils	0.9691859960760923	0.001633332394616601	0.009672215902865875	0.009877309910685542	5
+dataset_name-Samusik_seed-42	gatemeclass[E]	9	GMP	GMP	0.8519412658946158	0.0121042202045146	0.019602552001742962	0.009083846156928648	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	1	B-cell Frac A-C (pro-B cells)	B-cell Frac A-C (pro-B cells)	0.059062669985341	0.00792203086469711	0.0997194161781495	0.0038846204329605442	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	10	HSC	HSC	NA	NA	0	0	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	11	IgD- IgMpos B cells	IgD- IgMpos B cells	0.9074550392422556	0.001994783464354805	0.0028708209994284303	0.005293464897480231	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	12	IgDpos IgMpos B cells	IgDpos IgMpos B cells	0.9721464078251992	0.002038751922630168	0.003741369383585827	2.4321412327338616e-4	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	13	IgM- IgD- B-cells	IgM- IgD- B-cells	0.8882664800884655	0.006009063502908554	0.009554388993919112	0.006586078404804146	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	14	Intermediate Monocytes	Intermediate Monocytes	0.9391860348605402	0.0036147676910440758	0.0024373767591126024	0.006916461046695748	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	15	MEP	MEP	0.90907164447798	0.061026326224417185	8.860926831000313e-4	0.10101546055336146	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	16	MPP	MPP	0.6843370159065963	0.1083158539659415	0.06612213564481723	0.25646107741813245	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	17	Macrophages	Macrophages	0.8401081168433239	0.033086096958662714	0.014188556043676765	0.06303056920255672	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	18	NK cells	NK cells	0.7608023746971908	0.01608100352307974	0.013541929872997809	0.05361919501467496	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	19	NKT cells	NKT cells	0.893822906697241	0.009171977981486607	0.020590367407159454	0.005474167559300531	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	2	Basophils	Basophils	0.7310959278947058	0.025422063474695947	0.007703502525033311	0.03581428848747286	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	20	Non-Classical Monocytes	Non-Classical Monocytes	0.9760122287548153	0.0010821634191332545	9.886812979500866e-4	0.002629728446124622	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	21	Plasma Cells	Plasma Cells	0.599831531347465	0.07074423125256986	0.16472992253273014	0.2638163449381089	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	22	gd T cells	gd T cells	0.13448569748645045	0.08053755804738896	0.3816505114445261	0.06960065628391461	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	23	mDCs	mDCs	0.6305654835052733	0.24999591064347262	0.02512716482411991	0.2961330169912276	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	24	pDCs	pDCs	0.9902843849334705	0.0010850705253600613	0.001481556747503611	0.0010024186605623326	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	3	CD4 T cells	CD4 T cells	0.9264733768686854	0.0012649158106000933	0.001834954378769122	0.001547297072465181	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	4	CD8 T cells	CD8 T cells	0.9758216340137321	0.0010865229520705634	0.0037326444663909517	0.005309774332008884	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	5	CLP	CLP	0.23546875033658632	0.1739759611130574	0.16542668548271083	0.206241563542235	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	6	CMP	CMP	0.5982972722807148	0.02096444995726869	0.023959818905142496	0.029143262132262992	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	7	Classical Monocytes	Classical Monocytes	0.970577574178308	0.002200161220598702	3.193621542680522e-4	0.00442393001496162	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	8	Eosinophils	Eosinophils	0.9018956510143371	0.00951655628234248	0.016234351207343962	4.944349433446544e-4	5
+dataset_name-Samusik_seed-42	gatemeclass[V]	9	GMP	GMP	0.7950550459449747	0.009631059874722384	0.027477220474564027	0.0072525480261154416	5
 dataset_name-Samusik_seed-42	knn	1	B-cell Frac A-C (pro-B cells)	B-cell Frac A-C (pro-B cells)	0.1200450112963486	0.01245315615655724	0.00812015524423273	0.05788351386309544	5
 dataset_name-Samusik_seed-42	knn	10	HSC	HSC	0.016276347396287666	0.012590067063552188	0.0069973326330158995	0.15228631156677194	5
 dataset_name-Samusik_seed-42	knn	11	IgD- IgMpos B cells	IgD- IgMpos B cells	0.4888239568963388	0.05281804391094974	0.040844537118218074	0.07744893800328256	5
@@ -881,20 +1005,27 @@ dataset_name-Transformed_seed-42	cygate	4	CD8 T-cells	CD8 T-cells	0.757011367015
 dataset_name-Transformed_seed-42	cygate	5	DC	DC	0.7322625760879509	0.018878955396548457	0.031341056300679904	0.03771020273831456	5
 dataset_name-Transformed_seed-42	cygate	6	NK cells	NK cells	0.8194460394044618	0.03716508252375187	0.022290631210831347	0.09114419832144936	5
 dataset_name-Transformed_seed-42	cygate	7	monocytes	monocytes	0.7405857651459616	0.0453845068919546	0.060831306015767216	0.0984730587032526	5
-dataset_name-Transformed_seed-42	dgcytof	1	B-cells IgM+	B-cells IgM+	0.8774151589684374	0.027974431811516227	0.08835494644514429	0.05272861738788003	5
-dataset_name-Transformed_seed-42	dgcytof	2	B-cells IgM-	B-cells IgM-	0.6214520668664522	0.1760444611721407	0.07132881832574096	0.24118561546701817	5
-dataset_name-Transformed_seed-42	dgcytof	3	CD4 T-cells	CD4 T-cells	0.9278866178070461	0.017143761575137088	0.03005382737817692	0.040669425341651584	5
-dataset_name-Transformed_seed-42	dgcytof	4	CD8 T-cells	CD8 T-cells	0.8319786111384186	0.02046517005374219	0.05578906900847664	0.04663261692405752	5
-dataset_name-Transformed_seed-42	dgcytof	5	DC	DC	0.845601895063667	0.016640254625622967	0.06758648995443504	0.05692868693030034	5
-dataset_name-Transformed_seed-42	dgcytof	6	NK cells	NK cells	0.866517696732456	0.019496652396148038	0.054000362920776236	0.05570828062799863	5
-dataset_name-Transformed_seed-42	dgcytof	7	monocytes	monocytes	0.7935341339573797	0.02365034557011722	0.03641975852694485	0.05790856230083521	5
-dataset_name-Transformed_seed-42	gatemeclass	1	B-cells IgM+	B-cells IgM+	0.8708245046415394	0.012623659682320992	0.02154429797237593	0.005357874039880629	5
-dataset_name-Transformed_seed-42	gatemeclass	2	B-cells IgM-	B-cells IgM-	0.37399775956903564	0.14844177464222277	0.30630895773598044	0.1118115145942908	5
-dataset_name-Transformed_seed-42	gatemeclass	3	CD4 T-cells	CD4 T-cells	0.923778387776562	0.009881109575588048	0.030134827988978805	0.013591613862155294	5
-dataset_name-Transformed_seed-42	gatemeclass	4	CD8 T-cells	CD8 T-cells	0.6937702954344824	0.15421147377710698	0.055785184161830904	0.21308271080786642	5
-dataset_name-Transformed_seed-42	gatemeclass	5	DC	DC	0.3288452239473619	0.01903656228913445	0.01568470040320993	0.05645761775204855	5
-dataset_name-Transformed_seed-42	gatemeclass	6	NK cells	NK cells	0.7720280209627707	0.1059147315182916	0.16908501509804616	0.05309669231175275	5
-dataset_name-Transformed_seed-42	gatemeclass	7	monocytes	monocytes	0.6328868640279663	0.03532126144538754	0.049145723383481506	0.05716076130439604	5
+dataset_name-Transformed_seed-42	dgcytof	1	B-cells IgM+	B-cells IgM+	0.8767131855294599	0.025757591009901472	0.08491960944609392	0.04339831809920997	5
+dataset_name-Transformed_seed-42	dgcytof	2	B-cells IgM-	B-cells IgM-	0.6123281267850008	0.1532751955835249	0.08573668430937297	0.23781224313449043	5
+dataset_name-Transformed_seed-42	dgcytof	3	CD4 T-cells	CD4 T-cells	0.9376986456336526	0.007234931249387268	0.018358898687976678	0.02501599672391874	5
+dataset_name-Transformed_seed-42	dgcytof	4	CD8 T-cells	CD8 T-cells	0.8448622104549944	0.013686704171875898	0.014990759195730443	0.034010601925960615	5
+dataset_name-Transformed_seed-42	dgcytof	5	DC	DC	0.8393104726510588	0.020764937070404096	0.07697820342461106	0.04083447288171768	5
+dataset_name-Transformed_seed-42	dgcytof	6	NK cells	NK cells	0.8788739410102624	0.008650624131965805	0.03712914717888721	0.028269807844231273	5
+dataset_name-Transformed_seed-42	dgcytof	7	monocytes	monocytes	0.8084890599326797	0.009768093758371529	0.06169341103237747	0.0549416445086452	5
+dataset_name-Transformed_seed-42	gatemeclass[E]	1	B-cells IgM+	B-cells IgM+	0.8708245046415394	0.012623659682320992	0.02154429797237593	0.005357874039880629	5
+dataset_name-Transformed_seed-42	gatemeclass[E]	2	B-cells IgM-	B-cells IgM-	0.37399775956903564	0.14844177464222277	0.30630895773598044	0.1118115145942908	5
+dataset_name-Transformed_seed-42	gatemeclass[E]	3	CD4 T-cells	CD4 T-cells	0.923778387776562	0.009881109575588048	0.030134827988978805	0.013591613862155294	5
+dataset_name-Transformed_seed-42	gatemeclass[E]	4	CD8 T-cells	CD8 T-cells	0.6937702954344824	0.15421147377710698	0.055785184161830904	0.21308271080786642	5
+dataset_name-Transformed_seed-42	gatemeclass[E]	5	DC	DC	0.3288452239473619	0.01903656228913445	0.01568470040320993	0.05645761775204855	5
+dataset_name-Transformed_seed-42	gatemeclass[E]	6	NK cells	NK cells	0.7720280209627707	0.1059147315182916	0.16908501509804616	0.05309669231175275	5
+dataset_name-Transformed_seed-42	gatemeclass[E]	7	monocytes	monocytes	0.6328868640279663	0.03532126144538754	0.049145723383481506	0.05716076130439604	5
+dataset_name-Transformed_seed-42	gatemeclass[V]	1	B-cells IgM+	B-cells IgM+	0.43481675485829774	0.3308041873250647	0.2704707602935162	0.47743207533245746	5
+dataset_name-Transformed_seed-42	gatemeclass[V]	2	B-cells IgM-	B-cells IgM-	0.1938394669201961	0.10263454317376916	0.18516140138728368	0.32451120728601746	5
+dataset_name-Transformed_seed-42	gatemeclass[V]	3	CD4 T-cells	CD4 T-cells	0.8512405140706282	0.057168889399351386	0.04660978397414059	0.10698183328866806	5
+dataset_name-Transformed_seed-42	gatemeclass[V]	4	CD8 T-cells	CD8 T-cells	0.6379332555147491	0.02759209481224966	0.07321858930800774	0.10834490516889443	5
+dataset_name-Transformed_seed-42	gatemeclass[V]	5	DC	DC	0.18448203905032134	0.09327181000040911	0.2580557866140992	0.2002139255675689	5
+dataset_name-Transformed_seed-42	gatemeclass[V]	6	NK cells	NK cells	0.4759929994900207	0.2328927767367509	0.1411095003039222	0.2313006333706325	5
+dataset_name-Transformed_seed-42	gatemeclass[V]	7	monocytes	monocytes	0.41499933483327506	0.16452409720055128	0.168083104850386	0.3165994771866842	5
 dataset_name-Transformed_seed-42	knn	1	B-cells IgM+	B-cells IgM+	0.5864516892096776	0.07994769987062177	0.07699954894917155	0.1069120425186869	5
 dataset_name-Transformed_seed-42	knn	2	B-cells IgM-	B-cells IgM-	0.2063417108696018	0.05431345995974956	0.07006163886255787	0.15438256934597253	5
 dataset_name-Transformed_seed-42	knn	3	CD4 T-cells	CD4 T-cells	0.722006549786498	0.07942187910746841	0.04366940731853409	0.11707974781613258	5
@@ -917,25 +1048,30 @@ dataset_name-Transformed_seed-42	random	5	DC	DC	0.020493513791854368	4.452104439
 dataset_name-Transformed_seed-42	random	6	NK cells	NK cells	0.13616307398901853	0.00147333968411075	0.0020068818155762097	0.0017330696926764024	5
 dataset_name-Transformed_seed-42	random	7	monocytes	monocytes	0.11573314360590921	0.0035558502486864887	0.00423860007817176	0.003397551647088142	5
 dataset_name-flowcyt_seed-42	cyanno	1	B_Lymphocytes	B_Lymphocytes	0.941464464261627	0.07936572031685576	0.13280025950559327	0.0016366879343294727	5
-dataset_name-flowcyt_seed-42	cyanno	2	HSPCs	HSPCs	0.905328066400003	0.026875523765596522	0.06045183087597018	0.01738506057186477	5
-dataset_name-flowcyt_seed-42	cyanno	3	Mast_cells	Mast_cells	0.725852865199933	0.3324784147002234	0.022363283317655226	0.3361003183632744	5
-dataset_name-flowcyt_seed-42	cyanno	4	Monocytes	Monocytes	0.9590371433588272	0.0248999485996983	0.00296295715677636	0.04834082654721514	5
-dataset_name-flowcyt_seed-42	cyanno	5	T_Lymphocytes	T_Lymphocytes	0.9828445141729325	0.011841242279453922	0.01051719052784718	0.032456699635370984	5
+dataset_name-flowcyt_seed-42	cyanno	2	HSPCs	HSPCs	0.9053285664730559	0.026875681777710245	0.060451930842856647	0.01738506057186477	5
+dataset_name-flowcyt_seed-42	cyanno	3	Mast_cells	Mast_cells	0.7258183389429361	0.33245897815409425	0.022366643755505167	0.33606742024382247	5
+dataset_name-flowcyt_seed-42	cyanno	4	Monocytes	Monocytes	0.9590375218606845	0.024899521110083894	0.002962961366335312	0.04834005722902026	5
+dataset_name-flowcyt_seed-42	cyanno	5	T_Lymphocytes	T_Lymphocytes	0.9828444354732317	0.011841201973898955	0.010517289562406749	0.032456699635370984	5
 dataset_name-flowcyt_seed-42	cygate	1	B_Lymphocytes	B_Lymphocytes	0.953127467953094	0.020161835871812857	0.03927125549978793	0.003001713480607812	5
 dataset_name-flowcyt_seed-42	cygate	2	HSPCs	HSPCs	0.75734657555106	0.10500978172215678	0.034211476685162896	0.1451030769128421	5
 dataset_name-flowcyt_seed-42	cygate	3	Mast_cells	Mast_cells	0.3080106831884767	0.194001798307115	0.17694887950838445	0.05807207582817174	5
 dataset_name-flowcyt_seed-42	cygate	4	Monocytes	Monocytes	0.9644630250486752	0.006824012945365285	0.008195957352091733	0.016436668490449207	5
 dataset_name-flowcyt_seed-42	cygate	5	T_Lymphocytes	T_Lymphocytes	0.9490463803454982	0.006855592241428756	0.0028705430491569916	0.013162903585460422	5
-dataset_name-flowcyt_seed-42	dgcytof	1	B_Lymphocytes	B_Lymphocytes	0.7961757601937826	0.008525558615935685	0.010483162577495684	0.018951392933953183	5
-dataset_name-flowcyt_seed-42	dgcytof	2	HSPCs	HSPCs	0.8915886589003413	0.024003986034288792	0.04956693670982223	0.040451683099804375	5
-dataset_name-flowcyt_seed-42	dgcytof	3	Mast_cells	Mast_cells	0.8384727868875573	0.018402147228463374	0.07375211940042617	0.05558546037176361	5
-dataset_name-flowcyt_seed-42	dgcytof	4	Monocytes	Monocytes	0.9673594197955862	0.008520795168846839	0.014395627714307574	0.015926074145659285	5
-dataset_name-flowcyt_seed-42	dgcytof	5	T_Lymphocytes	T_Lymphocytes	0.9585702519242194	0.0033565388990913986	0.008142212858560259	0.0032544018708092017	5
-dataset_name-flowcyt_seed-42	gatemeclass	1	B_Lymphocytes	B_Lymphocytes	NA	NA	NA	0	5
-dataset_name-flowcyt_seed-42	gatemeclass	2	HSPCs	HSPCs	NA	NA	NA	0	5
-dataset_name-flowcyt_seed-42	gatemeclass	3	Mast_cells	Mast_cells	NA	NA	NA	0	5
-dataset_name-flowcyt_seed-42	gatemeclass	4	Monocytes	Monocytes	NA	NA	NA	0	5
-dataset_name-flowcyt_seed-42	gatemeclass	5	T_Lymphocytes	T_Lymphocytes	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	dgcytof	1	B_Lymphocytes	B_Lymphocytes	0.8012811061549849	0.0031196442323355514	0.0058979851974123995	0.0039501271019673516	5
+dataset_name-flowcyt_seed-42	dgcytof	2	HSPCs	HSPCs	0.8795086630134432	0.05021054019150138	0.033914285220060555	0.08939426712061563	5
+dataset_name-flowcyt_seed-42	dgcytof	3	Mast_cells	Mast_cells	0.8578731194697454	0.043636829980403864	0.08464092244128844	0.012837341455235938	5
+dataset_name-flowcyt_seed-42	dgcytof	4	Monocytes	Monocytes	0.9584144322943132	0.018378015272251014	0.047617188615704735	0.017902164706039864	5
+dataset_name-flowcyt_seed-42	dgcytof	5	T_Lymphocytes	T_Lymphocytes	0.9608023920945176	0.001021110091435808	5.002210007607202e-4	0.0022061271870355476	5
+dataset_name-flowcyt_seed-42	gatemeclass[E]	1	B_Lymphocytes	B_Lymphocytes	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[E]	2	HSPCs	HSPCs	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[E]	3	Mast_cells	Mast_cells	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[E]	4	Monocytes	Monocytes	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[E]	5	T_Lymphocytes	T_Lymphocytes	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[V]	1	B_Lymphocytes	B_Lymphocytes	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[V]	2	HSPCs	HSPCs	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[V]	3	Mast_cells	Mast_cells	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[V]	4	Monocytes	Monocytes	NA	NA	NA	0	5
+dataset_name-flowcyt_seed-42	gatemeclass[V]	5	T_Lymphocytes	T_Lymphocytes	NA	NA	NA	0	5
 dataset_name-flowcyt_seed-42	knn	1	B_Lymphocytes	B_Lymphocytes	0.4146759213985357	0.07145076923405662	0.0553991085555051	0.18354136206714167	5
 dataset_name-flowcyt_seed-42	knn	2	HSPCs	HSPCs	0.32604083119746	0.040871281275438466	0.0431402340456865	0.11601608413159578	5
 dataset_name-flowcyt_seed-42	knn	3	Mast_cells	Mast_cells	0.38002374968217	0.27330550798008657	0.356688333536584	0.15377575239732488	5
