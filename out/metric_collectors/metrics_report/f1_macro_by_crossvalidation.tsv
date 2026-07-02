@@ -1,497 +1,617 @@
-dataset	model	crossvalidation	run_id	f1_macro	n_cells
-dataset_name-BodenmillerXL_seed-42	cyanno	num-1	run0	0.8216039240493691	162079
-dataset_name-BodenmillerXL_seed-42	cyanno	num-2	run0	0.8842554979575122	157208
-dataset_name-BodenmillerXL_seed-42	cyanno	num-3	run0	0.8797331721650269	159648
-dataset_name-BodenmillerXL_seed-42	cyanno	num-4	run0	0.8385148362368967	160075
-dataset_name-BodenmillerXL_seed-42	cyanno	num-5	run0	0.8563224287925291	157517
-dataset_name-BodenmillerXL_seed-42	cygate	num-1	run0	0.7601495055841239	162079
-dataset_name-BodenmillerXL_seed-42	cygate	num-2	run0	0.7881810743855081	157208
-dataset_name-BodenmillerXL_seed-42	cygate	num-3	run0	0.7823011982146223	159648
-dataset_name-BodenmillerXL_seed-42	cygate	num-4	run0	0.8050942651807488	160075
-dataset_name-BodenmillerXL_seed-42	cygate	num-5	run0	0.7904181339507336	157517
-dataset_name-BodenmillerXL_seed-42	dgcytof	num-1	run0	0.8786311484026579	162079
-dataset_name-BodenmillerXL_seed-42	dgcytof	num-2	run0	0.8895787658273129	157208
-dataset_name-BodenmillerXL_seed-42	dgcytof	num-3	run0	0.894479457525575	159648
-dataset_name-BodenmillerXL_seed-42	dgcytof	num-4	run0	0.8803137626658853	160075
-dataset_name-BodenmillerXL_seed-42	dgcytof	num-5	run0	0.8962786858674024	157517
-dataset_name-BodenmillerXL_seed-42	gatemeclass[E]	num-1	run0	0.6130637178918602	162079
-dataset_name-BodenmillerXL_seed-42	gatemeclass[E]	num-2	run0	0.6047652353161651	157208
-dataset_name-BodenmillerXL_seed-42	gatemeclass[E]	num-3	run0	0.6997292260489774	159648
-dataset_name-BodenmillerXL_seed-42	gatemeclass[E]	num-4	run0	0.6943017884047045	160075
-dataset_name-BodenmillerXL_seed-42	gatemeclass[E]	num-5	run0	0.6917729582229464	157517
-dataset_name-BodenmillerXL_seed-42	gatemeclass[V]	num-1	run0	0.48047752787532455	162079
-dataset_name-BodenmillerXL_seed-42	gatemeclass[V]	num-2	run0	0.4617240644606627	157208
-dataset_name-BodenmillerXL_seed-42	gatemeclass[V]	num-3	run0	0.4834124934639606	159648
-dataset_name-BodenmillerXL_seed-42	gatemeclass[V]	num-4	run0	0.4438187735290659	160075
-dataset_name-BodenmillerXL_seed-42	gatemeclass[V]	num-5	run0	0.41871949936109865	157517
-dataset_name-BodenmillerXL_seed-42	knn	num-1	run0	0.8040689339556458	162079
-dataset_name-BodenmillerXL_seed-42	knn	num-2	run0	0.8166267380981964	157208
-dataset_name-BodenmillerXL_seed-42	knn	num-3	run0	0.8086266144377804	159648
-dataset_name-BodenmillerXL_seed-42	knn	num-4	run0	0.798774339895532	160075
-dataset_name-BodenmillerXL_seed-42	knn	num-5	run0	0.8074675678614897	157517
-dataset_name-BodenmillerXL_seed-42	lda	num-1	run0	0.8425357659904259	162079
-dataset_name-BodenmillerXL_seed-42	lda	num-2	run0	0.8434733825699127	157208
-dataset_name-BodenmillerXL_seed-42	lda	num-3	run0	0.8415303960906312	159648
-dataset_name-BodenmillerXL_seed-42	lda	num-4	run0	0.8380765493428177	160075
-dataset_name-BodenmillerXL_seed-42	lda	num-5	run0	0.8314088433285747	157517
-dataset_name-BodenmillerXL_seed-42	random	num-1	run0	0.10311050259709943	162079
-dataset_name-BodenmillerXL_seed-42	random	num-2	run0	0.10411100350732624	157208
-dataset_name-BodenmillerXL_seed-42	random	num-3	run0	0.10377542901298428	159648
-dataset_name-BodenmillerXL_seed-42	random	num-4	run0	0.10477292661557049	160075
-dataset_name-BodenmillerXL_seed-42	random	num-5	run0	0.10514479817177942	157517
-dataset_name-FR-FCM-Z238_seed-42	cyanno	num-1	run0	0.7952802426802872	2400492
-dataset_name-FR-FCM-Z238_seed-42	cyanno	num-2	run0	0.7630188949479874	2351561
-dataset_name-FR-FCM-Z238_seed-42	cyanno	num-3	run0	0.746575501908175	2403060
-dataset_name-FR-FCM-Z238_seed-42	cyanno	num-4	run0	0.7503246459161734	2390998
-dataset_name-FR-FCM-Z238_seed-42	cyanno	num-5	run0	0.7680609501371106	2385788
-dataset_name-FR-FCM-Z238_seed-42	cygate	num-1	run0	0.7181521490805768	2400492
-dataset_name-FR-FCM-Z238_seed-42	cygate	num-2	run0	0.6790520790044676	2351561
-dataset_name-FR-FCM-Z238_seed-42	cygate	num-3	run0	0.7324490903595278	2403060
-dataset_name-FR-FCM-Z238_seed-42	cygate	num-4	run0	0.7071527700905665	2390998
-dataset_name-FR-FCM-Z238_seed-42	cygate	num-5	run0	0.7035937720499604	2385788
-dataset_name-FR-FCM-Z238_seed-42	dgcytof	num-1	run0	0.7750403553058756	2400492
-dataset_name-FR-FCM-Z238_seed-42	dgcytof	num-2	run0	0.7505043958263143	2351561
-dataset_name-FR-FCM-Z238_seed-42	dgcytof	num-3	run0	0.7529029461443867	2403060
-dataset_name-FR-FCM-Z238_seed-42	dgcytof	num-4	run0	0.749482586570368	2390998
-dataset_name-FR-FCM-Z238_seed-42	dgcytof	num-5	run0	0.7384685903553626	2385788
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[E]	num-1	run0	NA	2400492
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[E]	num-2	run0	NA	2351561
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[E]	num-3	run0	NA	2403060
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[E]	num-4	run0	NA	2390998
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[E]	num-5	run0	NA	2385788
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[V]	num-1	run0	NA	2400492
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[V]	num-2	run0	NA	2351561
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[V]	num-3	run0	NA	2403060
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[V]	num-4	run0	NA	2390998
-dataset_name-FR-FCM-Z238_seed-42	gatemeclass[V]	num-5	run0	NA	2385788
-dataset_name-FR-FCM-Z238_seed-42	knn	num-1	run0	0.6835761866022693	2400492
-dataset_name-FR-FCM-Z238_seed-42	knn	num-2	run0	0.6569476433454133	2351561
-dataset_name-FR-FCM-Z238_seed-42	knn	num-3	run0	0.7246796875518731	2403060
-dataset_name-FR-FCM-Z238_seed-42	knn	num-4	run0	0.7120532965082849	2390998
-dataset_name-FR-FCM-Z238_seed-42	knn	num-5	run0	0.6938150563822919	2385788
-dataset_name-FR-FCM-Z238_seed-42	lda	num-1	run0	0.7232860003612674	2400492
-dataset_name-FR-FCM-Z238_seed-42	lda	num-2	run0	0.7007626620478442	2351561
-dataset_name-FR-FCM-Z238_seed-42	lda	num-3	run0	0.7162564936849146	2403060
-dataset_name-FR-FCM-Z238_seed-42	lda	num-4	run0	0.7368915501900243	2390998
-dataset_name-FR-FCM-Z238_seed-42	lda	num-5	run0	0.7263742952356184	2385788
-dataset_name-FR-FCM-Z238_seed-42	random	num-1	run0	0.03263755615597446	2400492
-dataset_name-FR-FCM-Z238_seed-42	random	num-2	run0	0.030631973468398025	2351561
-dataset_name-FR-FCM-Z238_seed-42	random	num-3	run0	0.0372495141259506	2403060
-dataset_name-FR-FCM-Z238_seed-42	random	num-4	run0	0.03473500971449008	2390998
-dataset_name-FR-FCM-Z238_seed-42	random	num-5	run0	0.03507457081051325	2385788
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cyanno	num-1	run0	0.9805540647389256	3315861
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cyanno	num-2	run0	0.975143066336179	3490514
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cyanno	num-3	run0	0.9740069142283323	3390064
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cyanno	num-4	run0	0.9842201715215279	3423803
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cyanno	num-5	run0	0.9824104001597765	3496879
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cygate	num-1	run0	0.9365780639005434	3315861
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cygate	num-2	run0	0.7672940963653354	3490514
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cygate	num-3	run0	0.7638318645987333	3390064
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cygate	num-4	run0	0.8676654275302594	3423803
-dataset_name-FR-FCM-Z2KP-covid_seed-42	cygate	num-5	run0	0.7938443618772052	3496879
-dataset_name-FR-FCM-Z2KP-covid_seed-42	dgcytof	num-1	run0	0.9830214564477213	3315861
-dataset_name-FR-FCM-Z2KP-covid_seed-42	dgcytof	num-2	run0	0.9343559434951919	3490514
-dataset_name-FR-FCM-Z2KP-covid_seed-42	dgcytof	num-3	run0	0.9813810254380669	3390064
-dataset_name-FR-FCM-Z2KP-covid_seed-42	dgcytof	num-4	run0	0.978436261289288	3423803
-dataset_name-FR-FCM-Z2KP-covid_seed-42	dgcytof	num-5	run0	0.980306594747064	3496879
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[E]	num-1	run0	NA	3315861
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[E]	num-2	run0	NA	3490514
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[E]	num-3	run0	NA	3390064
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[E]	num-4	run0	NA	3423803
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[E]	num-5	run0	NA	3496879
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[V]	num-1	run0	NA	3315861
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[V]	num-2	run0	NA	3490514
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[V]	num-3	run0	NA	3390064
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[V]	num-4	run0	NA	3423803
-dataset_name-FR-FCM-Z2KP-covid_seed-42	gatemeclass[V]	num-5	run0	NA	3496879
-dataset_name-FR-FCM-Z2KP-covid_seed-42	knn	num-1	run0	0.7158000064707002	3315861
-dataset_name-FR-FCM-Z2KP-covid_seed-42	knn	num-2	run0	0.7245023494865678	3490514
-dataset_name-FR-FCM-Z2KP-covid_seed-42	knn	num-3	run0	0.7238901453308595	3390064
-dataset_name-FR-FCM-Z2KP-covid_seed-42	knn	num-4	run0	0.7241821116553715	3423803
-dataset_name-FR-FCM-Z2KP-covid_seed-42	knn	num-5	run0	0.6810847337865248	3496879
-dataset_name-FR-FCM-Z2KP-covid_seed-42	lda	num-1	run0	0.8362823041550682	3315861
-dataset_name-FR-FCM-Z2KP-covid_seed-42	lda	num-2	run0	0.7417586125625997	3490514
-dataset_name-FR-FCM-Z2KP-covid_seed-42	lda	num-3	run0	0.7300579775012228	3390064
-dataset_name-FR-FCM-Z2KP-covid_seed-42	lda	num-4	run0	0.7779861297266955	3423803
-dataset_name-FR-FCM-Z2KP-covid_seed-42	lda	num-5	run0	0.7419122798822576	3496879
-dataset_name-FR-FCM-Z2KP-covid_seed-42	random	num-1	run0	0.15843969729566507	3315861
-dataset_name-FR-FCM-Z2KP-covid_seed-42	random	num-2	run0	0.15848986556498892	3490514
-dataset_name-FR-FCM-Z2KP-covid_seed-42	random	num-3	run0	0.15840412313589086	3390064
-dataset_name-FR-FCM-Z2KP-covid_seed-42	random	num-4	run0	0.15734043056187325	3423803
-dataset_name-FR-FCM-Z2KP-covid_seed-42	random	num-5	run0	0.15786869033281942	3496879
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cyanno	num-1	run0	0.9784841204535832	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cyanno	num-2	run0	0.987554189890648	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cyanno	num-3	run0	0.9822074872410326	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cyanno	num-4	run0	0.9843289849054321	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cyanno	num-5	run0	0.9896848497365129	1212710
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cygate	num-1	run0	0.8982124160244744	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cygate	num-2	run0	0.8126577065835203	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cygate	num-3	run0	0.7859492908895558	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cygate	num-4	run0	0.9083407134140691	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	cygate	num-5	run0	0.9367115334675825	1212710
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	dgcytof	num-1	run0	0.9645264610584448	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	dgcytof	num-2	run0	0.9820581558046761	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	dgcytof	num-3	run0	0.9777430771430486	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	dgcytof	num-4	run0	0.989240253335962	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	dgcytof	num-5	run0	0.9787949486335323	1212710
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[E]	num-1	run0	0.45817044346718233	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[E]	num-2	run0	0.5546169543705626	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[E]	num-3	run0	0.557012778402322	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[E]	num-4	run0	0.3073497129947483	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[E]	num-5	run0	0.5759669481755598	1212710
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[V]	num-1	run0	0.3106879036754792	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[V]	num-2	run0	0.26913951002150255	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[V]	num-3	run0	0.49934005224899447	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[V]	num-4	run0	0.21397077002698614	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	gatemeclass[V]	num-5	run0	0.30910587100517073	1212710
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	knn	num-1	run0	0.7025658228341641	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	knn	num-2	run0	0.7186348065321567	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	knn	num-3	run0	0.6981745023259391	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	knn	num-4	run0	0.7085207010360056	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	knn	num-5	run0	0.7234152773405212	1212710
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	lda	num-1	run0	0.7535333772526045	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	lda	num-2	run0	0.7919893213342701	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	lda	num-3	run0	0.7647843450591034	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	lda	num-4	run0	0.7705695824713564	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	lda	num-5	run0	0.7982048694169853	1212710
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	random	num-1	run0	0.16039133392770968	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	random	num-2	run0	0.1597000324944399	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	random	num-3	run0	0.15722081019639395	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	random	num-4	run0	0.15806433532034378	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-42	random	num-5	run0	0.16150250745756078	1212710
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cyanno	num-1	run0	0.8308181110212682	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cyanno	num-2	run0	0.8079152953080285	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cyanno	num-3	run0	0.8989657658481967	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cyanno	num-4	run0	0.9203976719526997	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cyanno	num-5	run0	0.915842988671459	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cygate	num-1	run0	0.9225416572395583	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cygate	num-2	run0	0.9033786986560767	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cygate	num-3	run0	0.8068756700781909	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cygate	num-4	run0	0.8695317367132421	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	cygate	num-5	run0	0.8073650876748955	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	dgcytof	num-1	run0	0.7576874012757046	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	dgcytof	num-2	run0	0.7593425184484149	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	dgcytof	num-3	run0	0.7992954600523584	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	dgcytof	num-4	run0	0.8204077825780243	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	dgcytof	num-5	run0	0.7834308225403696	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[E]	num-1	run0	0.22998629148534316	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[E]	num-2	run0	0.4263132099291447	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[E]	num-3	run0	0.6095706654404947	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[E]	num-4	run0	0.44242462025155244	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[E]	num-5	run0	0.458032678060703	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[V]	num-1	run0	0.33233422683222	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[V]	num-2	run0	0.6317162221750752	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[V]	num-3	run0	0.32787602709222374	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[V]	num-4	run0	0.4746824614787193	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	gatemeclass[V]	num-5	run0	0.44101383996562915	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	knn	num-1	run0	0.6787870488730389	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	knn	num-2	run0	0.6723210510225716	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	knn	num-3	run0	0.6921417261074653	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	knn	num-4	run0	0.6737684950345565	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	knn	num-5	run0	0.6985948895213532	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	lda	num-1	run0	0.7345897517900641	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	lda	num-2	run0	0.7758951779070609	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	lda	num-3	run0	0.7887094579868069	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	lda	num-4	run0	0.7422168518822791	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	lda	num-5	run0	0.7788975209631271	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	random	num-1	run0	0.16099543731613325	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	random	num-2	run0	0.1638744658052645	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	random	num-3	run0	0.15927172078433677	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	random	num-4	run0	0.15860307829289627	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000	random	num-5	run0	0.1575343956742471	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cyanno	num-1	run0	0.9680520492438485	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cyanno	num-2	run0	0.9670841438746528	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cyanno	num-3	run0	0.9567337171991419	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cyanno	num-4	run0	0.9724307092950468	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cyanno	num-5	run0	0.9699984356684113	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cygate	num-1	run0	0.8946715524069301	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cygate	num-2	run0	0.7953234152538362	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cygate	num-3	run0	0.827536733791949	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cygate	num-4	run0	0.9116582258631208	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	cygate	num-5	run0	0.8244222831114756	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	dgcytof	num-1	run0	0.8870467527067861	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	dgcytof	num-2	run0	0.9091837720391258	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	dgcytof	num-3	run0	0.906242240691977	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	dgcytof	num-4	run0	0.9245238527102224	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	dgcytof	num-5	run0	0.9128534635703799	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[E]	num-1	run0	0.536389648720216	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[E]	num-2	run0	0.425512189875238	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[E]	num-3	run0	0.28859194996042825	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[E]	num-4	run0	0.5888232432818723	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[E]	num-5	run0	0.2986250451573984	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[V]	num-1	run0	0.2211481638336986	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[V]	num-2	run0	0.6726201791741784	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[V]	num-3	run0	0.26913951002150255	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[V]	num-4	run0	0.4623768223924632	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	gatemeclass[V]	num-5	run0	0.5665775689776626	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	knn	num-1	run0	0.6824947482340016	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	knn	num-2	run0	0.6878377140740602	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	knn	num-3	run0	0.7112534122603227	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	knn	num-4	run0	0.7061942589091834	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	knn	num-5	run0	0.6910224674738434	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	lda	num-1	run0	0.7612950846552824	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	lda	num-2	run0	0.8220052055408177	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	lda	num-3	run0	0.7899019668832731	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	lda	num-4	run0	0.7690756616917146	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	lda	num-5	run0	0.7650833707990249	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	random	num-1	run0	0.16066420310920188	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	random	num-2	run0	0.16369793009551406	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	random	num-3	run0	0.15915496376846217	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	random	num-4	run0	0.15762625205711234	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000	random	num-5	run0	0.15763035065243297	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cyanno	num-1	run0	0.9767689858005537	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cyanno	num-2	run0	0.9781149863346716	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cyanno	num-3	run0	0.9831013688209242	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cyanno	num-4	run0	0.9805341596202244	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cyanno	num-5	run0	0.9793391205501036	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cygate	num-1	run0	0.8802418460388874	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cygate	num-2	run0	0.7789480891029095	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cygate	num-3	run0	0.8275607035672706	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cygate	num-4	run0	0.9071667148539359	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	cygate	num-5	run0	0.7893624510069965	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	dgcytof	num-1	run0	0.961499646126137	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	dgcytof	num-2	run0	0.9445450884873926	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	dgcytof	num-3	run0	0.9615495058953348	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	dgcytof	num-4	run0	0.9616273060755504	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	dgcytof	num-5	run0	0.9759015696180144	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[E]	num-1	run0	0.39073626763113556	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[E]	num-2	run0	0.26467075013146457	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[E]	num-3	run0	0.5546169543705626	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[E]	num-4	run0	0.3073497129947483	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[E]	num-5	run0	0.557012778402322	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[V]	num-1	run0	0.3106879036754792	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[V]	num-2	run0	0.40564702211542203	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[V]	num-3	run0	0.2928701245505583	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[V]	num-4	run0	0.21397077002698614	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	gatemeclass[V]	num-5	run0	0.4991232873348303	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	knn	num-1	run0	0.6965068936097077	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	knn	num-2	run0	0.6987834211759365	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	knn	num-3	run0	0.7116166790177821	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	knn	num-4	run0	0.6981774398330528	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	knn	num-5	run0	0.6867599733521453	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	lda	num-1	run0	0.7530984872556363	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	lda	num-2	run0	0.8150698369662788	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	lda	num-3	run0	0.7914785984054873	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	lda	num-4	run0	0.7694551178598935	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	lda	num-5	run0	0.7666011273424431	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	random	num-1	run0	0.16079857823119797	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	random	num-2	run0	0.16393827343458314	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	random	num-3	run0	0.15905754835789665	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	random	num-4	run0	0.1577109434112302	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000	random	num-5	run0	0.15770712657209368	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cyanno	num-1	run0	0.9592774943699884	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cyanno	num-2	run0	0.9540479069858833	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cyanno	num-3	run0	0.936302870362143	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cyanno	num-4	run0	0.9690429546083023	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cyanno	num-5	run0	0.9653267565570568	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cygate	num-1	run0	0.8725252818632704	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cygate	num-2	run0	0.8017196227104565	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cygate	num-3	run0	0.8029001976049417	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cygate	num-4	run0	0.8141000491725221	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	cygate	num-5	run0	0.7945520013600905	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	dgcytof	num-1	run0	0.8476014176120389	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	dgcytof	num-2	run0	0.8813201913738661	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	dgcytof	num-3	run0	0.8880178784308113	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	dgcytof	num-4	run0	0.8687773560366537	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	dgcytof	num-5	run0	0.892133619099479	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[E]	num-1	run0	0.45817044346718233	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[E]	num-2	run0	0.46445078174302096	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[E]	num-3	run0	0.8212411803459417	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[E]	num-4	run0	0.3073497129947483	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[E]	num-5	run0	0.5778132676898142	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[V]	num-1	run0	0.3219094131332606	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[V]	num-2	run0	0.4035624963647895	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[V]	num-3	run0	0.29812745797010826	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[V]	num-4	run0	0.4074246004850299	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	gatemeclass[V]	num-5	run0	0.5225097463664046	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	knn	num-1	run0	0.682270214755183	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	knn	num-2	run0	0.7009559797173965	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	knn	num-3	run0	0.7140435075653302	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	knn	num-4	run0	0.7036425279646612	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	knn	num-5	run0	0.706756917494975	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	lda	num-1	run0	0.7505126123473013	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	lda	num-2	run0	0.7967312435738445	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	lda	num-3	run0	0.7793669742649627	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	lda	num-4	run0	0.7707729125019548	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	lda	num-5	run0	0.7683148772427857	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	random	num-1	run0	0.16081574596390005	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	random	num-2	run0	0.1632668667968289	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	random	num-3	run0	0.15915496376846217	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	random	num-4	run0	0.1578516734156322	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000	random	num-5	run0	0.15818197298897846	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cyanno	num-1	run0	0.9747074414300012	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cyanno	num-2	run0	0.9740758716167072	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cyanno	num-3	run0	0.9803786672825894	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cyanno	num-4	run0	0.9765207518102074	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cyanno	num-5	run0	0.9756084077474091	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cygate	num-1	run0	0.8971876181173339	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cygate	num-2	run0	0.7841217679041568	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cygate	num-3	run0	0.8132249954766498	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cygate	num-4	run0	0.9074551514792522	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	cygate	num-5	run0	0.7814853253630907	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	dgcytof	num-1	run0	0.9435231237178225	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	dgcytof	num-2	run0	0.9518832410426363	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	dgcytof	num-3	run0	0.9596661206281774	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	dgcytof	num-4	run0	0.9710809279521782	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	dgcytof	num-5	run0	0.9694002137884208	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[E]	num-1	run0	0.877897151547767	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[E]	num-2	run0	0.35799782669353053	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[E]	num-3	run0	0.45212996569238073	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[E]	num-4	run0	0.5558158356316926	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[E]	num-5	run0	0.6156941751325433	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[V]	num-1	run0	0.2810776325735006	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[V]	num-2	run0	0.6317162221750752	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[V]	num-3	run0	0.26913951002150255	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[V]	num-4	run0	0.3977703634753884	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	gatemeclass[V]	num-5	run0	0.4999734870360899	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	knn	num-1	run0	0.6867633018339293	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	knn	num-2	run0	0.6825861361821196	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	knn	num-3	run0	0.7139998474368693	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	knn	num-4	run0	0.6933199275841687	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	knn	num-5	run0	0.6907539428076592	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	lda	num-1	run0	0.7546688269521665	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	lda	num-2	run0	0.8152467686148765	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	lda	num-3	run0	0.7921298771809872	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	lda	num-4	run0	0.7693224388957968	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	lda	num-5	run0	0.7605418976780606	1231233
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	random	num-1	run0	0.160448340210385	1346699
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	random	num-2	run0	0.16337578168596023	1274361
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	random	num-3	run0	0.15924817166000968	1174493
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	random	num-4	run0	0.157037604193749	1266374
-dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000	random	num-5	run0	0.15847507869105107	1231233
-dataset_name-FR-FCM-Z3YR_seed-42	cyanno	num-1	run0	0.9087725542656641	5794359
-dataset_name-FR-FCM-Z3YR_seed-42	cyanno	num-2	run0	0.9894129038804861	5293713
-dataset_name-FR-FCM-Z3YR_seed-42	cyanno	num-3	run0	0.9232636463238608	5800412
-dataset_name-FR-FCM-Z3YR_seed-42	cyanno	num-4	run0	0.9852732693617894	5372621
-dataset_name-FR-FCM-Z3YR_seed-42	cyanno	num-5	run0	0.9865006026771888	5526683
-dataset_name-FR-FCM-Z3YR_seed-42	cygate	num-1	run0	0.717778078642117	5794359
-dataset_name-FR-FCM-Z3YR_seed-42	cygate	num-2	run0	0.712068930135471	5293713
-dataset_name-FR-FCM-Z3YR_seed-42	cygate	num-3	run0	0.7201404048714883	5800412
-dataset_name-FR-FCM-Z3YR_seed-42	cygate	num-4	run0	0.7155751454602497	5372621
-dataset_name-FR-FCM-Z3YR_seed-42	cygate	num-5	run0	0.7048078685010614	5526683
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	num-1	run0	0.7956415755941807	5794359
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	num-2	run0	0.9211606495802187	5293713
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	num-3	run0	0.7939226321446071	5800412
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	num-4	run0	0.8565275697760324	5372621
-dataset_name-FR-FCM-Z3YR_seed-42	dgcytof	num-5	run0	0.9112678304774984	5526683
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	num-1	run0	NA	5794359
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	num-2	run0	NA	5293713
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	num-3	run0	NA	5800412
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	num-4	run0	NA	5372621
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[E]	num-5	run0	NA	5526683
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	num-1	run0	NA	5794359
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	num-2	run0	NA	5293713
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	num-3	run0	NA	5800412
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	num-4	run0	NA	5372621
-dataset_name-FR-FCM-Z3YR_seed-42	gatemeclass[V]	num-5	run0	NA	5526683
-dataset_name-FR-FCM-Z3YR_seed-42	knn	num-1	run0	0.772186380380934	5794359
-dataset_name-FR-FCM-Z3YR_seed-42	knn	num-2	run0	0.7628884271663875	5293713
-dataset_name-FR-FCM-Z3YR_seed-42	knn	num-3	run0	0.789695462160315	5800412
-dataset_name-FR-FCM-Z3YR_seed-42	knn	num-4	run0	0.7878150581232581	5372621
-dataset_name-FR-FCM-Z3YR_seed-42	knn	num-5	run0	0.7801920913687307	5526683
-dataset_name-FR-FCM-Z3YR_seed-42	lda	num-1	run0	0.7918949962770098	5794359
-dataset_name-FR-FCM-Z3YR_seed-42	lda	num-2	run0	0.8107998848691345	5293713
-dataset_name-FR-FCM-Z3YR_seed-42	lda	num-3	run0	0.7995558948504636	5800412
-dataset_name-FR-FCM-Z3YR_seed-42	lda	num-4	run0	0.8082417518878607	5372621
-dataset_name-FR-FCM-Z3YR_seed-42	lda	num-5	run0	0.8090307501118075	5526683
-dataset_name-FR-FCM-Z3YR_seed-42	random	num-1	run0	0.016711619959182692	5794359
-dataset_name-FR-FCM-Z3YR_seed-42	random	num-2	run0	0.015778214351187984	5293713
-dataset_name-FR-FCM-Z3YR_seed-42	random	num-3	run0	0.01584201291020824	5800412
-dataset_name-FR-FCM-Z3YR_seed-42	random	num-4	run0	0.01584901565040467	5372621
-dataset_name-FR-FCM-Z3YR_seed-42	random	num-5	run0	0.015860631125652603	5526683
-dataset_name-FlowCyt_seed-42	cyanno	num-1	run0	0.737623849753681	2052086
-dataset_name-FlowCyt_seed-42	cyanno	num-2	run0	0.9467371124978688	1999862
-dataset_name-FlowCyt_seed-42	cyanno	num-3	run0	0.9334501326525441	2054127
-dataset_name-FlowCyt_seed-42	cyanno	num-4	run0	0.9629279959055012	1998214
-dataset_name-FlowCyt_seed-42	cyanno	num-5	run0	0.9337895661548427	1989122
-dataset_name-FlowCyt_seed-42	cygate	num-1	run0	0.8688942867330447	2052086
-dataset_name-FlowCyt_seed-42	cygate	num-2	run0	0.7672711634694058	1999862
-dataset_name-FlowCyt_seed-42	cygate	num-3	run0	0.8094586027956693	2054127
-dataset_name-FlowCyt_seed-42	cygate	num-4	run0	0.706790445336851	1998214
-dataset_name-FlowCyt_seed-42	cygate	num-5	run0	0.7795796337518333	1989122
-dataset_name-FlowCyt_seed-42	dgcytof	num-1	run0	0.7139403783956432	2052086
-dataset_name-FlowCyt_seed-42	dgcytof	num-2	run0	0.8718960347071395	1999862
-dataset_name-FlowCyt_seed-42	dgcytof	num-3	run0	0.8586213402401496	2054127
-dataset_name-FlowCyt_seed-42	dgcytof	num-4	run0	0.9080897948799004	1998214
-dataset_name-FlowCyt_seed-42	dgcytof	num-5	run0	0.9104632849951486	1989122
-dataset_name-FlowCyt_seed-42	gatemeclass[E]	num-1	run0	NA	2052086
-dataset_name-FlowCyt_seed-42	gatemeclass[E]	num-2	run0	NA	1999862
-dataset_name-FlowCyt_seed-42	gatemeclass[E]	num-3	run0	NA	2054127
-dataset_name-FlowCyt_seed-42	gatemeclass[E]	num-4	run0	NA	1998214
-dataset_name-FlowCyt_seed-42	gatemeclass[E]	num-5	run0	NA	1989122
-dataset_name-FlowCyt_seed-42	gatemeclass[V]	num-1	run0	NA	2052086
-dataset_name-FlowCyt_seed-42	gatemeclass[V]	num-2	run0	NA	1999862
-dataset_name-FlowCyt_seed-42	gatemeclass[V]	num-3	run0	NA	2054127
-dataset_name-FlowCyt_seed-42	gatemeclass[V]	num-4	run0	NA	1998214
-dataset_name-FlowCyt_seed-42	gatemeclass[V]	num-5	run0	NA	1989122
-dataset_name-FlowCyt_seed-42	knn	num-1	run0	0.878430666473949	2052086
-dataset_name-FlowCyt_seed-42	knn	num-2	run0	0.8162599993383666	1999862
-dataset_name-FlowCyt_seed-42	knn	num-3	run0	0.89120101136583	2054127
-dataset_name-FlowCyt_seed-42	knn	num-4	run0	0.7952800406883132	1998214
-dataset_name-FlowCyt_seed-42	knn	num-5	run0	0.8634530650085729	1989122
-dataset_name-FlowCyt_seed-42	lda	num-1	run0	0.8822862940710816	1930799
-dataset_name-FlowCyt_seed-42	lda	num-2	run0	0.9072376069219181	1878575
-dataset_name-FlowCyt_seed-42	lda	num-3	run0	0.9375111848791915	1932840
-dataset_name-FlowCyt_seed-42	lda	num-4	run0	0.9772078322318947	1876927
-dataset_name-FlowCyt_seed-42	lda	num-5	run0	0.9740621405429474	1867835
-dataset_name-FlowCyt_seed-42	random	num-1	run0	0.13824341602175988	2052086
-dataset_name-FlowCyt_seed-42	random	num-2	run0	0.13838103883637606	1999862
-dataset_name-FlowCyt_seed-42	random	num-3	run0	0.13838863942508764	2054127
-dataset_name-FlowCyt_seed-42	random	num-4	run0	0.13733779307678234	1998214
-dataset_name-FlowCyt_seed-42	random	num-5	run0	0.1387402945476133	1989122
-dataset_name-Levine_seed-42	cyanno	num-1	run0	0.9694169730277594	72463
-dataset_name-Levine_seed-42	cyanno	num-2	run0	0.9882420305091834	31721
-dataset_name-Levine_seed-42	cygate	num-1	run0	0.9690998051022246	72463
-dataset_name-Levine_seed-42	cygate	num-2	run0	0.9678211676837928	31721
-dataset_name-Levine_seed-42	dgcytof	num-1	run0	0.9451981855947764	72463
-dataset_name-Levine_seed-42	dgcytof	num-2	run0	0.9727680809340173	31721
-dataset_name-Levine_seed-42	gatemeclass[E]	num-1	run0	0.8061322144712779	72463
-dataset_name-Levine_seed-42	gatemeclass[E]	num-2	run0	0.8183119327968715	31721
-dataset_name-Levine_seed-42	gatemeclass[V]	num-1	run0	0.8410264441752549	72463
-dataset_name-Levine_seed-42	gatemeclass[V]	num-2	run0	0.8083133756652866	31721
-dataset_name-Levine_seed-42	knn	num-1	run0	0.8914856649043355	72463
-dataset_name-Levine_seed-42	knn	num-2	run0	0.9214880756962076	31721
-dataset_name-Levine_seed-42	lda	num-1	run0	0.8909772194267898	72463
-dataset_name-Levine_seed-42	lda	num-2	run0	0.9219714543898582	31721
-dataset_name-Levine_seed-42	random	num-1	run0	0.046463475388402516	72463
-dataset_name-Levine_seed-42	random	num-2	run0	0.048665957066751774	31721
-dataset_name-Samusik_seed-42	cyanno	num-1	run0	0.9665906836873926	462641
-dataset_name-Samusik_seed-42	cyanno	num-2	run0	0.9721831397662244	463260
-dataset_name-Samusik_seed-42	cyanno	num-3	run0	0.971435847211215	459538
-dataset_name-Samusik_seed-42	cyanno	num-4	run0	0.9702154841029416	461932
-dataset_name-Samusik_seed-42	cyanno	num-5	run0	0.9729133568948566	468547
-dataset_name-Samusik_seed-42	cygate	num-1	run0	0.9312037130678221	462641
-dataset_name-Samusik_seed-42	cygate	num-2	run0	0.9303053114922802	463260
-dataset_name-Samusik_seed-42	cygate	num-3	run0	0.9490371395796192	459538
-dataset_name-Samusik_seed-42	cygate	num-4	run0	0.9243209339989106	461932
-dataset_name-Samusik_seed-42	cygate	num-5	run0	0.9579300377569124	468547
-dataset_name-Samusik_seed-42	dgcytof	num-1	run0	0.9260491490147288	462641
-dataset_name-Samusik_seed-42	dgcytof	num-2	run0	0.9237490777712054	463260
-dataset_name-Samusik_seed-42	dgcytof	num-3	run0	0.9638748376080849	459538
-dataset_name-Samusik_seed-42	dgcytof	num-4	run0	0.9497997771061245	461932
-dataset_name-Samusik_seed-42	dgcytof	num-5	run0	0.9276460943494492	468547
-dataset_name-Samusik_seed-42	gatemeclass[E]	num-1	run0	0.7672500181186369	462641
-dataset_name-Samusik_seed-42	gatemeclass[E]	num-2	run0	0.7982485315339373	463260
-dataset_name-Samusik_seed-42	gatemeclass[E]	num-3	run0	0.7919612929324746	459538
-dataset_name-Samusik_seed-42	gatemeclass[E]	num-4	run0	0.8008416299846598	461932
-dataset_name-Samusik_seed-42	gatemeclass[E]	num-5	run0	0.7833939775837963	468547
-dataset_name-Samusik_seed-42	gatemeclass[V]	num-1	run0	0.7897122444768591	462641
-dataset_name-Samusik_seed-42	gatemeclass[V]	num-2	run0	0.7688187103874987	463260
-dataset_name-Samusik_seed-42	gatemeclass[V]	num-3	run0	0.7568743903477975	459538
-dataset_name-Samusik_seed-42	gatemeclass[V]	num-4	run0	0.7761920098218468	461932
-dataset_name-Samusik_seed-42	gatemeclass[V]	num-5	run0	0.7242523146772116	468547
-dataset_name-Samusik_seed-42	knn	num-1	run0	0.8943316311073207	462641
-dataset_name-Samusik_seed-42	knn	num-2	run0	0.8904852884646578	463260
-dataset_name-Samusik_seed-42	knn	num-3	run0	0.8782169847275036	459538
-dataset_name-Samusik_seed-42	knn	num-4	run0	0.9017834611003842	461932
-dataset_name-Samusik_seed-42	knn	num-5	run0	0.8815842379065603	468547
-dataset_name-Samusik_seed-42	lda	num-1	run0	0.8665915271685384	462641
-dataset_name-Samusik_seed-42	lda	num-2	run0	0.8627626845705741	463260
-dataset_name-Samusik_seed-42	lda	num-3	run0	0.8582823765749495	459538
-dataset_name-Samusik_seed-42	lda	num-4	run0	0.8664713423826612	461932
-dataset_name-Samusik_seed-42	lda	num-5	run0	0.8994947080972863	468547
-dataset_name-Samusik_seed-42	random	num-1	run0	0.024960284764916157	462641
-dataset_name-Samusik_seed-42	random	num-2	run0	0.025003807543325787	463260
-dataset_name-Samusik_seed-42	random	num-3	run0	0.02478972897882381	459538
-dataset_name-Samusik_seed-42	random	num-4	run0	0.025231227382123897	461932
-dataset_name-Samusik_seed-42	random	num-5	run0	0.024576664002928322	468547
+dataset	model	crossvalidation	run_id	n_cells_total	f1_macro	precision_macro	recall_macro	n_cells
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-1	run0	587254	0.8742863598096282	0.8730675389748189	0.8982702492777792	587254
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-2	run0	640909	0.785388045287601	0.7985484559622633	0.8135114097194109	640909
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-3	run0	669201	0.76399511359677	0.8305587234078892	0.8702308953509335	669201
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-4	run0	626922	0.8472032084576406	0.8776224582736587	0.8408843048342847	626922
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-5	run0	560939	0.6649984113976033	0.8259147781878202	0.786719067458654	560939
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-1	run0	587254	0.8518341608964577	0.8733948673608976	0.8331670920037004	587254
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-2	run0	640909	0.7738207186967204	0.8550880032351837	0.7369052892827574	640909
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-3	run0	669201	0.8461771357526101	0.8755762167078474	0.9149659993722503	669201
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-4	run0	626922	0.8588359777660537	0.8865890739597286	0.8352678919141008	626922
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-5	run0	560939	0.8231144068294601	0.8759324012360613	0.8924290101634604	560939
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-1	run0	587254	0.8286565672016903	0.8500770547084106	0.8484146610831204	587254
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-2	run0	640909	0.7928769370135854	0.8094042131502941	0.8133955415905645	640909
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-3	run0	669201	0.7911952918542522	0.7988916321548729	0.8915468018628823	669201
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-4	run0	626922	0.8670926832237372	0.872906141258088	0.8790336430425447	626922
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-5	run0	560939	0.6277964591138923	0.788316014669052	0.7241027901543489	560939
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-1	run0	587254	0.7978439833204236	0.832617759517548	0.8112723171618774	587254
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-2	run0	640909	0.6349153104081391	0.6899815227081045	0.6434587687053213	640909
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-3	run0	669201	0.6803440117170768	0.7691462548060463	0.577275913910592	669201
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-4	run0	626922	0.804820714878614	0.8369428155079437	0.8163808435522474	626922
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-5	run0	560939	0.7395878764348834	0.7198550797102027	0.6335470415235029	560939
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-1	run0	587254	0.8136126592608648	0.8382212563306035	0.8392581790920818	587254
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-2	run0	640909	0.7837284915122709	0.8228947260783188	0.7658472514911426	640909
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-3	run0	669201	0.5035518894453174	0.5701144880599274	0.5967377034909194	669201
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-4	run0	626922	0.7784301561315972	0.8274726072893321	0.7607926624521644	626922
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-5	run0	560939	0.8801721904016544	0.8812547926743277	0.8850604426842882	560939
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-1	run0	587254	0.8143750238637646	0.8265633871190704	0.8415789958792872	587254
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-2	run0	640909	0.6749914791765365	0.728704450338273	0.684362501238446	640909
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-3	run0	669201	0.701865086147619	0.7291697497706233	0.8218431703268687	669201
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-4	run0	626922	0.8317229001499332	0.8396048415824556	0.8521783816022317	626922
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-5	run0	560939	0.7561968408036088	0.801348956040249	0.7920156035301815	560939
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-1	run0	587254	0.7445645809970343	0.8280339082564863	0.7378930002677981	587254
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-2	run0	640909	0.7097151265795726	0.7425263213630563	0.7069362028740458	640909
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-3	run0	669201	0.7964432987556613	0.8168917026916815	0.8604725363198344	669201
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-4	run0	626922	0.7984979806390333	0.9160336955130223	0.7623728213631641	626922
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-5	run0	560939	0.6266451486379808	0.7548302812703205	0.6857265231938836	560939
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-1	run0	587254	0.10561916411971094	0.1249474373472697	0.12506901254714492	587254
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-2	run0	640909	0.09947352447108376	0.12493252485485273	0.12458613932636392	640909
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-3	run0	669201	0.10382280809885674	0.12484739812982501	0.12463836156734664	669201
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-4	run0	626922	0.10491964770775855	0.12483627784364919	0.12329580215082309	626922
+dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-5	run0	560939	0.10251603235751298	0.1247074700027287	0.12424727474580985	560939
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-1	run0	165885	0.8226767568081986	0.9134950993581522	0.7771122323352796	162079
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-2	run0	160829	0.8845008860498326	0.9168274848674471	0.8604905204885351	157208
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-3	run0	163357	0.8810294780015032	0.9160667808376489	0.8585066894359646	159648
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-4	run0	163801	0.8422018944628785	0.9177567426083867	0.7981042165582082	160075
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-5	run0	161138	0.8565681835837236	0.9209144046189858	0.8257053074045804	157517
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-1	run0	165885	0.7588986168289799	0.8325704384514248	0.7261467426005418	162079
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-2	run0	160829	0.7878857743565909	0.7988326363296997	0.7813185617083297	157208
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-3	run0	163357	0.7805435743701769	0.8203748134711575	0.7634843923822553	159648
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-4	run0	163801	0.8027251744805121	0.8487778561616172	0.7726137140846718	160075
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-5	run0	161138	0.7872290102569225	0.8126547104165781	0.7730923214650675	157517
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-1	run0	165885	0.8780443860973628	0.8769230855170748	0.8800334797884674	162079
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-2	run0	160829	0.8885514315887241	0.8940890405141261	0.8846317581154307	157208
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-3	run0	163357	0.8863784028012474	0.9065363123481741	0.869885369692656	159648
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-4	run0	163801	0.8805764677930735	0.8854834825947131	0.8765262555325046	160075
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-5	run0	161138	0.8906343379701015	0.8894455816573819	0.8926160270974267	157517
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-1	run0	165885	0.6130637178918602	0.6520337490419491	0.7251865376574601	162079
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-2	run0	160829	0.6047652353161651	0.6768409578697728	0.6754544038670227	157208
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-3	run0	163357	0.6997292260489774	0.7266351657498609	0.761807039134813	159648
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-4	run0	163801	0.6943017884047045	0.7071426106866449	0.7504458561481472	160075
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-5	run0	161138	0.6917729582229464	0.6827422916257915	0.7772270898245048	157517
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-1	run0	165885	0.48047752787532455	0.5599614947505013	0.5048167601543534	162079
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-2	run0	160829	0.4617240644606627	0.5429957642462079	0.5677472523704098	157208
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-3	run0	163357	0.4834124934639606	0.5501091434741636	0.5190250940517186	159648
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-4	run0	163801	0.4438187735290659	0.5345620983204828	0.48239264817378114	160075
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-5	run0	161138	0.41871949936109865	0.5012487180470309	0.5007328536812959	157517
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-1	run0	165885	0.8040689339556458	0.7850961379723704	0.8577369890964117	162079
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-2	run0	160829	0.8166267380981964	0.7804127144797237	0.8815499360914367	157208
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-3	run0	163357	0.8086266144377804	0.7775082951206638	0.8793304875669333	159648
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-4	run0	163801	0.798774339895532	0.7647878437934217	0.8655952421738057	160075
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-5	run0	161138	0.8074675678614897	0.7685640928833115	0.8740451400624416	157517
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-1	run0	165885	0.8425357659904259	0.8769807767209991	0.8191803822761202	162079
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-2	run0	160829	0.8434733825699127	0.8536868043534307	0.8489272658945343	157208
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-3	run0	163357	0.8415303960906312	0.8705589493439765	0.8225940319711632	159648
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-4	run0	163801	0.8380765493428177	0.857360159547987	0.8271573741257112	160075
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-5	run0	161138	0.8314088433285747	0.8459632781211124	0.8280245807382258	157517
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-1	run0	165885	0.11206238912169252	0.14319689012977824	0.14388792634615719	162079
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-2	run0	160829	0.11166503814463773	0.14292759940744343	0.1416886766266693	157208
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-3	run0	163357	0.11132127241439561	0.14300944839662705	0.14258083215676098	159648
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-4	run0	163801	0.113087413572403	0.14446430591017206	0.14313051357707726	160075
+dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-5	run0	161138	0.11123793832320038	0.14219005148138822	0.14028610473250666	157517
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-1	run0	2828901	0.7953273458275252	0.7949247060127825	0.7781990591575968	2400492
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-2	run0	2768169	0.7619422174677273	0.8210567331377199	0.7534466158579339	2351561
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-3	run0	2830864	0.747295349509591	0.762353772032948	0.6375440671160956	2403060
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-4	run0	2817387	0.7512616889012443	0.801267697359673	0.6631753274710873	2390998
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-5	run0	2800058	0.7689615023524417	0.8395840295191932	0.6914057706190145	2385788
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-1	run0	2828901	0.7165081072899852	0.7101713703519469	0.716976450237564	2400492
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-2	run0	2768169	0.6792844619470435	0.7104261295105709	0.6984311642866474	2351561
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-3	run0	2830864	0.7326533685456941	0.7386485846475875	0.6297392327433614	2403060
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-4	run0	2817387	0.7069971713996744	0.7312949549595286	0.6389049258926248	2390998
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-5	run0	2800058	0.7033500012386333	0.7174260625741299	0.6474084440967534	2385788
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-1	run0	2828901	0.7758155069230033	0.7900354442060796	0.7538459040624172	2400492
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-2	run0	2768169	0.7687763619225529	0.8048086757117552	0.776645769067013	2351561
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-3	run0	2830864	0.7620250377535804	0.7602727702898864	0.6630369764297697	2403060
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-4	run0	2817387	0.7380787568396441	0.7983798448093535	0.6489946896648026	2390998
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-5	run0	2800058	0.7598444733254796	0.820731784010013	0.6894978884764735	2385788
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-1	run0	2828901	NA	NA	0	2400492
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-2	run0	2768169	NA	NA	0	2351561
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-3	run0	2830864	NA	NA	0	2403060
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-4	run0	2817387	NA	NA	0	2390998
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-5	run0	2800058	NA	NA	0	2385788
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-1	run0	2828901	NA	NA	0	2400492
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-2	run0	2768169	NA	NA	0	2351561
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-3	run0	2830864	NA	NA	0	2403060
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-4	run0	2817387	NA	NA	0	2390998
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-5	run0	2800058	NA	NA	0	2385788
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-1	run0	2828901	0.6835290049578329	0.6607233179672867	0.7372543979993091	2400492
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-2	run0	2768169	0.6569476433454133	0.6425802206338224	0.738215296510796	2351561
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-3	run0	2830864	0.7246796875518731	0.694361126988598	0.6574091521256629	2403060
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-4	run0	2817387	0.7099086048580228	0.6885167961437081	0.6688609842498054	2390998
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-5	run0	2800058	0.6938150563822919	0.6873968392140783	0.6747489823454629	2385788
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-1	run0	2828901	0.7232860003612674	0.7245246530917823	0.728463154956671	2400492
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-2	run0	2768169	0.7007626620478442	0.7452860677758154	0.7015893123273235	2351561
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-3	run0	2830864	0.7162564936849146	0.753835250070296	0.5878112877723205	2403060
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-4	run0	2817387	0.7368915501900243	0.7596118333633309	0.6498024615569679	2390998
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-5	run0	2800058	0.7263742952356184	0.7638285303786068	0.650025855839429	2385788
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-1	run0	2828901	0.03367745210508876	0.045621328204538354	0.04388272870028088	2400492
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-2	run0	2768169	0.031215312745091473	0.04333349531333307	0.042734019878369375	2351561
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-3	run0	2830864	0.038157386774173886	0.048309014750332994	0.04361710121044118	2403060
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-4	run0	2817387	0.03536369819172515	0.04575932617589022	0.04336598604896926	2390998
+dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-5	run0	2800058	0.03593481309913084	0.047564694068995494	0.04317217359347131	2385788
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-1	run0	3804850	0.9804110176544943	0.9775884907098377	0.9839687446946265	3315861
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-2	run0	3956437	0.9751469121453363	0.9763716520090858	0.9740261804552469	3490514
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-3	run0	3871161	0.9739227330793803	0.9826679014987377	0.967778306677974	3390064
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-4	run0	3907351	0.9842069473985287	0.9876990261169964	0.981057402434948	3423803
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-5	run0	3978798	0.9824315760237721	0.9848730850828658	0.9801956670558137	3496879
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-1	run0	3804850	0.8398214947645535	0.8682294196351135	0.8340727623107739	3315861
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-2	run0	3956437	0.7664718686289813	0.8225818033755118	0.7851307741550364	3490514
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-3	run0	3871161	0.7727938578614159	0.8315078855623763	0.7754591964964693	3390064
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-4	run0	3907351	0.8693821293483281	0.940182191691336	0.8494606981492085	3423803
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-5	run0	3978798	0.7883316622694175	0.8401006612011213	0.7909353494527138	3496879
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-1	run0	3804850	0.9921400334023905	0.9917615203247283	0.992522069699173	3315861
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-2	run0	3956437	0.9800591324223735	0.9769308832796326	0.9832767830194834	3490514
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-3	run0	3871161	0.9915281045537526	0.9914554987151775	0.9916064660775501	3390064
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-4	run0	3907351	0.9910679262778265	0.9924924726062102	0.989666830042158	3423803
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-5	run0	3978798	0.9761016555085323	0.97138142213012	0.9811236340056448	3496879
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-1	run0	3804850	NA	NA	0	3315861
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-2	run0	3956437	NA	NA	0	3490514
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-3	run0	3871161	NA	NA	0	3390064
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-4	run0	3907351	NA	NA	0	3423803
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-5	run0	3978798	NA	NA	0	3496879
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-1	run0	3804850	NA	NA	0	3315861
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-2	run0	3956437	NA	NA	0	3490514
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-3	run0	3871161	NA	NA	0	3390064
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-4	run0	3907351	NA	NA	0	3423803
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-5	run0	3978798	NA	NA	0	3496879
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-1	run0	3804850	0.8444706172056563	0.8498993038101474	0.8510915250531808	3315861
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-2	run0	3956437	0.829777704910317	0.8247702501939568	0.8415642716520253	3490514
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-3	run0	3871161	0.8411343884788366	0.8294331233278868	0.8558355296421641	3390064
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-4	run0	3907351	0.8652658276082938	0.8663196518027133	0.8658271160820238	3423803
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-5	run0	3978798	0.8438868028187706	0.8277938772889346	0.8654373213554765	3496879
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-1	run0	3804850	0.8742937464005905	0.9051115158692763	0.8504291085097992	3315861
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-2	run0	3956437	0.8300855937570276	0.8399894939471502	0.835979169693907	3490514
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-3	run0	3871161	0.8589696720107168	0.8780995882655747	0.8515816895977346	3390064
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-4	run0	3907351	0.8734586644250599	0.921658787090465	0.8553385880079386	3423803
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-5	run0	3978798	0.8565225751943348	0.8850138069291251	0.8501884809491376	3496879
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-1	run0	3804850	0.1745593874766933	0.20000906584124034	0.20037787604779597	3315861
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-2	run0	3956437	0.17444738982475827	0.20023291132108265	0.20003059914625793	3490514
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-3	run0	3871161	0.1745129583429629	0.19999175087944973	0.19973128508627327	3390064
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-4	run0	3907351	0.17313630017817797	0.20002432851932794	0.1998055111136588	3423803
+dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-5	run0	3978798	0.17465568002870138	0.200354282104384	0.20033971080169982	3496879
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cyanno	num-1	run0	1536957	0.976767594254877	0.9766013838619418	0.9769473999325694	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cyanno	num-2	run0	1471041	0.9780771654257808	0.9830604976669342	0.9736740535738733	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cyanno	num-3	run0	1356644	0.9831411863498969	0.9859163468913182	0.9805114255309281	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cyanno	num-4	run0	1421911	0.9805330830367165	0.9849565680110878	0.9766031009689409	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cyanno	num-5	run0	1408466	0.9792486501578885	0.9835240456425399	0.9754912444885202	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cygate	num-1	run0	1536957	0.7863312618491419	0.8307940821167084	0.7697547423821653	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cygate	num-2	run0	1471041	0.7920571570851405	0.8378167542196391	0.7748893313687449	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cygate	num-3	run0	1356644	0.800582533817488	0.9615813146004341	0.7929652817340844	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cygate	num-4	run0	1421911	0.7988453513972876	0.8908166834049069	0.7846400079926459	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	cygate	num-5	run0	1408466	0.8064587437149597	0.8547210916155883	0.7942189381474505	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	dgcytof	num-1	run0	1536957	0.9853452932465189	0.9833917437657316	0.9873783246781411	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	dgcytof	num-2	run0	1471041	0.9837626662148221	0.9864731314515657	0.981215989535392	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	dgcytof	num-3	run0	1356644	0.9866587103221802	0.9891501804575993	0.9842537490175985	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	dgcytof	num-4	run0	1421911	0.9868263271699241	0.9890220542822348	0.9847251821687474	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	dgcytof	num-5	run0	1408466	0.9845890720123565	0.9860593345350752	0.9832211256932363	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[E]	num-1	run0	1536957	0.6671457338389225	0.6431586191209686	0.7535332035693398	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[E]	num-2	run0	1471041	0.808239133293661	0.6236956259292861	0.7145438398342419	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[E]	num-3	run0	1356644	0.6375809373479516	0.6540188994504661	0.704788046993978	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[E]	num-4	run0	1421911	0.9243934442453142	0.8962154054595238	0.5811650347270596	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[E]	num-5	run0	1408466	0.9199554746339231	0.8944660430586028	0.5780362391863125	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[V]	num-1	run0	1536957	0.6524950085195776	0.5057362299306263	0.5984723066931769	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[V]	num-2	run0	1471041	0.6688019044611825	0.6725127189764606	0.7222820844320494	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[V]	num-3	run0	1356644	0.6416449373695848	0.7811466237628664	0.7072256289908679	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[V]	num-4	run0	1421911	0.8197971039742005	0.8327688101761904	0.8241725201517986	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	gatemeclass[V]	num-5	run0	1408466	0.7941491681354305	0.8060756540073222	0.7947554172463549	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	knn	num-1	run0	1536957	0.8304513017309555	0.8362023750440123	0.8559235310857026	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	knn	num-2	run0	1471041	0.8464967074055423	0.838138519778955	0.8611783305817051	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	knn	num-3	run0	1356644	0.855389829721469	0.8518453666852814	0.8677685317305087	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	knn	num-4	run0	1421911	0.8603571560088626	0.8525757982802885	0.8699475634920735	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	knn	num-5	run0	1408466	0.873222764534097	0.8711465149742452	0.8776131889952671	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	lda	num-1	run0	1536957	0.8757237099595461	0.8806204663214725	0.8715345001848178	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	lda	num-2	run0	1471041	0.9095660008192891	0.934246790657566	0.8888251463811236	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	lda	num-3	run0	1356644	0.8843146984580118	0.9124880415436337	0.8611843166516518	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	lda	num-4	run0	1421911	0.8580507739944808	0.9091528482292739	0.8431871993524339	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	lda	num-5	run0	1408466	0.8746561200506807	0.9251679027310784	0.8557047365198083	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	random	num-1	run0	1536957	0.1763711406044699	0.19998376255859487	0.1998767061019903	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	random	num-2	run0	1471041	0.17981547120494518	0.19989056717174009	0.2002092172499701	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	random	num-3	run0	1356644	0.17459082370841866	0.19967896735077217	0.19978936794839325	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	random	num-4	run0	1421911	0.17337972747631678	0.20006605761805196	0.20011568642702188	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150	random	num-5	run0	1408466	0.1730542372258453	0.20013252979074095	0.1996378064566818	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cyanno	num-1	run0	1536957	0.9682451936901157	0.9709244712776091	0.9656619891470101	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cyanno	num-2	run0	1471041	0.9670828102210851	0.9750143515312096	0.9607338090862638	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cyanno	num-3	run0	1356644	0.9569996473697632	0.9752786377151276	0.9435987913794053	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cyanno	num-4	run0	1421911	0.9724557317885735	0.9781439389200154	0.9676225397502354	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cyanno	num-5	run0	1408466	0.9700515273148685	0.9771260011419678	0.9642896202322803	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cygate	num-1	run0	1536957	0.7898733478986013	0.8304795435134386	0.7788496149016313	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cygate	num-2	run0	1471041	0.7911725996861264	0.8344301645214974	0.7745465981177875	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cygate	num-3	run0	1356644	0.8107449638250557	0.952183688709804	0.8040231217086031	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cygate	num-4	run0	1421911	0.8027680943098728	0.8904336143087083	0.7883141618004605	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	cygate	num-5	run0	1408466	0.8782261391798614	0.9042873335485275	0.8689764292841916	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	dgcytof	num-1	run0	1536957	0.9369704587588622	0.9242611867467307	0.9601606734293885	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	dgcytof	num-2	run0	1471041	0.9345504548950474	0.938641090100927	0.93064885116002	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	dgcytof	num-3	run0	1356644	0.9351013563849966	0.9481183940398452	0.9243747548335973	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	dgcytof	num-4	run0	1421911	0.9684356531310426	0.9675877191689286	0.9692979370221606	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	dgcytof	num-5	run0	1408466	0.9464407082041891	0.9539175496683265	0.9412233264359939	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[E]	num-1	run0	1536957	0.6689071788740846	0.6449185724963933	0.7553317104663588	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[E]	num-2	run0	1471041	0.643574498277519	0.6130669183848904	0.6993176372612375	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[E]	num-3	run0	1356644	0.8306768968227056	0.8547068421099306	0.8312425422033028	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[E]	num-4	run0	1421911	0.9243934442453142	0.8962154054595238	0.5811650347270596	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[E]	num-5	run0	1408466	0.6551806255756077	0.6504768353237594	0.7157299686211933	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[V]	num-1	run0	1536957	0.7875867959610406	0.7944034362361895	0.8028133406292447	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[V]	num-2	run0	1471041	0.6681810785703631	0.6707473155886765	0.7227391742214919	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[V]	num-3	run0	1356644	0.7810743237273242	0.8056112930945059	0.7753364018975324	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[V]	num-4	run0	1421911	0.8040125528006371	0.8110317565472611	0.8042684893412992	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	gatemeclass[V]	num-5	run0	1408466	0.7570454965292196	0.8731097652358109	0.770883032820395	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	knn	num-1	run0	1536957	0.8469149498850813	0.8419058153593177	0.8661183446075797	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	knn	num-2	run0	1471041	0.8315673829571806	0.8264978146529354	0.8462529404302878	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	knn	num-3	run0	1356644	0.852082131755784	0.8472204981856765	0.8618205881519765	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	knn	num-4	run0	1421911	0.8597984198850309	0.855549495657181	0.8642631190611756	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	knn	num-5	run0	1408466	0.8688054884411613	0.8674313719221249	0.8702561393742677	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	lda	num-1	run0	1536957	0.881870300417147	0.8857077638046809	0.878340365198339	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	lda	num-2	run0	1471041	0.9073753085067573	0.926899800869017	0.8906343493681496	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	lda	num-3	run0	1356644	0.88686606740045	0.9174262168210676	0.861981020791329	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	lda	num-4	run0	1421911	0.8646596680219613	0.9120567320438804	0.8479289266042394	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	lda	num-5	run0	1408466	0.8669981282891379	0.9187901348462173	0.85146987496645965	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	random	num-1	run0	1536957	0.17641157126906304	0.20001599145809396	0.1998754883405883	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	random	num-2	run0	1471041	0.18012865688477228	0.20032241821726582	0.20066231477612223	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	random	num-3	run0	1356644	0.1750064245157895	0.20018980150156412	0.2003279326577561	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	random	num-4	run0	1421911	0.17347934170192153	0.20009275663816384	0.20079489929102748	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150	random	num-5	run0	1408466	0.17297172506121306	0.200010947467019	0.1997539254779226	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cyanno	num-1	run0	1536957	0.8307071631671075	0.9384617111144637	0.8314869727272786	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cyanno	num-2	run0	1471041	0.8167644867644519	0.9405337297040095	0.8223953600079266	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cyanno	num-3	run0	1356644	0.9026972898316593	0.9625388573207632	0.8827527612870586	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cyanno	num-4	run0	1421911	0.9217343121780603	0.9547000909802245	0.905569292615786	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cyanno	num-5	run0	1408466	0.9209983896278148	0.9612206386041079	0.8976985378874328	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cygate	num-1	run0	1536957	0.8074350325779995	0.850697903526426	0.7872087055181465	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cygate	num-2	run0	1471041	0.7968809532693883	0.8462573227887944	0.7816407295969476	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cygate	num-3	run0	1356644	0.796218068193035	0.9492199441096553	0.7906460081810676	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cygate	num-4	run0	1421911	0.8411803788451093	0.8657705107485126	0.8198357073572579	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	cygate	num-5	run0	1408466	0.8475854042020339	0.878888986269858	0.8493495130292479	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	dgcytof	num-1	run0	1536957	0.7632775227294529	0.8311572089949657	0.7909273281445649	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	dgcytof	num-2	run0	1471041	0.9133007869870986	0.912998964442653	0.743171046463807	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	dgcytof	num-3	run0	1356644	0.8099222654450642	0.8558131768021677	0.8123387060657212	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	dgcytof	num-4	run0	1421911	0.8825217741750221	0.8927734101548251	0.8766697823262459	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	dgcytof	num-5	run0	1408466	0.7672125388250722	0.8544502686946686	0.7894804101229005	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[E]	num-1	run0	1536957	0.8051334402423598	0.8118830337900681	0.8038967925484093	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[E]	num-2	run0	1471041	0.7823128346694339	0.8969249199369225	0.801806713454815	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[E]	num-3	run0	1356644	0.8048547403882125	0.8063566660507249	0.803731029796831	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[E]	num-4	run0	1421911	0.7443479554221153	0.813449553817893	0.7500522614819409	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[E]	num-5	run0	1408466	0.8058203844247182	0.8135726974339903	0.8012647418440052	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[V]	num-1	run0	1536957	0.7566863469910496	0.7779795283076064	0.7565415658041648	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[V]	num-2	run0	1471041	0.6122148648188384	0.6380260364660252	0.6478724937882807	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[V]	num-3	run0	1356644	0.82041421267537	0.8356352316317424	0.8221593346421647	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[V]	num-4	run0	1421911	0.6900945119410365	0.7334531745627642	0.6977658846271126	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	gatemeclass[V]	num-5	run0	1408466	0.6384083599351964	0.7459500764740805	0.6755090576127479	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	knn	num-1	run0	1536957	0.8205588127689609	0.8174610489262634	0.8247283667632651	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	knn	num-2	run0	1471041	0.8196705131591913	0.8208788743244474	0.8212966334774918	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	knn	num-3	run0	1356644	0.8253248673243823	0.8238220601465353	0.8289683022912667	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	knn	num-4	run0	1421911	0.8425135862241223	0.8496901900656297	0.8402982316961858	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	knn	num-5	run0	1408466	0.8349313700439603	0.8355161204252539	0.8345850073413821	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	lda	num-1	run0	1536957	0.8778486369934055	0.8810952397140654	0.8748772368553736	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	lda	num-2	run0	1471041	0.8877998634047403	0.9280719601454706	0.8648371477600574	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	lda	num-3	run0	1356644	0.879034509869507	0.9109366161988725	0.8535497776959872	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	lda	num-4	run0	1421911	0.8589132494529705	0.9139076651131319	0.8421965046179027	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	lda	num-5	run0	1408466	0.847788385558847	0.9150158054227662	0.8366252116987976	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	random	num-1	run0	1536957	0.17641157126906304	0.20001599145809396	0.1998754883405883	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	random	num-2	run0	1471041	0.1802423561690822	0.20029276209775354	0.20066056095780885	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	random	num-3	run0	1356644	0.17479264582774234	0.20001091022062023	0.1995457642113899	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	random	num-4	run0	1421911	0.17339473344090828	0.20012483829108124	0.20015228164071944	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150	random	num-5	run0	1408466	0.17251089317436344	0.19952531235908794	0.19902337651968613	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cyanno	num-1	run0	1536957	0.9747445407902836	0.9760318595348334	0.973487382168582	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cyanno	num-2	run0	1471041	0.9741073708852521	0.9808393174300749	0.9684744040711903	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cyanno	num-3	run0	1356644	0.9803663853009356	0.983733919631948	0.977247290613804	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cyanno	num-4	run0	1421911	0.9764612954365758	0.9820576220964847	0.9716602938328973	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cyanno	num-5	run0	1408466	0.9755476230572487	0.9802281067843281	0.9714558493251924	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cygate	num-1	run0	1536957	0.788428620427619	0.8314788881480835	0.7711500049879837	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cygate	num-2	run0	1471041	0.7938612090400651	0.8348940608766714	0.7757200024334103	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cygate	num-3	run0	1356644	0.8024608190548866	0.9611921901198641	0.7926776561385578	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cygate	num-4	run0	1421911	0.7989783370105167	0.8869319949946508	0.7826355285152551	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	cygate	num-5	run0	1408466	0.818412838825593	0.8618607632615156	0.8018836311397758	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	dgcytof	num-1	run0	1536957	0.9812483438292581	0.9776847719138171	0.98512729680933	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	dgcytof	num-2	run0	1471041	0.9760022520371123	0.972004775513747	0.9802430741068363	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	dgcytof	num-3	run0	1356644	0.9745512600731342	0.9773375451534616	0.9718395373132116	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	dgcytof	num-4	run0	1421911	0.9836176257320185	0.9803737616993413	0.9869975713577782	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	dgcytof	num-5	run0	1408466	0.9853332476381393	0.9841310658773249	0.986599778188954	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[E]	num-1	run0	1536957	0.6659759943539838	0.6425262540227783	0.7519464554535246	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[E]	num-2	run0	1471041	0.807386814386813	0.6234170646949739	0.7135702143347256	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[E]	num-3	run0	1356644	0.7958463581657313	0.6163962969450163	0.7045250579921709	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[E]	num-4	run0	1421911	0.8056512665646614	0.8165793795164638	0.8104610005497749	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[E]	num-5	run0	1408466	0.6882579421656255	0.5981041673726043	0.5736590469891172	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[V]	num-1	run0	1536957	0.6402587671275327	0.6594706313036955	0.7050081348722111	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[V]	num-2	run0	1471041	0.6681810785703631	0.6707473155886765	0.7227391742214919	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[V]	num-3	run0	1356644	0.7946341693538875	0.8070086563840082	0.7990767874365535	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[V]	num-4	run0	1421911	0.8040125528006371	0.8110317565472611	0.8042684893412992	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	gatemeclass[V]	num-5	run0	1408466	0.6284992724694324	0.7613218769992693	0.6941963472283246	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	knn	num-1	run0	1536957	0.8403665497166892	0.8443285661201037	0.868033500691807	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	knn	num-2	run0	1471041	0.8276755925314705	0.8262307525906186	0.8454279070716044	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	knn	num-3	run0	1356644	0.8583496307233632	0.8524833161691852	0.8708375581757062	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	knn	num-4	run0	1421911	0.8674190778280793	0.8612827108160801	0.8740580445130808	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	knn	num-5	run0	1408466	0.8717937741413259	0.8697255030062875	0.8747201388730099	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	lda	num-1	run0	1536957	0.8781598245978752	0.8833584081692095	0.8735925059202057	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	lda	num-2	run0	1471041	0.9073998605714582	0.9345519828639149	0.8860198751911176	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	lda	num-3	run0	1356644	0.8844409354652208	0.9117402689251272	0.8621967811758295	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	lda	num-4	run0	1421911	0.8555599505439997	0.9061902356213685	0.8412168093254939	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	lda	num-5	run0	1408466	0.8772979245162938	0.926044085509705	0.8579665366667125	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	random	num-1	run0	1536957	0.17616770378148247	0.199797113709824	0.199585708297848	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	random	num-2	run0	1471041	0.17973743820836668	0.1999097032911461	0.1998394819188454	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	random	num-3	run0	1356644	0.17461140597339522	0.1997073599460569	0.1997870665536897	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	random	num-4	run0	1421911	0.1728365988129889	0.1996253443620136	0.19931786744729263	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150	random	num-5	run0	1408466	0.17286033010938967	0.19995391497373508	0.19939955743027302	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cyanno	num-1	run0	1536957	0.9601585940822497	0.9630991129851901	0.9573462165729902	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cyanno	num-2	run0	1471041	0.9543852938751229	0.9698882900682776	0.9431922055842981	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cyanno	num-3	run0	1356644	0.9378622208915252	0.9687794820692467	0.9195967514006078	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cyanno	num-4	run0	1421911	0.968891964479824	0.9756293595683884	0.9633473326285309	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cyanno	num-5	run0	1408466	0.9656109021719814	0.976966999075161	0.9573499759516138	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cygate	num-1	run0	1536957	0.7962600849849754	0.838059704884409	0.7823384108804472	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cygate	num-2	run0	1471041	0.7945737871675599	0.8393515136204291	0.7774910389750473	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cygate	num-3	run0	1356644	0.7857084481125466	0.9578646359384073	0.7932241512724978	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cygate	num-4	run0	1421911	0.7970463596146128	0.8861976560533448	0.7869335327584944	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	cygate	num-5	run0	1408466	0.845803109902063	0.8842352482702266	0.8208884603860277	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	dgcytof	num-1	run0	1536957	0.7671720162951198	0.8703879713387288	0.7940160419591582	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	dgcytof	num-2	run0	1471041	0.9290196647487784	0.9273499737934634	0.9307652490650564	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	dgcytof	num-3	run0	1356644	0.9263812383566185	0.9378280204185391	0.9169638216957724	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	dgcytof	num-4	run0	1421911	0.9611733065777553	0.9598484185547695	0.9626825994242353	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	dgcytof	num-5	run0	1408466	0.9378946182549054	0.9394361968687983	0.9363969864482705	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[E]	num-1	run0	1536957	0.6647322236350401	0.6399253582222879	0.7507056876856176	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[E]	num-2	run0	1471041	0.648135531435241	0.6178411914996744	0.7041292045453028	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[E]	num-3	run0	1356644	0.6478707802966468	0.6476228205992705	0.7199403720626936	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[E]	num-4	run0	1421911	0.8055901530014237	0.616021008233126	0.6989114087158322	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[E]	num-5	run0	1408466	0.6454084475217411	0.6284709375928098	0.711321487405514	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[V]	num-1	run0	1536957	0.8240434166339703	0.8365753447674947	0.8272600939611093	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[V]	num-2	run0	1471041	0.6912336884804928	0.8008788305879818	0.7079028223677877	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[V]	num-3	run0	1356644	0.7658747188184052	0.783177756910461	0.7863002871384474	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[V]	num-4	run0	1421911	0.5901278822843563	0.7107545902270751	0.6100526805555366	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	gatemeclass[V]	num-5	run0	1408466	0.801469949352132	0.8249889026456095	0.8047405030348619	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	knn	num-1	run0	1536957	0.8459620924812283	0.8403178602553419	0.860572685681379	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	knn	num-2	run0	1471041	0.8309123482753314	0.82262183136727	0.8426088127857423	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	knn	num-3	run0	1356644	0.8459175632593624	0.8423082833201482	0.8534765577317198	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	knn	num-4	run0	1421911	0.8573389432746594	0.851831841074131	0.8642123235144764	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	knn	num-5	run0	1408466	0.8576068149423646	0.853642476358135	0.8627692791686956	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	lda	num-1	run0	1536957	0.8719094285502642	0.878609029345656	0.8655769172412606	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	lda	num-2	run0	1471041	0.9022663424401772	0.9309279632249586	0.8825692744745055	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	lda	num-3	run0	1356644	0.8785812465293166	0.9108739735979254	0.852937522783608	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	lda	num-4	run0	1421911	0.86411791571314	0.9102287517307921	0.8486417735841754	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	lda	num-5	run0	1408466	0.8787445139483065	0.919457626877759	0.8607123990914035	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	random	num-1	run0	1536957	0.17604731335534612	0.19971638766032643	0.19951577737825668	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	random	num-2	run0	1471041	0.18009819514881983	0.20013003610019933	0.20054162049697527	1274361
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	random	num-3	run0	1356644	0.1750064245157895	0.20018980150156412	0.2003279326577561	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	random	num-4	run0	1421911	0.1728254680949206	0.1995409007975603	0.19968311044411183	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150	random	num-5	run0	1408466	0.17286033010938967	0.19995391497373508	0.19939955743027302	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-1	run0	1536957	0.9784892226384242	0.9780069561599081	0.9790021408942398	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-2	run0	1356644	0.9874943262328341	0.9897966101587988	0.9853028098376484	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-3	run0	1408466	0.9821754331337011	0.986307595900984	0.9784976472917674	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-4	run0	1421911	0.9842957521225181	0.987818073497235	0.9811019101168034	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-5	run0	1404771	0.9898546416049385	0.9918771494767151	0.9879308684279131	1212710
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-1	run0	1536957	0.7893404020038861	0.8324151226747671	0.7722621085910566	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-2	run0	1356644	0.8021819395357268	0.9616040133777297	0.7950773581017024	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-3	run0	1408466	0.8139622894727268	0.8591307779532193	0.7993933264956647	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-4	run0	1421911	0.799651411745136	0.8884406462906661	0.7852357312873879	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-5	run0	1404771	0.8587809851348396	0.8846918178384424	0.836211524087825	1212710
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-1	run0	1536957	0.9904974739444983	0.9915351842575948	0.9894750335094706	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-2	run0	1356644	0.9890873047639985	0.9883793119859939	0.989809473116346	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-3	run0	1408466	0.9915955246019102	0.989825543913334	0.9933995122325469	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-4	run0	1421911	0.9928047225599583	0.9901114383346382	0.995601025542264	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-5	run0	1404771	0.9948062641195591	0.9947802457422414	0.9948325063464913	1212710
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-1	run0	1536957	0.6659759943539838	0.6425262540227783	0.7519464554535246	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-2	run0	1356644	0.7958463581657313	0.6163962969450163	0.7045250579921709	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-3	run0	1408466	0.9199554746339231	0.8944660430586028	0.5780362391863125	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-4	run0	1421911	0.8049951870070201	0.816095639166935	0.8097907870417945	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-5	run0	1404771	0.8056685496180395	0.6130385806473668	0.7077341912568256	1212710
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-1	run0	1536957	0.6524950085195776	0.5057362299306263	0.5984723066931769	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-2	run0	1356644	0.6416449373695848	0.7811466237628664	0.7072256289908679	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-3	run0	1408466	0.6517878835926401	0.7810618939172836	0.7177164243010961	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-4	run0	1421911	0.8040125528006371	0.8110317565472611	0.8042684893412992	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-5	run0	1404771	0.66304749682335	0.6528966196654201	0.7583663633441708	1212710
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-1	run0	1536957	0.8566733576022937	0.8510762998518722	0.8778507854992839	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-2	run0	1356644	0.8598675582809548	0.8558009621052362	0.8678547396344045	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-3	run0	1408466	0.86329675535014	0.8607386155975796	0.8666574822512164	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-4	run0	1421911	0.8617204897180228	0.8555717514676298	0.8691092558022584	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-5	run0	1404771	0.8499821704558161	0.8436270956501829	0.8595760483932973	1212710
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-1	run0	1536957	0.8761344956510738	0.8807355141073476	0.8720213374626635	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-2	run0	1356644	0.8840848430091717	0.9131598177315654	0.8603714490315151	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-3	run0	1408466	0.8753439394528373	0.9252008405251594	0.8563779021782321	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-4	run0	1421911	0.8570310313411837	0.9078828206011569	0.8425234386766158	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-5	run0	1404771	0.8994060667929172	0.9153334599300631	0.8849987266029293	1212710
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-1	run0	1536957	0.17687514190545706	0.20035037300181494	0.20045431158050087	1346699
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-2	run0	1356644	0.17480871808102147	0.1998532595549603	0.1998937755984846	1174493
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-3	run0	1408466	0.17282074435300765	0.19979411908543943	0.1996976333064852	1231233
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-4	run0	1421911	0.17333353498913812	0.20008095149665203	0.20049553323612682	1266374
+dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-5	run0	1404771	0.17717063743255465	0.19963588295877066	0.19984642979047607	1212710
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-1	run0	6509278	0.9089774827720931	0.9666940722933267	0.8276071092488108	5794359
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-2	run0	5947671	0.9889796182892696	0.9950639033972882	0.9482524934109045	5293713
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-3	run0	6515011	0.9228814844760653	0.9819083855558004	0.8678941881560353	5800412
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-4	run0	6047198	0.9852419365653736	0.9942288104805728	0.9428008270524161	5372621
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-5	run0	6212898	0.9864966597863197	0.9932505418894129	0.9452467915012821	5526683
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-1	run0	6509278	0.7061568514363034	0.7903662586685928	0.6730875060644204	5794359
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-2	run0	5947671	0.6904716741007222	0.7857433045686403	0.6727022704332036	5293713
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-3	run0	6515011	0.683374880913283	0.752206898447384	0.6904501076601166	5800412
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-4	run0	6047198	0.6970702066659266	0.7934938884045429	0.6680471978978636	5372621
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-5	run0	6212898	0.6743058462868408	0.7695433164747676	0.6663441847527043	5526683
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-1	run0	6509278	0.802805894612023	0.8888935938222844	0.750292302768689	5794359
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-2	run0	5947671	0.8978504851686803	0.9084829719883825	0.8915199916563246	5293713
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-3	run0	6515011	0.829185367318333	0.8654400281988147	0.8136641363127929	5800412
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-4	run0	6047198	0.9139344628409257	0.9151583341772268	0.8621543621638433	5372621
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-5	run0	6212898	0.8667829304101501	0.892158463614767	0.8586247868130613	5526683
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-1	run0	6509278	NA	NA	0	5794359
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-2	run0	5947671	NA	NA	0	5293713
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-3	run0	6515011	NA	NA	0	5800412
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-4	run0	6047198	NA	NA	0	5372621
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-5	run0	6212898	NA	NA	0	5526683
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-1	run0	6509278	NA	NA	0	5794359
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-2	run0	5947671	NA	NA	0	5293713
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-3	run0	6515011	NA	NA	0	5800412
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-4	run0	6047198	NA	NA	0	5372621
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-5	run0	6212898	NA	NA	0	5526683
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-1	run0	6509278	0.7754909287482371	0.7371547447418928	0.8160982960064996	5794359
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-2	run0	5947671	0.7628895037609341	0.7115281500696117	0.8903564185750855	5293713
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-3	run0	6515011	0.7897395852378025	0.7508309570108944	0.8543153231831565	5800412
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-4	run0	6047198	0.7878216050256867	0.7415109469227908	0.8967105085894653	5372621
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-5	run0	6212898	0.7813896537696061	0.7318633090137555	0.8898304738439675	5526683
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-1	run0	6509278	0.7918949962770098	0.7981391600658202	0.7780924723743416	5794359
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-2	run0	5947671	0.8107998848691345	0.8155694699618236	0.8198860859793956	5293713
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-3	run0	6515011	0.7995558948504636	0.8091660434260249	0.804893674428139	5800412
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-4	run0	6047198	0.8082417518878607	0.8250970018854048	0.8102056224750596	5372621
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-5	run0	6212898	0.8090307501118075	0.8173696097179398	0.8144286465164737	5526683
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-1	run0	6509278	0.016975595052790355	0.03691043705573283	0.0355362953236058	5794359
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-2	run0	5947671	0.01616486266514913	0.035723229417458764	0.035722718542081824	5293713
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-3	run0	6515011	0.016122267725439687	0.035681868584961786	0.03590748540871302	5800412
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-4	run0	6047198	0.01615794513580676	0.03568582820325086	0.035292677262736466	5372621
+dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-5	run0	6212898	0.016099702150880642	0.035700378427248464	0.035299507819257704	5526683
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-1	run0	6946175	0.6085395693558031	0.7513483686038085	0.5386821099463562	6926231
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-2	run0	6965356	0.6965837381500998	0.8252436707267964	0.5566299499168631	6945752
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-3	run0	6875395	0.7351961969879909	0.823805605205539	0.57885305597127	6856433
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-4	run0	6817657	0.67870587275465	0.7817977358523827	0.5459027885608728	6798173
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-5	run0	6950589	0.6019449499988915	0.8175066634974915	0.4939011718306645	6930370
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-1	run0	6946175	0.3265827058473083	0.32893230219457037	0.5121284733532527	6926231
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-2	run0	6965356	0.3192631916605023	0.2872721482981484	0.48986080449534314	6945752
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-3	run0	6875395	0.30302735255326774	0.29167454683736493	0.5090853310502312	6856433
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-4	run0	6817657	0.3368379888318672	0.32457029089424816	0.5141041725959731	6798173
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-5	run0	6950589	0.29352529208840056	0.30733679620495524	0.48476237832573726	6930370
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-1	run0	6946175	0.6188022854293231	0.6141681400270471	0.560427175940266	6926231
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-2	run0	6965356	0.6486572033297457	0.7417734708360562	0.5170035107402793	6945752
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-3	run0	6875395	0.6206592177330197	0.6853415313790204	0.5365202169246257	6856433
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-4	run0	6817657	0.6514270307151816	0.7090104893261147	0.5638418908328541	6798173
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-5	run0	6950589	0.5816358414490672	0.6529712218651162	0.5102552588709245	6930370
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-1	run0	6946175	0.1484848087470391	0.2980067290269106	0.2930888164288647	6926231
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-2	run0	6965356	0.21957997594805628	0.22909709128961162	0.3259588191465499	6945752
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-3	run0	6875395	0.2395250515282184	0.297541604301727	0.32438942464018206	6856433
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-4	run0	6817657	0.16701842212712648	0.2343704196747247	0.2824489315449574	6798173
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-5	run0	6950589	0.17120269744548466	0.22152958324030142	0.29060074465588787	6930370
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-1	run0	6946175	0.21709574492842698	0.21773556665082586	0.2128989668425475	6926231
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-2	run0	6965356	0.20354874505773532	0.23561839756116487	0.17556743667253533	6945752
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-3	run0	6875395	0.1785140673516735	0.21767235094246246	0.21528757800927073	6856433
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-4	run0	6817657	0.1605157470586263	0.2449635316519825	0.20115779452387583	6798173
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-5	run0	6950589	0.19455280056904212	0.22522595562817452	0.24844268763022992	6930370
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-1	run0	6946175	0.2872456188379852	0.28490161939208397	0.5444856006637064	6926231
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-2	run0	6965356	0.27153287037994134	0.28752453717377235	0.5047560547765373	6945752
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-3	run0	6875395	0.26306114025899574	0.30049563970813126	0.5074262886577778	6856433
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-4	run0	6817657	0.29655450130951644	0.2955999240360261	0.5556767113671564	6798173
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-5	run0	6950589	0.2597102384406014	0.2761642518641649	0.571916649854797	6930370
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-1	run0	6946175	0.38806186408168125	0.30573789440888705	0.31883656984000264	6926231
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-2	run0	6965356	0.43376512794210315	0.3940893250810621	0.2772908076989097	6945752
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-3	run0	6875395	0.28458714600989526	0.3065706640228666	0.2079487941475108	6856433
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-4	run0	6817657	0.35352637535756853	0.40475042927543364	0.33588594447996323	6798173
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-5	run0	6950589	0.33020493648394494	0.3209877634557283	0.3461008253176059	6930370
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-1	run0	6946175	0.024227633306161497	0.062448019987095975	0.05557074734454162	6926231
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-2	run0	6965356	0.02436905466609443	0.0626238153179717	0.055783357162437736	6945752
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-3	run0	6875395	0.02426958476421317	0.06240335000113413	0.05510885426692572	6856433
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-4	run0	6817657	0.02441895269007921	0.06255120035184521	0.055930485394371	6798173
+dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-5	run0	6950589	0.024507063540978025	0.06258715800557711	0.05717384448165647	6930370
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-1	run0	26635825	0.34231825135686794	0.4481891709577492	0.3403828340462687	19113078
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-2	run0	26719357	0.34736569607167067	0.4045789367653924	0.3104303923535107	19256396
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-3	run0	26944719	0.3398853373903134	0.43686257310109744	0.322295126750011	19385075
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-4	run0	26635825	0.36384978994147993	0.4392122800901206	0.3490882343108224	19077515
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-5	run0	26635825	0.30064273846602746	0.42181882000425464	0.2648235510164252	19105446
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-1	run0	26635825	0.32183510342739324	0.3246594715072187	0.36913822321511136	19113078
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-2	run0	26719357	0.2655443302139555	0.33255845582507626	0.34315155289335775	19256396
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-3	run0	26944719	0.31190109413306993	0.3341033482069242	0.3340951160360999	19385075
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-4	run0	26635825	0.26951428112753273	0.2901996910486647	0.3413297627992284	19077515
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-5	run0	26635825	0.24406329710976696	0.3234586352577172	0.3219721632839739	19105446
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-1	run0	26635825	0.3885741368149283	0.3874247422575998	0.34772722935064215	19113078
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-2	run0	26719357	0.38251481829260403	0.44802176063370924	0.34052012291909406	19256396
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-3	run0	26944719	0.3694139532008446	0.4554423107381561	0.3300854906356736	19385075
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-4	run0	26635825	0.3844813300233485	0.39783586355507405	0.3618975809100578	19077515
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-5	run0	26635825	0.35500823271401327	0.43010738796592507	0.31577139641568	19105446
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-1	run0	26635825	0.21136306761812146	0.3253447450611998	0.25005216776738193	19113078
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-2	run0	26719357	0.23188155538052319	0.35453857280071194	0.2762536117868194	19256396
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-3	run0	26944719	0.11407701963522858	0.35816616225187153	0.16096708272725135	19385075
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-4	run0	26635825	0.13879601249091894	0.26453184637788674	0.22895462004316045	19077515
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-5	run0	26635825	0.14230361812857595	0.20861646128886616	0.2519253309431583	19105446
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-1	run0	26635825	0.2315366221206614	0.24044912666438106	0.26156559737174573	19113078
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-2	run0	26719357	0.26423900870146044	0.33319505603073696	0.32132736686573954	19256396
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-3	run0	26944719	0.25571951453263353	0.3666145447387527	0.2933316433095552	19385075
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-4	run0	26635825	0.15092208921557695	0.1950653064911434	0.17462395098138483	19077515
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-5	run0	26635825	0.22075230521217243	0.2991065408956964	0.3033003553395523	19105446
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-1	run0	26635825	0.29880810835477567	0.3064132074005482	0.37320281382319076	19113078
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-2	run0	26719357	0.25190181833189307	0.3210880476535676	0.3143482057933528	19256396
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-3	run0	26944719	0.28115717970648035	0.2998129861796216	0.3408253532730427	19385075
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-4	run0	26635825	0.26193162665119624	0.28281113896939947	0.34550925871041327	19077515
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-5	run0	26635825	0.23202480340687348	0.3220929116118159	0.3674155556992798	19105446
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-1	run0	26635825	0.2919068352670995	0.3598537658528549	0.27206004041714427	19113078
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-2	run0	26719357	0.26469689451306916	0.35809601039616973	0.27958908776162156	19256396
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-3	run0	26944719	0.31824247642387754	0.3733434158358827	0.29397948815323605	19385075
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-4	run0	26635825	0.3367980535977241	0.3572990459442973	0.3041462130124576	19077515
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-5	run0	26635825	0.24908918907166153	0.33446285191631736	0.30130305327316065	19105446
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-1	run0	26635825	0.06747335839868591	0.09989361098351024	0.09079138918201153	19113078
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-2	run0	26719357	0.05795447076088181	0.09086286122950787	0.08966505486431223	19256396
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-3	run0	26944719	0.06745245589599355	0.10001940563329452	0.09085246661350316	19385075
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-4	run0	26635825	0.06603198718496989	0.09907351147944057	0.09008843703781541	19077515
+dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-5	run0	26635825	0.05817655987189519	0.09088210536396955	0.09015516361250797	19105446
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-1	run0	21044883	0.7973517541323988	0.9624922708990373	0.7905595101063417	2052086
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-2	run0	20254822	0.9632906477779588	0.9852854639210655	0.9461380269354773	1999862
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-3	run0	20817600	0.9514174392723351	0.9744556366076882	0.9334825286204058	2054127
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-4	run0	20273915	0.980473453903033	0.9770242168327228	0.9840346620855762	1998214
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cyanno	num-5	run0	20668387	0.9467876735441854	0.9609838721785071	0.9368460562181514	1989122
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-1	run0	21044883	0.6820346588107775	0.7983541661090625	0.72819079764702	2052086
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-2	run0	20254822	0.6746252960321029	0.789859296532675	0.7643038051994661	1999862
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-3	run0	20817600	0.7442941254945193	0.8096900415962741	0.8192634457699611	2054127
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-4	run0	20273915	0.6037278745703443	0.777980682636829	0.6646939838705601	1998214
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	cygate	num-5	run0	20668387	0.688844191860838	0.7729761342304994	0.8132633336695347	1989122
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-1	run0	21044883	0.8067716523919186	0.9566029610108305	0.7979049041297285	2052086
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-2	run0	20254822	0.9728118066581146	0.9640818410434179	0.9824061838104307	1999862
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-3	run0	20817600	0.9615889906991573	0.9780017848421739	0.947826262703875	2054127
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-4	run0	20273915	0.9793958801763418	0.9829223913490546	0.9760473202475104	1998214
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	dgcytof	num-5	run0	20668387	0.9667479241614011	0.9862241743797613	0.9509117142397677	1989122
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-1	run0	21044883	NA	NA	0	2052086
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-2	run0	20254822	NA	NA	0	1999862
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-3	run0	20817600	NA	NA	0	2054127
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-4	run0	20273915	NA	NA	0	1998214
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[E]	num-5	run0	20668387	NA	NA	0	1989122
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-1	run0	21044883	NA	NA	0	2052086
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-2	run0	20254822	NA	NA	0	1999862
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-3	run0	20817600	NA	NA	0	2054127
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-4	run0	20273915	NA	NA	0	1998214
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	gatemeclass[V]	num-5	run0	20668387	NA	NA	0	1989122
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-1	run0	21044883	0.9436125413784632	0.9251349952016646	0.9666523679602992	2052086
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-2	run0	20254822	0.871011985878245	0.8435995069665803	0.9759701026899774	1999862
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-3	run0	20817600	0.9326013325237839	0.9075395235571877	0.9736647800788052	2054127
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-4	run0	20273915	0.8750269374429938	0.8443268963242287	0.9780530418966361	1998214
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	knn	num-5	run0	20668387	0.9022646099354426	0.8710884624579286	0.9737251939148678	1989122
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-1	run0	21044883	0.8671606552545645	0.8435336229159546	0.9624381241437157	2052086
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-2	run0	20254822	0.9042925705773979	0.8752514904801764	0.9816301542938822	1999862
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-3	run0	20817600	0.9154869198688521	0.8876650163749961	0.9742844323159512	2054127
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-4	run0	20273915	0.9765012451742681	0.9753439600451742	0.977781770531147	1998214
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	lda	num-5	run0	20668387	0.9711237281961488	0.9642480821706974	0.9789480602947828	1989122
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-1	run0	21044883	0.15253895159860895	0.1999055845106325	0.19828551602833502	2052086
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-2	run0	20254822	0.15314650832070642	0.20002302256651178	0.2011759356806544	1999862
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-3	run0	20817600	0.1532359879943439	0.2003093101629893	0.19984087366235634	2054127
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-4	run0	20273915	0.1517463983768625	0.20000547428329535	0.19929281111417035	1998214
+dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150	random	num-5	run0	20668387	0.15264521941101133	0.19992170706263251	0.19830949538319723	1989122
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-1	run0	191351	0.9689340916836648	0.9785211170048373	0.9632341278150474	72463
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-2	run0	74276	0.988527257231663	0.9954485531808049	0.9823428011379383	31721
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-1	run0	191351	0.9064992061660587	0.9401938172368277	0.8922814902507048	72463
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-2	run0	74276	0.9263798449288034	0.9503971064301817	0.9162861213518635	31721
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-1	run0	191351	0.9435093572145553	0.9263530210484374	0.9685222658487617	72463
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-2	run0	74276	0.9846317940100652	0.9897693425766202	0.9798758207241322	31721
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-1	run0	191351	0.8061322144712779	0.8278376426330407	0.8784469885526642	72463
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-2	run0	74276	0.8183119327968715	0.7935143262523063	0.9057427300328039	31721
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-1	run0	191351	0.8410264441752549	0.8190737644027736	0.9162492919481962	72463
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-2	run0	74276	0.8083133756652866	0.838587322526952	0.8616605441309532	31721
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-1	run0	191351	0.8914856649043355	0.8686520239820666	0.937069021248047	72463
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-2	run0	74276	0.9214880756962076	0.9053648010038632	0.9523939883319169	31721
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-1	run0	191351	0.8909772194267898	0.8826268449471543	0.9192723187228629	72463
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-2	run0	74276	0.9219714543898582	0.923610764356541	0.9269036887527582	31721
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-1	run0	191351	0.04874366172297435	0.07208029772698112	0.07394867030138308	72463
+dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-2	run0	74276	0.049974073322742105	0.07060253866560436	0.06856855487225201	31721
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-1	run0	755903	0.9666912012372976	0.9852581036992452	0.9136295043279133	462641
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-2	run0	760931	0.9724357746270968	0.9875848314721788	0.9204718446298136	463260
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-3	run0	757088	0.9713814665396443	0.9822828620686642	0.9232369982218692	459538
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-4	run0	758138	0.9703555747606651	0.9866383870198657	0.9180509689033686	461932
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cyanno	num-5	run0	764362	0.9731007434592598	0.9893208923749086	0.9203850456376393	468547
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-1	run0	755903	0.850205339929668	0.9221685517207278	0.8262570385929345	462641
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-2	run0	760931	0.8399480053746752	0.8955286245417581	0.823451963735697	463260
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-3	run0	757088	0.8556291061356818	0.8849705601634404	0.7948950763724499	459538
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-4	run0	758138	0.829617370124331	0.8755280062407627	0.808021156239259	461932
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	cygate	num-5	run0	764362	0.8665397594643423	0.8653713766244593	0.8095487658600531	468547
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-1	run0	755903	0.944370403986006	0.9491493655479223	0.9402447487646469	462641
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-2	run0	760931	0.932443255328828	0.9435739557925177	0.9286850107944886	463260
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-3	run0	757088	0.9700675035386318	0.9811543481394607	0.9236338020253827	459538
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-4	run0	758138	0.9402889634533276	0.9533365268366919	0.9345609263743163	461932
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	dgcytof	num-5	run0	764362	0.9763983551459883	0.9378227033751991	0.9339411904616947	468547
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-1	run0	755903	0.7672500181186369	0.8022230022422562	0.7758379861949113	462641
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-2	run0	760931	0.7982485315339373	0.7999707809427482	0.7766734122670113	463260
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-3	run0	757088	0.7919612929324746	0.8392220861647985	0.7649737775166865	459538
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-4	run0	758138	0.8008416299846598	0.8044185513696794	0.7718064548923724	461932
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[E]	num-5	run0	764362	0.7833939775837963	0.7933526719442835	0.7651518973293907	468547
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-1	run0	755903	0.7897122444768591	0.8031124399845422	0.7511289514670363	462641
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-2	run0	760931	0.7688187103874987	0.7593861011437025	0.7452321366069015	463260
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-3	run0	757088	0.7568743903477975	0.8220401896114672	0.7383480008910341	459538
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-4	run0	758138	0.7761920098218468	0.7851010133744403	0.7654493346425969	461932
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	gatemeclass[V]	num-5	run0	764362	0.7242523146772116	0.7768950378623506	0.7345535054307649	468547
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-1	run0	755903	0.8935705095286856	0.8721777900304083	0.9205117403917246	462641
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-2	run0	760931	0.8904857987624565	0.8720993519859513	0.9147520654074448	463260
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-3	run0	757088	0.8782169847275036	0.8686569972978875	0.9038557406386646	459538
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-4	run0	758138	0.9017834611003842	0.8852480674259183	0.9231048018611862	461932
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	knn	num-5	run0	764362	0.8815811542539049	0.8638516239011649	0.90679322075766855	468547
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-1	run0	755903	0.8665915271685384	0.871299295916077	0.8862189817078404	462641
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-2	run0	760931	0.8627626845705741	0.8720700024111757	0.8786702641093548	463260
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-3	run0	757088	0.8582823765749495	0.8654495063239654	0.8685384212314293	459538
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-4	run0	758138	0.8664713423826612	0.8741805790795377	0.8897287573173589	461932
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	lda	num-5	run0	764362	0.8994947080972863	0.8715562965697252	0.8707057593112694	468547
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-1	run0	755903	0.02567640135376455	0.04187051640995454	0.04363594892750424	462641
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-2	run0	760931	0.02504528628884085	0.04135902202908284	0.043210382650052066	463260
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-3	run0	757088	0.025289468642838427	0.041406903767762876	0.04072117466786174	459538
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-4	run0	758138	0.025421900753524698	0.041520775124585844	0.04236354908431972	461932
+dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5	random	num-5	run0	764362	0.02553784491712141	0.04183127897610625	0.04333571815875107	468547

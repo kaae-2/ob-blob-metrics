@@ -1,5 +1,5 @@
 {
-  "dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-50000": {
+  "dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-5000_transformation-cofactor-150": {
     "sample_count": 6,
     "sample_names": [
       "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
@@ -18,11 +18,12 @@
       248917
     ],
     "n_variables": 35,
-    "population_count": 6,
+    "population_count": 5,
     "platform": "fcm",
     "platforms": [
       "fcm"
     ],
+    "transformation_cofactor": 150,
     "shortnames": [
       "PBMC_fcm"
     ],
@@ -30,86 +31,11 @@
     "expected_abbreviations": [
       "PBMC_fcm"
     ],
-    "sub_sampling": 50000,
-    "dataset_name": "FR-FCM-Z2KP-healthy"
+    "dataset_name": "FR-FCM-Z2KP-healthy",
+    "sub_sampling": 5000,
+    "potential_batches": 1
   },
-  "dataset_name-Levine_seed-42": {
-    "sample_count": 2,
-    "sample_names": [
-      "Levine_32_H1_annotated.csv",
-      "Levine_32_H2_annotated.csv"
-    ],
-    "cells_per_sample": [
-      191351,
-      74276
-    ],
-    "n_variables": 32,
-    "population_count": 15,
-    "platform": "cytof",
-    "platforms": [
-      "cytof"
-    ],
-    "shortnames": [
-      "HumanBoneMarrow_cytof"
-    ],
-    "expected_abbreviation": "HumanBoneMarrow_cytof",
-    "expected_abbreviations": [
-      "HumanBoneMarrow_cytof"
-    ],
-    "sub_sampling": 0,
-    "dataset_name": "Levine"
-  },
-  "dataset_name-FR-FCM-Z3YR_seed-42": {
-    "sample_count": 14,
-    "sample_names": [
-      "181017_reference_tube_day1_03.csv",
-      "181017_reference_tube_day1_04.csv",
-      "181017_reference_tube_day1_05.csv",
-      "181017_reference_tube_day1_06.csv",
-      "181017_reference_tube_day1_08.csv",
-      "181017_reference_tube_day1_09.csv",
-      "181017_reference_tube_day1_12.csv",
-      "181024_reference_tube_day2_03.csv",
-      "181024_reference_tube_day2_10.csv",
-      "181025_reference_tube_day3_01.csv",
-      "181025_reference_tube_day3_07.csv",
-      "181025_reference_tube_day3_08.csv",
-      "181025_reference_tube_day3_09.csv",
-      "181025_reference_tube_day3_11.csv"
-    ],
-    "cells_per_sample": [
-      588541,
-      610528,
-      624009,
-      626506,
-      461485,
-      270426,
-      513293,
-      45480,
-      51213,
-      551284,
-      637962,
-      619351,
-      612820,
-      347593
-    ],
-    "n_variables": 34,
-    "population_count": 28,
-    "platform": "cytof",
-    "platforms": [
-      "cytof"
-    ],
-    "shortnames": [
-      "StimBlood_cytof"
-    ],
-    "expected_abbreviation": "StimBlood_cytof",
-    "expected_abbreviations": [
-      "StimBlood_cytof"
-    ],
-    "sub_sampling": 0,
-    "dataset_name": "FR-FCM-Z3YR"
-  },
-  "dataset_name-FlowCyt_seed-42": {
+  "dataset_name-FlowCyt_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150": {
     "sample_count": 30,
     "sample_names": [
       "Case_1.csv",
@@ -176,11 +102,12 @@
       507725
     ],
     "n_variables": 12,
-    "population_count": 6,
+    "population_count": 5,
     "platform": "fcm",
     "platforms": [
       "fcm"
     ],
+    "transformation_cofactor": 150,
     "shortnames": [
       "HumanBoneMarrow_fcm"
     ],
@@ -188,10 +115,85 @@
     "expected_abbreviations": [
       "HumanBoneMarrow_fcm"
     ],
+    "dataset_name": "FlowCyt",
     "sub_sampling": 0,
-    "dataset_name": "FlowCyt"
+    "potential_batches": 1
   },
-  "dataset_name-Samusik_seed-42": {
+  "dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-1000_transformation-cofactor-150": {
+    "sample_count": 6,
+    "sample_names": [
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
+    ],
+    "n_variables": 35,
+    "population_count": 5,
+    "platform": "fcm",
+    "platforms": [
+      "fcm"
+    ],
+    "transformation_cofactor": 150,
+    "shortnames": [
+      "PBMC_fcm"
+    ],
+    "expected_abbreviation": "PBMC_fcm",
+    "expected_abbreviations": [
+      "PBMC_fcm"
+    ],
+    "dataset_name": "FR-FCM-Z2KP-healthy",
+    "sub_sampling": 1000,
+    "potential_batches": 1
+  },
+  "dataset_name-15723074_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150": {
+    "sample_count": 7,
+    "sample_names": [
+      "donor1_annotated.csv",
+      "donor2_annotated.csv",
+      "donor3_annotated.csv",
+      "donor4_annotated.csv",
+      "donor5_annotated.csv",
+      "donor6_annotated.csv",
+      "donor7_annotated.csv"
+    ],
+    "cells_per_sample": [
+      117428,
+      138494,
+      98826,
+      84839,
+      56547,
+      64805,
+      164809
+    ],
+    "n_variables": 25,
+    "population_count": 8,
+    "platform": "fcm",
+    "platforms": [
+      "fcm"
+    ],
+    "transformation_cofactor": 150,
+    "shortnames": [
+      "SpectralFlowHealthyAdults_fcm"
+    ],
+    "expected_abbreviation": "SpectralFlowHealthyAdults_fcm",
+    "expected_abbreviations": [
+      "SpectralFlowHealthyAdults_fcm"
+    ],
+    "dataset_name": "15723074",
+    "sub_sampling": 0,
+    "potential_batches": 1
+  },
+  "dataset_name-Samusik_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5": {
     "sample_count": 10,
     "sample_names": [
       "01_annotated.csv",
@@ -218,11 +220,12 @@
       75513
     ],
     "n_variables": 39,
-    "population_count": 25,
+    "population_count": 24,
     "platform": "cytof",
     "platforms": [
       "cytof"
     ],
+    "transformation_cofactor": 5,
     "shortnames": [
       "MouseBoneMarrow_cytof"
     ],
@@ -230,10 +233,599 @@
     "expected_abbreviations": [
       "MouseBoneMarrow_cytof"
     ],
+    "dataset_name": "Samusik",
     "sub_sampling": 0,
-    "dataset_name": "Samusik"
+    "potential_batches": 1
   },
-  "dataset_name-FR-FCM-Z238_seed-42": {
+  "dataset_name-BodenmillerXL_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5": {
+    "sample_count": 16,
+    "sample_names": [
+      "patient1_BCR-XL_annotated.csv",
+      "patient1_Reference_annotated.csv",
+      "patient2_BCR-XL_annotated.csv",
+      "patient2_Reference_annotated.csv",
+      "patient3_BCR-XL_annotated.csv",
+      "patient3_Reference_annotated.csv",
+      "patient4_BCR-XL_annotated.csv",
+      "patient4_Reference_annotated.csv",
+      "patient5_BCR-XL_annotated.csv",
+      "patient5_Reference_annotated.csv",
+      "patient6_BCR-XL_annotated.csv",
+      "patient6_Reference_annotated.csv",
+      "patient7_BCR-XL_annotated.csv",
+      "patient7_Reference_annotated.csv",
+      "patient8_BCR-XL_annotated.csv",
+      "patient8_Reference_annotated.csv"
+    ],
+    "cells_per_sample": [
+      2838,
+      2739,
+      16675,
+      16725,
+      12252,
+      9434,
+      8990,
+      6906,
+      8543,
+      11962,
+      8622,
+      11038,
+      14770,
+      15974,
+      11653,
+      13670
+    ],
+    "n_variables": 24,
+    "population_count": 7,
+    "platform": "cytof",
+    "platforms": [
+      "cytof"
+    ],
+    "transformation_cofactor": 5,
+    "shortnames": [
+      "PBMC_cytof"
+    ],
+    "expected_abbreviation": "PBMC_cytof",
+    "expected_abbreviations": [
+      "PBMC_cytof"
+    ],
+    "dataset_name": "BodenmillerXL",
+    "sub_sampling": 0,
+    "potential_batches": 1
+  },
+  "dataset_name-FR-FCM-ZY34_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150": {
+    "sample_count": 45,
+    "sample_names": [
+      "facs_HD10_Patient10_annotated.csv",
+      "facs_HD11_Patient11_annotated.csv",
+      "facs_HD12_Patient12_annotated.csv",
+      "facs_HD13_Patient13_annotated.csv",
+      "facs_HD14_Patient14_annotated.csv",
+      "facs_HD1_Patient1_annotated.csv",
+      "facs_HD2_Patient2_annotated.csv",
+      "facs_HD3_Patient3_annotated.csv",
+      "facs_HD4_Patient4_annotated.csv",
+      "facs_HD5_Patient5_annotated.csv",
+      "facs_HD6_Patient6_annotated.csv",
+      "facs_HD7_Patient7_annotated.csv",
+      "facs_HD8_Patient8_annotated.csv",
+      "facs_HD9_Patient9_annotated.csv",
+      "facs_NR10_Patient24_annotated.csv",
+      "facs_NR11_Patient25_annotated.csv",
+      "facs_NR12_Patient26_annotated.csv",
+      "facs_NR13_Patient27_annotated.csv",
+      "facs_NR14_Patient28_annotated.csv",
+      "facs_NR15_Patient29_annotated.csv",
+      "facs_NR1_Patient15_annotated.csv",
+      "facs_NR2_Patient16_annotated.csv",
+      "facs_NR3_Patient17_annotated.csv",
+      "facs_NR4_Patient18_annotated.csv",
+      "facs_NR5_Patient19_annotated.csv",
+      "facs_NR6_Patient20_annotated.csv",
+      "facs_NR7_Patient21_annotated.csv",
+      "facs_NR8_Patient22_annotated.csv",
+      "facs_NR9_Patient23_annotated.csv",
+      "facs_R10_Patient39_annotated.csv",
+      "facs_R11_Patient40_annotated.csv",
+      "facs_R12_Patient41_annotated.csv",
+      "facs_R13_Patient42_annotated.csv",
+      "facs_R14_Patient43_annotated.csv",
+      "facs_R15_Patient44_annotated.csv",
+      "facs_R16_Patient45_annotated.csv",
+      "facs_R1_Patient30_annotated.csv",
+      "facs_R2_Patient31_annotated.csv",
+      "facs_R3_Patient32_annotated.csv",
+      "facs_R4_Patient33_annotated.csv",
+      "facs_R5_Patient34_annotated.csv",
+      "facs_R6_Patient35_annotated.csv",
+      "facs_R7_Patient36_annotated.csv",
+      "facs_R8_Patient37_annotated.csv",
+      "facs_R9_Patient38_annotated.csv"
+    ],
+    "cells_per_sample": [
+      128893,
+      129364,
+      110788,
+      116753,
+      119869,
+      129987,
+      255849,
+      125656,
+      120408,
+      124241,
+      246945,
+      245907,
+      140789,
+      139419,
+      141698,
+      127320,
+      193287,
+      283461,
+      118427,
+      259951,
+      138307,
+      99246,
+      149622,
+      114013,
+      236693,
+      176957,
+      118621,
+      142410,
+      141864,
+      106214,
+      112239,
+      325579,
+      230023,
+      107515,
+      110393,
+      106530,
+      189207,
+      230598,
+      116619,
+      116200,
+      249329,
+      120060,
+      115414,
+      139700,
+      112237
+    ],
+    "n_variables": 11,
+    "population_count": 18,
+    "platform": "fcm",
+    "platforms": [
+      "fcm"
+    ],
+    "transformation_cofactor": 150,
+    "shortnames": [
+      "KriegFACS_fcm"
+    ],
+    "expected_abbreviation": "KriegFACS_fcm",
+    "expected_abbreviations": [
+      "KriegFACS_fcm"
+    ],
+    "dataset_name": "FR-FCM-ZY34",
+    "sub_sampling": 0,
+    "potential_batches": 1
+  },
+  "dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-50000_transformation-cofactor-150": {
+    "sample_count": 6,
+    "sample_names": [
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
+    ],
+    "n_variables": 35,
+    "population_count": 5,
+    "platform": "fcm",
+    "platforms": [
+      "fcm"
+    ],
+    "transformation_cofactor": 150,
+    "shortnames": [
+      "PBMC_fcm"
+    ],
+    "expected_abbreviation": "PBMC_fcm",
+    "expected_abbreviations": [
+      "PBMC_fcm"
+    ],
+    "dataset_name": "FR-FCM-Z2KP-healthy",
+    "sub_sampling": 50000,
+    "potential_batches": 1
+  },
+  "dataset_name-Levine_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5": {
+    "sample_count": 2,
+    "sample_names": [
+      "Levine_32_H1_annotated.csv",
+      "Levine_32_H2_annotated.csv"
+    ],
+    "cells_per_sample": [
+      191351,
+      74276
+    ],
+    "n_variables": 32,
+    "population_count": 14,
+    "platform": "cytof",
+    "platforms": [
+      "cytof"
+    ],
+    "transformation_cofactor": 5,
+    "shortnames": [
+      "HumanBoneMarrow_cytof"
+    ],
+    "expected_abbreviation": "HumanBoneMarrow_cytof",
+    "expected_abbreviations": [
+      "HumanBoneMarrow_cytof"
+    ],
+    "dataset_name": "Levine",
+    "sub_sampling": 0,
+    "potential_batches": 1
+  },
+  "dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150": {
+    "sample_count": 6,
+    "sample_names": [
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
+    ],
+    "n_variables": 35,
+    "population_count": 5,
+    "platform": "fcm",
+    "platforms": [
+      "fcm"
+    ],
+    "transformation_cofactor": 150,
+    "shortnames": [
+      "PBMC_fcm"
+    ],
+    "expected_abbreviation": "PBMC_fcm",
+    "expected_abbreviations": [
+      "PBMC_fcm"
+    ],
+    "dataset_name": "FR-FCM-Z2KP-healthy",
+    "sub_sampling": 0,
+    "potential_batches": 1
+  },
+  "dataset_name-FR-FCM-ZYVT_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150": {
+    "sample_count": 72,
+    "sample_names": [
+      "Bln001.30_annotated.csv",
+      "Bln004.30_annotated.csv",
+      "Bln005.30_annotated.csv",
+      "Bln006.30_annotated.csv",
+      "Bln007.30_annotated.csv",
+      "Bln008.30_annotated.csv",
+      "Bln009.30_annotated.csv",
+      "Bln010.30_annotated.csv",
+      "Bln013.30_annotated.csv",
+      "Bln017.30_annotated.csv",
+      "Bln018.30_annotated.csv",
+      "Bln019.30_annotated.csv",
+      "Bln020.30_annotated.csv",
+      "Bln022.30_annotated.csv",
+      "Bln023.30_annotated.csv",
+      "Bln024.30_annotated.csv",
+      "Bln025.30_annotated.csv",
+      "Bln027.30_annotated.csv",
+      "Bln028.30_annotated.csv",
+      "Bln029.30_annotated.csv",
+      "Bln030.30_annotated.csv",
+      "Bln031.30_annotated.csv",
+      "Bln032.30_annotated.csv",
+      "Bln033.30_annotated.csv",
+      "Bln034.30_annotated.csv",
+      "Bln035.30_annotated.csv",
+      "Bln036.30_annotated.csv",
+      "Bln037.30_annotated.csv",
+      "Bln038.30_annotated.csv",
+      "Bln039.30_annotated.csv",
+      "Bln040.30_annotated.csv",
+      "Bln041.30_annotated.csv",
+      "Bln042.30_annotated.csv",
+      "Bln043.30_annotated.csv",
+      "Bln044.30_annotated.csv",
+      "Bln045.30_annotated.csv",
+      "Bln046.30_annotated.csv",
+      "Bln047.30_annotated.csv",
+      "Bln049.30_annotated.csv",
+      "Bln050.30_annotated.csv",
+      "Bln051.30_annotated.csv",
+      "Bln052.30_annotated.csv",
+      "Bln053.30_annotated.csv",
+      "Bln054.30_annotated.csv",
+      "Bln056.30_annotated.csv",
+      "Bln057.30_annotated.csv",
+      "Bln058.30_annotated.csv",
+      "Bln059.30_annotated.csv",
+      "Bln060.30_annotated.csv",
+      "Bln061.30_annotated.csv",
+      "Bln062.30_annotated.csv",
+      "Bln064.30_annotated.csv",
+      "Bln065.30_annotated.csv",
+      "Bln066.30_annotated.csv",
+      "Bln067.30_annotated.csv",
+      "Bln068.30_annotated.csv",
+      "Bln070.30_annotated.csv",
+      "Bln071.30_annotated.csv",
+      "Bln072.30_annotated.csv",
+      "Bln075.30_annotated.csv",
+      "Bln076.30_annotated.csv",
+      "Bln077.30_annotated.csv",
+      "Bln079.30_annotated.csv",
+      "Bln080.30_annotated.csv",
+      "Bln081.30_annotated.csv",
+      "Bln082.30_annotated.csv",
+      "Bln083.30_annotated.csv",
+      "Bln084.30_annotated.csv",
+      "Bln085.30_annotated.csv",
+      "Bln086.30_annotated.csv",
+      "Bln087.30_annotated.csv",
+      "Bln089.30_annotated.csv"
+    ],
+    "cells_per_sample": [
+      45203,
+      117626,
+      51268,
+      300000,
+      500000,
+      68228,
+      221859,
+      500000,
+      500000,
+      352446,
+      235971,
+      338015,
+      247614,
+      448211,
+      500000,
+      500000,
+      500000,
+      112323,
+      416468,
+      500000,
+      500000,
+      346363,
+      255929,
+      166889,
+      500000,
+      384280,
+      500000,
+      500000,
+      481406,
+      500000,
+      191106,
+      231251,
+      500000,
+      500000,
+      338514,
+      153851,
+      500000,
+      480545,
+      203837,
+      378966,
+      184942,
+      312029,
+      193579,
+      362356,
+      500000,
+      500000,
+      500000,
+      439134,
+      371097,
+      500000,
+      473139,
+      425155,
+      280437,
+      382924,
+      381311,
+      369184,
+      500000,
+      202991,
+      500000,
+      500000,
+      292145,
+      500000,
+      500000,
+      460079,
+      340795,
+      500000,
+      440390,
+      500000,
+      301449,
+      479952,
+      486368,
+      388200
+    ],
+    "n_variables": 8,
+    "population_count": 11,
+    "platform": "fcm",
+    "platforms": [
+      "fcm"
+    ],
+    "transformation_cofactor": 150,
+    "shortnames": [
+      "PediatricBALL_fcm"
+    ],
+    "expected_abbreviation": "PediatricBALL_fcm",
+    "expected_abbreviations": [
+      "PediatricBALL_fcm"
+    ],
+    "dataset_name": "FR-FCM-ZYVT",
+    "sub_sampling": 0,
+    "potential_batches": 1
+  },
+  "dataset_name-FR-FCM-Z2KP-covid_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-150": {
+    "sample_count": 19,
+    "sample_names": [
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_014_A_ST3_210420_073_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_023_A_ST3_210420_064_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_027_A_ST3_210420_061_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_029_A_ST3_210420_059_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_036_A_ST3_210420_053_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_045_A_ST3_210420_045_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_changedW_002_O_ST3_210420_043_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_changedW_036_O_ST3_210420_035_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_W_033_O_ST3_210420_036_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_W_042_O_ST3_210420_032_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_W_043_O_ST3_210420_031_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_010_O_ST3_230420_033_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_014_O_ST3_230420_029_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_017_O_ST3_230420_026_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_018_O_ST3_230420_025_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_020_O_ST3_230420_007_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_022_O_ST3_230420_006_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_046_O_ST3_230420_011_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_048_O_ST3_230420_010_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      170075,
+      139037,
+      329393,
+      185298,
+      271522,
+      163885,
+      173816,
+      137169,
+      365508,
+      235332,
+      245734,
+      155175,
+      98608,
+      186246,
+      337833,
+      266928,
+      193497,
+      123154,
+      364473
+    ],
+    "n_variables": 35,
+    "population_count": 5,
+    "platform": "fcm",
+    "platforms": [
+      "fcm"
+    ],
+    "transformation_cofactor": 150,
+    "shortnames": [
+      "covidPBMC_fcm"
+    ],
+    "expected_abbreviation": "covidPBMC_fcm",
+    "expected_abbreviations": [
+      "covidPBMC_fcm"
+    ],
+    "dataset_name": "FR-FCM-Z2KP-covid",
+    "sub_sampling": 0,
+    "potential_batches": 1
+  },
+  "dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-100000_transformation-cofactor-150": {
+    "sample_count": 6,
+    "sample_names": [
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
+      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
+    ],
+    "cells_per_sample": [
+      315187,
+      363314,
+      311492,
+      183001,
+      298047,
+      248917
+    ],
+    "n_variables": 35,
+    "population_count": 5,
+    "platform": "fcm",
+    "platforms": [
+      "fcm"
+    ],
+    "transformation_cofactor": 150,
+    "shortnames": [
+      "PBMC_fcm"
+    ],
+    "expected_abbreviation": "PBMC_fcm",
+    "expected_abbreviations": [
+      "PBMC_fcm"
+    ],
+    "dataset_name": "FR-FCM-Z2KP-healthy",
+    "sub_sampling": 100000,
+    "potential_batches": 1
+  },
+  "dataset_name-FR-FCM-Z3YR_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5": {
+    "sample_count": 14,
+    "sample_names": [
+      "181017_reference_tube_day1_03.csv",
+      "181017_reference_tube_day1_04.csv",
+      "181017_reference_tube_day1_05.csv",
+      "181017_reference_tube_day1_06.csv",
+      "181017_reference_tube_day1_08.csv",
+      "181017_reference_tube_day1_09.csv",
+      "181017_reference_tube_day1_12.csv",
+      "181024_reference_tube_day2_03.csv",
+      "181024_reference_tube_day2_10.csv",
+      "181025_reference_tube_day3_01.csv",
+      "181025_reference_tube_day3_07.csv",
+      "181025_reference_tube_day3_08.csv",
+      "181025_reference_tube_day3_09.csv",
+      "181025_reference_tube_day3_11.csv"
+    ],
+    "cells_per_sample": [
+      588541,
+      610528,
+      624009,
+      626506,
+      461485,
+      270426,
+      513293,
+      45480,
+      51213,
+      551284,
+      637962,
+      619351,
+      612820,
+      347593
+    ],
+    "n_variables": 34,
+    "population_count": 28,
+    "platform": "cytof",
+    "platforms": [
+      "cytof"
+    ],
+    "transformation_cofactor": 5,
+    "shortnames": [
+      "StimBlood_cytof"
+    ],
+    "expected_abbreviation": "StimBlood_cytof",
+    "expected_abbreviations": [
+      "StimBlood_cytof"
+    ],
+    "dataset_name": "FR-FCM-Z3YR",
+    "sub_sampling": 0,
+    "potential_batches": 1
+  },
+  "dataset_name-FR-FCM-Z238_name-data_import.data_raw_potential-batches-1_seed-42_transformation-cofactor-5": {
     "sample_count": 43,
     "sample_names": [
       "FR-FCM-Z238_160406_EHA001_1758_1_Patients_Acute.csv",
@@ -326,11 +918,12 @@
       69315
     ],
     "n_variables": 48,
-    "population_count": 25,
+    "population_count": 23,
     "platform": "cytof",
     "platforms": [
       "cytof"
     ],
+    "transformation_cofactor": 5,
     "shortnames": [
       "ChikVirusPBMC_cytof"
     ],
@@ -338,10 +931,11 @@
     "expected_abbreviations": [
       "ChikVirusPBMC_cytof"
     ],
+    "dataset_name": "FR-FCM-Z238",
     "sub_sampling": 0,
-    "dataset_name": "FR-FCM-Z238"
+    "potential_batches": 1
   },
-  "dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-5000": {
+  "dataset_name-FR-FCM-Z2KP-healthy_name-data_import.data_raw_potential-batches-1_seed-420_sub-sampling-10000_transformation-cofactor-150": {
     "sample_count": 6,
     "sample_names": [
       "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
@@ -360,11 +954,12 @@
       248917
     ],
     "n_variables": 35,
-    "population_count": 6,
+    "population_count": 5,
     "platform": "fcm",
     "platforms": [
       "fcm"
     ],
+    "transformation_cofactor": 150,
     "shortnames": [
       "PBMC_fcm"
     ],
@@ -372,257 +967,8 @@
     "expected_abbreviations": [
       "PBMC_fcm"
     ],
-    "sub_sampling": 5000,
-    "dataset_name": "FR-FCM-Z2KP-healthy"
-  },
-  "dataset_name-FR-FCM-Z2KP-healthy_seed-42": {
-    "sample_count": 6,
-    "sample_names": [
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
-    ],
-    "cells_per_sample": [
-      315187,
-      363314,
-      311492,
-      183001,
-      298047,
-      248917
-    ],
-    "n_variables": 35,
-    "population_count": 6,
-    "platform": "fcm",
-    "platforms": [
-      "fcm"
-    ],
-    "shortnames": [
-      "PBMC_fcm"
-    ],
-    "expected_abbreviation": "PBMC_fcm",
-    "expected_abbreviations": [
-      "PBMC_fcm"
-    ],
-    "sub_sampling": 0,
-    "dataset_name": "FR-FCM-Z2KP-healthy"
-  },
-  "dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-10000": {
-    "sample_count": 6,
-    "sample_names": [
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
-    ],
-    "cells_per_sample": [
-      315187,
-      363314,
-      311492,
-      183001,
-      298047,
-      248917
-    ],
-    "n_variables": 35,
-    "population_count": 6,
-    "platform": "fcm",
-    "platforms": [
-      "fcm"
-    ],
-    "shortnames": [
-      "PBMC_fcm"
-    ],
-    "expected_abbreviation": "PBMC_fcm",
-    "expected_abbreviations": [
-      "PBMC_fcm"
-    ],
+    "dataset_name": "FR-FCM-Z2KP-healthy",
     "sub_sampling": 10000,
-    "dataset_name": "FR-FCM-Z2KP-healthy"
-  },
-  "dataset_name-FR-FCM-Z2KP-covid_seed-42": {
-    "sample_count": 19,
-    "sample_names": [
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_014_A_ST3_210420_073_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_023_A_ST3_210420_064_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_027_A_ST3_210420_061_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_029_A_ST3_210420_059_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_036_A_ST3_210420_053_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_045_A_ST3_210420_045_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_changedW_002_O_ST3_210420_043_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_ICU_changedW_036_O_ST3_210420_035_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_W_033_O_ST3_210420_036_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_W_042_O_ST3_210420_032_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_21_04_20_ST3_COVID19_W_043_O_ST3_210420_031_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_010_O_ST3_230420_033_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_014_O_ST3_230420_029_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_017_O_ST3_230420_026_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_018_O_ST3_230420_025_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_020_O_ST3_230420_007_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_022_O_ST3_230420_006_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_046_O_ST3_230420_011_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Virus_23_04_20_ST3_COVID19_W_048_O_ST3_230420_010_Live_cells_annotated.csv"
-    ],
-    "cells_per_sample": [
-      170075,
-      139037,
-      329393,
-      185298,
-      271522,
-      163885,
-      173816,
-      137169,
-      365508,
-      235332,
-      245734,
-      155175,
-      98608,
-      186246,
-      337833,
-      266928,
-      193497,
-      123154,
-      364473
-    ],
-    "n_variables": 35,
-    "population_count": 6,
-    "platform": "fcm",
-    "platforms": [
-      "fcm"
-    ],
-    "shortnames": [
-      "covidPBMC_fcm"
-    ],
-    "expected_abbreviation": "covidPBMC_fcm",
-    "expected_abbreviations": [
-      "covidPBMC_fcm"
-    ],
-    "sub_sampling": 0,
-    "dataset_name": "FR-FCM-Z2KP-covid"
-  },
-  "dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-100000": {
-    "sample_count": 6,
-    "sample_names": [
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
-    ],
-    "cells_per_sample": [
-      315187,
-      363314,
-      311492,
-      183001,
-      298047,
-      248917
-    ],
-    "n_variables": 35,
-    "population_count": 6,
-    "platform": "fcm",
-    "platforms": [
-      "fcm"
-    ],
-    "shortnames": [
-      "PBMC_fcm"
-    ],
-    "expected_abbreviation": "PBMC_fcm",
-    "expected_abbreviations": [
-      "PBMC_fcm"
-    ],
-    "sub_sampling": 100000,
-    "dataset_name": "FR-FCM-Z2KP-healthy"
-  },
-  "dataset_name-FR-FCM-Z2KP-healthy_seed-420_sub-sampling-1000": {
-    "sample_count": 6,
-    "sample_names": [
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_001_ST3_230420_017_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_005_ST3_230420_016_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_006_ST3_230420_015_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_007_ST3_230420_014_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_008_ST3_230420_013_Live_cells_annotated.csv",
-      "FR-FCM-Z2KP_Healthy_23_04_20_ST3_COVID19_HC_009_ST3_230420_012_Live_cells_annotated.csv"
-    ],
-    "cells_per_sample": [
-      315187,
-      363314,
-      311492,
-      183001,
-      298047,
-      248917
-    ],
-    "n_variables": 35,
-    "population_count": 6,
-    "platform": "fcm",
-    "platforms": [
-      "fcm"
-    ],
-    "shortnames": [
-      "PBMC_fcm"
-    ],
-    "expected_abbreviation": "PBMC_fcm",
-    "expected_abbreviations": [
-      "PBMC_fcm"
-    ],
-    "sub_sampling": 1000,
-    "dataset_name": "FR-FCM-Z2KP-healthy"
-  },
-  "dataset_name-BodenmillerXL_seed-42": {
-    "sample_count": 16,
-    "sample_names": [
-      "patient1_BCR-XL_annotated.csv",
-      "patient1_Reference_annotated.csv",
-      "patient2_BCR-XL_annotated.csv",
-      "patient2_Reference_annotated.csv",
-      "patient3_BCR-XL_annotated.csv",
-      "patient3_Reference_annotated.csv",
-      "patient4_BCR-XL_annotated.csv",
-      "patient4_Reference_annotated.csv",
-      "patient5_BCR-XL_annotated.csv",
-      "patient5_Reference_annotated.csv",
-      "patient6_BCR-XL_annotated.csv",
-      "patient6_Reference_annotated.csv",
-      "patient7_BCR-XL_annotated.csv",
-      "patient7_Reference_annotated.csv",
-      "patient8_BCR-XL_annotated.csv",
-      "patient8_Reference_annotated.csv"
-    ],
-    "cells_per_sample": [
-      2838,
-      2739,
-      16675,
-      16725,
-      12252,
-      9434,
-      8990,
-      6906,
-      8543,
-      11962,
-      8622,
-      11038,
-      14770,
-      15974,
-      11653,
-      13670
-    ],
-    "n_variables": 24,
-    "population_count": 8,
-    "platform": "cytof",
-    "platforms": [
-      "cytof"
-    ],
-    "shortnames": [
-      "PBMC_cytof"
-    ],
-    "expected_abbreviation": "PBMC_cytof",
-    "expected_abbreviations": [
-      "PBMC_cytof"
-    ],
-    "sub_sampling": 0,
-    "dataset_name": "BodenmillerXL"
+    "potential_batches": 1
   }
 }

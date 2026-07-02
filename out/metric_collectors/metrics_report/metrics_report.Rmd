@@ -96,34 +96,42 @@ kable(dominant_fpr_table)
 
 ## Plots
 
-Note: Runtime scatter plots skipped because performances.tsv was not found.
-
 ```{r}
-knitr::include_graphics('plots/f1_macro_boxplot.png')
-```
-
-```{r}
-knitr::include_graphics('plots/f1_weighted_boxplot.png')
-```
-
-```{r}
-if (file.exists('plots/f1_macro_by_dataset_boxplot.png')) knitr::include_graphics('plots/f1_macro_by_dataset_boxplot.png')
-```
-
-```{r}
-if (file.exists('plots/samples_vs_f1_macro.png')) knitr::include_graphics('plots/samples_vs_f1_macro.png')
-```
-
-```{r}
-if (file.exists('plots/samples_vs_f1_weighted.png')) knitr::include_graphics('plots/samples_vs_f1_weighted.png')
-```
-
-```{r}
-if (file.exists('plots/samples_vs_runtime.png')) knitr::include_graphics('plots/samples_vs_runtime.png')
-```
-
-```{r}
-if (file.exists('plots/pop_freq_corr_vs_f1_macro.png')) knitr::include_graphics('plots/pop_freq_corr_vs_f1_macro.png')
+plot_files <- c(
+  'plots/fig1_heatmap-boxplot.png',
+  'plots/fig2_full_SpectralFlowHealthyAdults_fcm.png',
+  'plots/fig2_extremes_SpectralFlowHealthyAdults_fcm.png',
+  'plots/fig2_full_PBMC_cytof.png',
+  'plots/fig2_extremes_PBMC_cytof.png',
+  'plots/fig2_full_HumanBoneMarrow_fcm.png',
+  'plots/fig2_extremes_HumanBoneMarrow_fcm.png',
+  'plots/fig2_full_ChikVirusPBMC_cytof.png',
+  'plots/fig2_extremes_ChikVirusPBMC_cytof.png',
+  'plots/fig2_full_covidPBMC_fcm.png',
+  'plots/fig2_extremes_covidPBMC_fcm.png',
+  'plots/fig2_full_PBMC_fcm.png',
+  'plots/fig2_extremes_PBMC_fcm.png',
+  'plots/fig2_full_StimBlood_cytof.png',
+  'plots/fig2_extremes_StimBlood_cytof.png',
+  'plots/fig2_full_KriegFACS_fcm.png',
+  'plots/fig2_extremes_KriegFACS_fcm.png',
+  'plots/fig2_full_PediatricBALL_fcm.png',
+  'plots/fig2_extremes_PediatricBALL_fcm.png',
+  'plots/fig2_full_HumanBoneMarrow_cytof.png',
+  'plots/fig2_extremes_HumanBoneMarrow_cytof.png',
+  'plots/fig2_full_MouseBoneMarrow_cytof.png',
+  'plots/fig2_extremes_MouseBoneMarrow_cytof.png',
+  'plots/fig2_multipanel_a4.png',
+  'plots/fig2_a4_top5_refined.png',
+  'plots/fig3a_markers_pops.png',
+  'plots/fig3b_cells_trainsize.png',
+  'plots/fig3_3d_performance.png'
+)
+for (plot_file in plot_files) {
+  if (file.exists(plot_file)) {
+    knitr::include_graphics(plot_file)
+  }
+}
 ```
 
 ## Outputs
@@ -142,9 +150,7 @@ outputs <- data.frame(
     'rare_population_buckets.tsv',
     'dataset_context.tsv',
     'dominant_errors_fnr.tsv',
-    'dominant_errors_fpr.tsv',
-    'samples_vs_f1_macro.tsv',
-    'samples_vs_f1_weighted.tsv'
+    'dominant_errors_fpr.tsv'
   )
 )
 kable(outputs)
