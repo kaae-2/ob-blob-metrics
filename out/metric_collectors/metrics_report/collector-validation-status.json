@@ -1,0 +1,57 @@
+{
+  "status": "PASS",
+  "design_source": "supplied metric and metadata inputs",
+  "wrapped_alias_policy": "select lowest requested fold per effective key",
+  "counts": {
+    "requested": 1920,
+    "resolved_effective": 1848,
+    "effective": 1728,
+    "requested_models": 8,
+    "models": 8,
+    "datasets": 16,
+    "requested_groups": 384,
+    "requested_folds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "wrapped_aliases": 72,
+    "requested_by_status": {
+      "completed": 1800,
+      "not_run": 120
+    },
+    "effective_per_model": {
+      "cyanno": 231,
+      "cygate": 231,
+      "dgcytof": 231,
+      "gatemeclass[E]": 171,
+      "gatemeclass[V]": 171,
+      "knn": 231,
+      "lda": 231,
+      "random": 231
+    },
+    "stratifications": 3
+  },
+  "assertions": {
+    "requested_nonempty": true,
+    "effective_nonempty": true,
+    "effective_not_greater_than_requested": true,
+    "effective_models_are_requested": true,
+    "every_effective_model_has_rows": true,
+    "effective_stratifications_are_requested": true,
+    "requested_rows_resolved": true,
+    "not_run_rows_have_reasons": true,
+    "effective_keys_unique": true,
+    "metric_paths_unique": true
+  },
+  "outputs": {
+    "accepted_manifest": "accepted-manifest.jsonl",
+    "run_status": "run-status.tsv",
+    "model_wall_times": "model-wall-times.tsv",
+    "collector_validation": "collector-validation-status.json",
+    "metrics_report": "metrics_report.html",
+    "metric_plots": "metric_plots.tar.gz"
+  }
+}
