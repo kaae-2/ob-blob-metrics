@@ -22,6 +22,6 @@ Per-population F1 for `<1%` and `1-5%` test-support buckets, split by training r
 
 Only population observations represented in their fold's training reference are retained. This is an observation-level filter and never removes an entire fold because another population was absent.
 
-Accepted inputs: 1728 effective runs, 16 dataset parameterizations, 8 models, and 3 stratifications.
+Accepted inputs: 1959 effective runs, 16 dataset parameterizations, 9 models, and 3 stratifications.
 
 Each figure is saved as PDF, SVG, and 180 dpi PNG. Exact plotted data are in six source TSVs. Local assertions, dimensions, counts, input hashes, and output hashes are recorded in `validation-status.json`.
