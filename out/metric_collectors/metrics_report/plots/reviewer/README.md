@@ -4,7 +4,7 @@ These figures are generated directly from a collector output directory. Collecto
 
 ## Figures 1 and 2: Macro and support-weighted performance
 
-Arithmetic means across accepted effective folds for precision, F1, recall, and one-vs-rest balanced accuracy. Support-weighted recall equals overall accuracy.
+Arithmetic means across accepted effective folds for precision, known-population open-set F1, recall, and one-vs-rest balanced accuracy. Open-set F1 retains ungated truth cells as false-positive opportunities while averaging only known biological populations. Support-weighted recall equals overall accuracy.
 
 ## Figure 3: Model-rejection event rate
 
