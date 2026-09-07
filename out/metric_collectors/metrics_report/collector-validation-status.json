@@ -1,5 +1,6 @@
 {
   "status": "PASS",
+  "metric_semantics_version": "known-population-open-set-v1",
   "design_source": "supplied metric and metadata inputs",
   "wrapped_alias_policy": "select lowest requested fold per effective key",
   "counts": {
@@ -35,6 +36,8 @@
     "stratifications": 3
   },
   "assertions": {
+    "metric_semantics_version_valid": true,
+    "open_set_counts_and_scores_reconciled": true,
     "requested_nonempty": true,
     "effective_nonempty": true,
     "effective_not_greater_than_requested": true,

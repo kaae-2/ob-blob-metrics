@@ -4,7 +4,7 @@ These figures are generated directly from a collector output directory. Collecto
 
 ## Figures 1 and 2: Macro and support-weighted performance
 
-Arithmetic means across accepted effective folds for precision, known-population open-set F1, recall, and one-vs-rest balanced accuracy. Open-set F1 retains ungated truth cells as false-positive opportunities while averaging only known biological populations. Support-weighted recall equals overall accuracy.
+All classification scores use `known-population-open-set-v1`. Precision, F1, recall, and one-vs-rest balanced accuracy use all valid truth events, including ungated background. Macro averages include only truth-present biological populations; weighted averages use their biological truth support. Cells show arithmetic means across accepted effective folds with a defined score for that metric, retaining zero scores and returning NA if none are defined. Labels show n = metric-specific defined/completed folds and c = completed/expected folds; undefined scores do not remove completion credit. Source TSVs report defined_fold_count separately from completed_case_count and expected_effective_case_count. Support-weighted recall measures biological recovery and is not full-event accuracy, which also credits correctly rejected background.
 
 ## Figure 3: Model-rejection event rate
 
@@ -16,7 +16,7 @@ Accepted effective cases divided by all requested effective cases derived from r
 
 ## Figure 5: Rare-population F1
 
-Per-population F1 for `<1%` and `1-5%` test-support buckets, split by training representation. Every qualifying accepted observation is retained as a jittered point; diamonds mark medians, labels show `n`, and violins require at least three observations.
+Open-set per-population F1 for `<1%` and `1-5%` test-support buckets, split by training representation. Prevalence uses biological truth support, not the background-inclusive scoring denominator. Every qualifying accepted observation is retained as a jittered point; diamonds mark medians, labels show `n`, and violins require at least three observations.
 
 ## Figure 6: Represented-only sensitivity
 
