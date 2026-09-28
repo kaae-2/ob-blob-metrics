@@ -4,13 +4,13 @@
   "design_source": "supplied metric and metadata inputs",
   "wrapped_alias_policy": "select lowest requested fold per effective key",
   "counts": {
-    "requested": 1920,
-    "resolved_effective": 1848,
-    "effective": 1728,
+    "requested": 2160,
+    "resolved_effective": 2088,
+    "effective": 1968,
     "requested_models": 8,
     "models": 8,
-    "datasets": 16,
-    "requested_groups": 384,
+    "datasets": 18,
+    "requested_groups": 432,
     "requested_folds": [
       1,
       2,
@@ -20,18 +20,18 @@
     ],
     "wrapped_aliases": 72,
     "requested_by_status": {
-      "completed": 1800,
+      "completed": 2040,
       "not_run": 120
     },
     "effective_per_model": {
-      "cyanno": 231,
-      "cygate": 231,
-      "dgcytof": 231,
-      "gatemeclass[E]": 171,
-      "gatemeclass[V]": 171,
-      "knn": 231,
-      "lda": 231,
-      "random": 231
+      "cyanno": 261,
+      "cygate": 261,
+      "dgcytof": 261,
+      "gatemeclass[E]": 201,
+      "gatemeclass[V]": 201,
+      "knn": 261,
+      "lda": 261,
+      "random": 261
     },
     "stratifications": 3
   },
